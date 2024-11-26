@@ -378,10 +378,10 @@
 		<section class="sectwo padding-top">
 			<div class="container">
 				<div class="row align-items-center">
-					<div class="col-md-6" data-aos="fade-right" data-aos-duration="1500">
+					<div class="col-md-6" data-aos="fade-right" data-aos-duration="800">
 						<img src="assets/images/douglas/sectwo.png" alt="">
 					</div>
-					<div class="col-md-6" data-aos="fade-left" data-aos-duration="1500">
+					<div class="col-md-6" data-aos="fade-left" data-aos-duration="800">
 						<h4>
 							Committed to South
 							Louisiana Clients
@@ -408,13 +408,15 @@
 			<div class="container-fluid">
 				<div class="row align-items-center">
 					<div class="col-md-4 d-flex justify-content-center align-items-center position-relative">
-						<div class="text-overlay position-absolute text-white" data-aos="fade-down" data-aos-duration="1500">
+						<div class="text-overlay position-absolute text-white" data-aos="fade-down"
+							data-aos-duration="800">
 							<h4>THE RIGHT LEGAL SERVICES</h4>
 						</div>
 						<div class="background-img"></div>
 					</div>
 					<div class="col-md-4 d-flex justify-content-center align-items-center position-relative">
-						<div class="text-overlay-center position-absolute text-white text-center" data-aos="fade-top" data-aos-duration="1500">
+						<div class="text-overlay-center position-absolute text-white text-center" data-aos="fade-top"
+							data-aos-duration="800">
 							<h3>FOCUSED ON YOU</h3>
 							<p>Your goals are my goals. My office is here to serve you. I will give you the full range
 								of
@@ -424,7 +426,8 @@
 						<div class="background-img-center"></div>
 					</div>
 					<div class="col-md-4 d-flex justify-content-center align-items-center position-relative">
-						<div class="text-overlay position-absolute text-white" data-aos="fade-down" data-aos-duration="1500">
+						<div class="text-overlay position-absolute text-white" data-aos="fade-down"
+							data-aos-duration="800">
 							<h4>COST EFFECTIVE SOLUTIONS</h4>
 						</div>
 						<div class="background-img"></div>
@@ -467,8 +470,13 @@
 		<div class="rs-services services-main-home pt-120 pb-120 md-pt-80 md-pb-80">
 			<div class="container">
 				<div class="row">
+					<div class="col-md-12">
+						<h4 class="titlenew">Areas of Dedication and Focus</h4>
+					</div>
+				</div>
+				<div class="row">
 					<div class="col-lg-4 col-md-6 md-mb-30">
-						<div class="services-item" data-aos="fade-right" data-aos-duration="1500">
+						<div class="services-item" data-aos="fade-right" data-aos-duration="800">
 							<div class="services-wrap">
 								<div class="services-icon">
 									<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
@@ -486,7 +494,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 sm-mb-30">
-						<div class="services-item" data-aos="fade-down" data-aos-duration="1500">
+						<div class="services-item" data-aos="fade-down" data-aos-duration="800">
 							<div class="services-wrap">
 								<div class="services-icon">
 									<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
@@ -504,7 +512,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6">
-						<div class="services-item" data-aos="fade-left" data-aos-duration="1500">
+						<div class="services-item" data-aos="fade-left" data-aos-duration="800">
 							<div class="services-wrap">
 								<div class="services-icon">
 									<img class="main-img" src="assets/images/douglas/secfour-3.png" alt="Services">
@@ -531,7 +539,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-5">
-						<div class="secfiveleft" data-aos="fade-right" data-aos-duration="1500">
+						<div class="secfiveleft" data-aos="fade-right" data-aos-duration="800">
 							<h3>About To</h3>
 							<h4>DOUGLAS D. BROWN</h4>
 							<p><span>Personal Injury, Adultery Divorce, And Criminal Defense Lawyer</span></p>
@@ -555,9 +563,9 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="thumbnail_slider">
-							<h3 data-aos="fade-left" data-aos-duration="1500">Client's Appreciation</h3>
+							<h3 data-aos="fade-left" data-aos-duration="800">Client's Appreciation</h3>
 							<!-- Primary Slider Start-->
-							<div id="primary_slider" data-aos="fade-right" data-aos-duration="1500">
+							<div id="primary_slider" data-aos="fade-right" data-aos-duration="800">
 								<div class="splide__track">
 									<ul class="splide__list">
 										<li class="splide__slide">
@@ -670,7 +678,7 @@
 
 							<!-- Primary Slider End-->
 							<!-- Thumbnal Slider Start-->
-							<div id="thumbnail_slider" data-aos="fade-top" data-aos-duration="1500">
+							<div id="thumbnail_slider" data-aos="fade-top" data-aos-duration="800">
 								<div class="splide__track">
 									<ul class="splide__list">
 										<li class="splide__slide">
@@ -699,10 +707,10 @@
 		<section class="secseven">
 			<div class="container">
 				<div class="row align-items-center">
-					<div class="col-md-6" data-aos="fade-right" data-aos-duration="1500">
+					<div class="col-md-6" data-aos="fade-right" data-aos-duration="800">
 						<img src="assets/images/douglas/secseven-1.png" alt="">
 					</div>
-					<div class="col-md-6" data-aos="fade-left" data-aos-duration="1500">
+					<div class="col-md-6" data-aos="fade-left" data-aos-duration="800">
 						<h4>Ready to assist you in
 							resolving any legal
 							issues you may have.</h4>
@@ -734,7 +742,7 @@
 					data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false"
 					data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2"
 					data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="3"
-					data-md-device-nav="false" data-md-device-dots="true" data-aos="fade-down" data-aos-duration="1500">
+					data-md-device-nav="false" data-md-device-dots="true" data-aos="fade-down" data-aos-duration="800">
 					<div class="blog-item">
 						<div class="image-wrap">
 							<a href="#0"><img src="assets/images/douglas/blg-1.png" alt=""></a>

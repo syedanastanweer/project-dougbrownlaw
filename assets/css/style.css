@@ -7989,6 +7989,13 @@ Video CSS
   color: #000000;
 }
 
+.rs-services .titlenew {
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+  padding-bottom: 40px;
+}
+
 @media screen and (min-width:320px) and (max-width:520px) {
 
   .menunewright .lefts {
@@ -8169,5 +8176,12 @@ Video CSS
   .secfive .secfiveleft p span {
     color: #FF0000;
     font-size: 18px;
+  }
+
+  .rs-services .titlenew {
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+    padding-bottom: 0px;
   }
 }
