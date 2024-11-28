@@ -54,7 +54,7 @@
 	<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/@splidejs/splide@1.2.0/dist/css/splide.min.css'>
 
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
-	
+
 </head>
 
 <body class="defult-home">
@@ -65,8 +65,7 @@
 	<div id="pre-load">
 		<div id="loader" class="loader">
 			<div class="loader-container">
-				<div class="loader-icon"><img src="assets/images/fav.png"
-						alt="Solvency - Credit Repair & Finance Html Template "></div>
+				<div class="loader-icon"><img src="assets/images/fav.png" alt="Douglas D Brown"></div>
 			</div>
 		</div>
 	</div>
@@ -88,7 +87,7 @@
 						<div class="row-table">
 							<div class="col-cell header-logo">
 								<div class="logo-area">
-									<a href="index.html">
+									<a href="index">
 										<img class="normal-logo" src="assets/images/logo-dark.png" alt="logo">
 										<img class="sticky-logo" src="assets/images/logo-dark.png" alt="logo">
 									</a>
@@ -99,10 +98,10 @@
 									<div class="main-menu">
 										<nav class="rs-menu hidden-md">
 											<ul class="nav-menu">
-												<li><a href="https://localhost/company-projects/dougbrown/">Home</a></li>
-												<li><a href="#0">Practice Areas</a></li>
-												<li><a href="#0">Blogs</a></li>
-												<li><a href="about-us">About Us</a></li>
+												<li><a href="https://hoisolution.com/douglasdbrownlaw/">Home</a></li>
+												<li><a href="practice-areas">Practice Areas</a></li>
+												<li><a href="blog">Blogs</a></li>
+												<li><a href="about">About Us</a></li>
 											</ul> <!-- //.nav-menu -->
 										</nav>
 									</div> <!-- //.main-menu -->
@@ -120,7 +119,9 @@
 											</div>
 										</li>
 										<li class="rights">
-											<p>Book now<br>free Consultation</p>
+											<a href="contact">
+												<p>Book now<br>free Consultation</p>
+											</a>
 										</li>
 										<!-- <li class="sidebarmenu-search">
 											<a class="hidden-xs rs-search" data-bs-toggle="modal"
@@ -164,7 +165,7 @@
 					</div>
 					<div class="rs-offcanvas-inner">
 						<div class="canvas-logo">
-							<a href="index.html"><img src="assets/images/logo-dark.png" alt="logo"></a>
+							<a href="index"><img src="assets/images/logo-dark.png" alt="logo"></a>
 						</div>
 						<div class="offcanvas-text">
 							<p>Teknolab quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus,
@@ -222,10 +223,11 @@
 						</a>
 					</div>
 					<ul class="nav-menu">
-						<li><a href="#0">Home</a></li>
-						<li><a href="#0">Practice Areas</a></li>
-						<li><a href="#0">Blogs</a></li>
-						<li><a href="#0">About Us</a></li>
+						<li><a href="https://hoisolution.com/douglasdbrownlaw/">Home</a></li>
+						<li><a href="practice-areas">Practice Areas</a></li>
+						<li><a href="blog">Blogs</a></li>
+						<li><a href="about">About Us</a></li>
+						<li><a href="contact">Contact Us</a></li>
 					</ul> <!-- //.nav-menu -->
 					<!-- //.nav-menu -->
 
