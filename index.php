@@ -11,7 +11,7 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				<div>
+				<div class="hidden-sm">
 					<img src="assets/images/douglas/header-right.png" alt="">
 				</div>
 				<!-- <div class="hero-right">
@@ -298,7 +298,7 @@
 										<!-- Right side image -->
 										<div class="col-md-6">
 											<div class="image-wraper">
-												<img src="assets/images/douglas/secsix-1.png" alt="" class="bg-image">
+												<img src="assets/images/douglas/secsix-1.jpg" alt="" class="bg-image">
 												<a href="assets/videos/video1.mp4" class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
 												</a>
@@ -323,7 +323,7 @@
 										<!-- Right side image -->
 										<div class="col-md-6">
 											<div class="image-wraper">
-												<img src="assets/images/douglas/secsix-2.png" alt="" class="bg-image">
+												<img src="assets/images/douglas/secsix-2.jpg" alt="" class="bg-image">
 												<a href="assets/videos/video2.mp4" class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
 												</a>
@@ -347,7 +347,7 @@
 										<!-- Right side image -->
 										<div class="col-md-6">
 											<div class="image-wraper">
-												<img src="assets/images/douglas/secsix-3.png" alt="" class="bg-image">
+												<img src="assets/images/douglas/secsix-3.jpg" alt="" class="bg-image">
 												<a href="assets/videos/video3.mp4" class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
 												</a>
@@ -371,7 +371,7 @@
 										<!-- Right side image -->
 										<div class="col-md-6">
 											<div class="image-wraper">
-												<img src="assets/images/douglas/secsix-4.png" alt="" class="bg-image">
+												<img src="assets/images/douglas/secsix-1.jpg" alt="" class="bg-image">
 												<a href="assets/videos/video1.mp4" class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
 												</a>
@@ -389,17 +389,17 @@
 						<div class="splide__track">
 							<ul class="splide__list">
 								<li class="splide__slide">
-									<img src="assets/images/douglas/secsix-1.png" alt="">
+									<img src="assets/images/douglas/secsix-1.jpg" alt="">
 								</li>
 								<li class="splide__slide">
-									<img src="assets/images/douglas/secsix-2.png" alt="">
+									<img src="assets/images/douglas/secsix-2.jpg" alt="">
 								</li>
 								<li class="splide__slide">
-									<img src="assets/images/douglas/secsix-3.png" alt="">
+									<img src="assets/images/douglas/secsix-3.jpg" alt="">
 								</li>
 
 								<li class="splide__slide">
-									<img src="assets/images/douglas/secsix-4.png" alt="">
+									<img src="assets/images/douglas/secsix-1.jpg" alt="">
 								</li>
 							</ul>
 						</div>

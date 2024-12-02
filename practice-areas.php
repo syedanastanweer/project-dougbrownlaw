@@ -177,7 +177,7 @@
 <!-- Services Section End -->
 
 <!-- Testimonial Section Start -->
-<!-- <div id="rs-testimonial" class="rs-testimonial testimonial-style1 bg4 pt-120 pb-115 md-pt-80 md-pb-75">
+<div id="rs-testimonial" class="rs-testimonial testimonial-style1 bg4 pt-120 pb-115 md-pt-80 md-pb-75">
 	<div class="container">
 		<div class="sec-title mb-45" data-aos="fade-right" data-aos-duration="800">
 			<span class="sub-text text-white">Testimonial</span>
@@ -203,9 +203,9 @@
 							passport to the future credit repair.</p>
 					</div>
 					<div class="testi-content">
-						<div class="image-wrap">
+						<!-- <div class="image-wrap">
 							<img src="assets/images/testimonial/style1/1.jpg" alt="Images">
-						</div>
+						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Holing Tums</div>
 							<span class="designation">Developer</span>
@@ -224,9 +224,9 @@
 							passport to the future credit repair.</p>
 					</div>
 					<div class="testi-content">
-						<div class="image-wrap">
+						<!-- <div class="image-wrap">
 							<img src="assets/images/testimonial/style1/2.jpg" alt="Images">
-						</div>
+						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Nikoling Toli</div>
 							<span class="designation">Manager</span>
@@ -245,9 +245,9 @@
 							passport to the future credit repair.</p>
 					</div>
 					<div class="testi-content">
-						<div class="image-wrap">
+						<!-- <div class="image-wrap">
 							<img src="assets/images/testimonial/style1/3.jpg" alt="Images">
-						</div>
+						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Nicolas Puranix</div>
 							<span class="designation">Matrix Consulting</span>
@@ -266,9 +266,9 @@
 							passport to the future credit repair.</p>
 					</div>
 					<div class="testi-content">
-						<div class="image-wrap">
+						<!-- <div class="image-wrap">
 							<img src="assets/images/testimonial/style1/4.jpg" alt="Images">
-						</div>
+						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">John Brovo</div>
 							<span class="designation">Digital Marketer</span>
@@ -287,9 +287,9 @@
 							passport to the future credit repair.</p>
 					</div>
 					<div class="testi-content">
-						<div class="image-wrap">
+						<!-- <div class="image-wrap">
 							<img src="assets/images/testimonial/style1/1.jpg" alt="Images">
-						</div>
+						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Holing Tums</div>
 							<span class="designation">Developer</span>
@@ -308,9 +308,9 @@
 							passport to the future credit repair.</p>
 					</div>
 					<div class="testi-content">
-						<div class="image-wrap">
+						<!-- <div class="image-wrap">
 							<img src="assets/images/testimonial/style1/2.jpg" alt="Images">
-						</div>
+						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Nikoling Toli</div>
 							<span class="designation">Manager</span>
@@ -329,9 +329,9 @@
 							passport to the future credit repair.</p>
 					</div>
 					<div class="testi-content">
-						<div class="image-wrap">
+						<!-- <div class="image-wrap">
 							<img src="assets/images/testimonial/style1/3.jpg" alt="Images">
-						</div>
+						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Nicolas Puranix</div>
 							<span class="designation">Matrix Consulting</span>
@@ -341,7 +341,7 @@
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>
 <!-- Testimonial Section End -->
 <!-- Faq Start -->
 <div class="rs-faq faq-style1 pt-120 pb-120 md-pt-80 md-pb-80">

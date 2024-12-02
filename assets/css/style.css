@@ -5628,9 +5628,9 @@ Video CSS
   position: relative;
 }
 
-.rs-testimonial.testimonial-style1 .testi-item .testi-wrap .testi-content .testi-information {
+/* .rs-testimonial.testimonial-style1 .testi-item .testi-wrap .testi-content .testi-information {
   padding: 0 0 0 25px;
-}
+} */
 
 .rs-testimonial.testimonial-style1 .testi-item .testi-wrap .testi-content .testi-information .testi-name {
   font-size: 20px;
@@ -7222,7 +7222,7 @@ Video CSS
 
 .hero-section {
   position: relative;
-  height: 100vh;
+  height: 80vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -8054,6 +8054,22 @@ fieldset {
 /*  */
 
 @media screen and (min-width:320px) and (max-width:520px) {
+
+  .hidden-sm {
+    display: none;
+  }
+
+  .hero-section {
+    position: relative;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 80px 10px 0;
+    overflow: hidden;
+  }
 
   .full-width-header .rs-header .menu-area {
     position: fixed;
