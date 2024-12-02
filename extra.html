@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Popup with GLightbox</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
+  <style>
+    .image-wraper {
+      position: relative;
+    }
+
+    .bg-image {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .plyicon {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 10;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div id="primary_slider" class="container mt-5">
+    <div class="row">
+      <!-- Slide 1 -->
+      <div class="col-md-6 mb-4">
+        <h4>Linda Bogantes</h4>
+        <p>I've had a lot of experience with lawyers and he's clearly one of the absolute best. He treats his clients like people and has deep empathy for the cases he works.</p>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="image-wraper">
+          <img src="assets/images/douglas/secsix-1.png" alt="" class="bg-image">
+          <a href="assets/videos/video1.mp4" class="plyicon glightbox">
+            <img src="assets/images/douglas/play-icon.png" alt="Play Icon">
+          </a>
+        </div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="col-md-6 mb-4">
+        <h4>Linda Bogantes</h4>
+        <p>He's worth every penny and more. Don't waste your time shopping around; have a consult with him first.</p>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="image-wraper">
+          <img src="assets/images/douglas/secsix-2.png" alt="" class="bg-image">
+          <a href="assets/videos/video2.mp4" class="plyicon glightbox">
+            <img src="assets/images/douglas/play-icon.png" alt="Play Icon">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+  <script>
+    // Initialize GLightbox
+    const lightbox = GLightbox({
+      selector: '.glightbox',
+      type: 'video',
+      source: 'local',
+    });
+  </script>
+</body>
+</html>

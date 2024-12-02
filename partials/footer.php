@@ -76,7 +76,17 @@
 </div>
 <!-- Search Modal End -->
 <script src='https://cdn.jsdelivr.net/npm/@splidejs/splide@1.2.0/dist/js/splide.min.js'></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/glightbox.min.js"></script>
 
+<script>
+	// Initialize GLightbox
+	const lightbox = GLightbox({
+		selector: '.glightbox',
+		type: 'video',
+		source: 'local',
+	});
+</script>
 <script>
 	AOS.init({
 		duration: 1200,

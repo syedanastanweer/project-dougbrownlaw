@@ -2,7 +2,7 @@
 <!--Full width header End-->
 <section class="hero-section">
 	<div class="container">
-		<div class="row pt-150 sm-pt-40 align-items-center">
+		<div class="row pt-100 sm-pt-40 align-items-center">
 			<div class="col-md-6">
 				<div class="hero-left" data-aos="fade-right" data-aos-duration="1000">
 					<h4>South Louisiana</h4>
@@ -11,7 +11,10 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				<div class="hero-right">
+				<div>
+					<img src="assets/images/douglas/header-right.png" alt="">
+				</div>
+				<!-- <div class="hero-right">
 					<div class="header-lead-form" data-aos="fade-left" data-aos-duration="1000">
 						<div class="contact-title">
 							<h2>free case evaluation Join Us!</h2>
@@ -38,17 +41,6 @@
 											placeholder="Last Name" required="">
 									</div>
 								</div>
-								<!-- <div class="col-md-6">
-											<div class="input-group flex-nowrap">
-												<span class="input-group-text" id="addon-wrapping"><img
-														src="assets/images/douglas/icons/email-icon.svg"
-														alt="Hancock Publishers Email"
-														title="Hancock Publishers Email"></span>
-												<input type="email" name="email" pattern="[^ @]*@[^ @]*"
-													class="form-control" id="formemail1" aria-describedby="formemail1"
-													placeholder="Email" required="">
-											</div>
-										</div> -->
 							</div>
 							<div class="row">
 								<div class="col-md-12 gy-md-4">
@@ -94,7 +86,7 @@
 							</div>
 						</form>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
@@ -307,9 +299,9 @@
 										<div class="col-md-6">
 											<div class="image-wraper">
 												<img src="assets/images/douglas/secsix-1.png" alt="" class="bg-image">
-												<div class="plyicon">
+												<a href="assets/videos/video1.mp4" class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</div>
+												</a>
 											</div>
 										</div>
 
@@ -332,9 +324,9 @@
 										<div class="col-md-6">
 											<div class="image-wraper">
 												<img src="assets/images/douglas/secsix-2.png" alt="" class="bg-image">
-												<div class="plyicon">
+												<a href="assets/videos/video2.mp4" class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</div>
+												</a>
 											</div>
 										</div>
 									</div>
@@ -356,9 +348,9 @@
 										<div class="col-md-6">
 											<div class="image-wraper">
 												<img src="assets/images/douglas/secsix-3.png" alt="" class="bg-image">
-												<div class="plyicon">
+												<a href="assets/videos/video3.mp4" class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</div>
+												</a>
 											</div>
 										</div>
 									</div>
@@ -380,9 +372,9 @@
 										<div class="col-md-6">
 											<div class="image-wraper">
 												<img src="assets/images/douglas/secsix-4.png" alt="" class="bg-image">
-												<div class="plyicon">
+												<a href="assets/videos/video1.mp4" class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</div>
+												</a>
 											</div>
 										</div>
 									</div>

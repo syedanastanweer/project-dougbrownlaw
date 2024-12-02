@@ -21,7 +21,7 @@
 			<div class="col-lg-4 md-mb-60">
 				<div class="contact-box" data-aos="fade-right" data-aos-duration="800">
 					<div class="sec-title mb-45 md-mb-30">
-						<span class="sub-text sub-text3">Speak with Our Legal Experts</span>
+						<span class="sub-text sub-text3">Speak with Our Legal</span>
 						<h2 class="title">This keeps it short, clear, and directly related to the legal field.</h2>
 					</div>
 					<div class="address-box mb-25">

@@ -7785,7 +7785,6 @@ Video CSS
 
 .image-wraper {
   position: relative;
-  /* display: inline-block; */
 }
 
 .bg-image {
@@ -7800,7 +7799,7 @@ Video CSS
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 10;
-  pointer-events: none;
+  cursor: pointer;
 }
 
 .thmbslide h4 {
@@ -8051,6 +8050,8 @@ Video CSS
 fieldset {
   border: none !important;
 }
+
+/*  */
 
 @media screen and (min-width:320px) and (max-width:520px) {
 

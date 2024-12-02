@@ -43,8 +43,10 @@
 	<!-- responsive css -->
 	<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
+	<link rel="stylesheet" href="assets/css/glightbox.min.css">
+
 	<link rel='stylesheet' href='assets/css/aos.css'>
-	<script src="assets/js/aos.js"></script>
+
 	<link rel="stylesheet" href="assets/css/normalize.min.css">
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
@@ -55,6 +57,7 @@
 
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
 
+	<script src="assets/js/aos.js"></script>
 </head>
 
 <body class="defult-home">
