@@ -102,7 +102,21 @@
 										<nav class="rs-menu hidden-md">
 											<ul class="nav-menu">
 												<li><a href="https://hoisolution.com/douglasdbrownlaw/">Home</a></li>
-												<li><a href="practice-areas">Practice Areas</a></li>
+												<!-- <li><a href="practice-areas">Practice Areas</a></li> -->
+												<li class="menu-item-has-children">
+													<a href="practice-areas">Practice Areas</a>
+													<ul class="sub-menu">
+														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#CriminalJustice">Criminal Justice</a></li>
+														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#FamilyLaw">Family Law</a></li>
+														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#JuvenileLaw">Juvenile Law</a></li>
+														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#Homicide">Homicide</a></li>
+														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#DrugTrafficking">Drug Trafficking</a></li>
+														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#SexCrimes">Sex Crimes</a></li>
+														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#Kidnapping">Kidnapping</a></li>
+														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#Burglary">Burglary</a></li>
+														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#DWI">DWI</a></li>
+													</ul>
+												</li>
 												<li><a href="blog">Blogs</a></li>
 												<li><a href="about">About Us</a></li>
 											</ul> <!-- //.nav-menu -->
@@ -118,11 +132,11 @@
 											</div>
 											<div class="nmbr">
 												<h4>Call us Now</h4>
-												<p>(985) 310-6900</p>
+												<p><a href="tel:(985) 310-6900">(985) 310-6900</a></p>
 											</div>
 										</li>
 										<li class="rights">
-											<a href="contact">
+											<a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">
 												<p>Book now<br>free Consultation</p>
 											</a>
 										</li>

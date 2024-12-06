@@ -24,7 +24,7 @@
 		</div>
 		<div class="row box-margin-row">
 			<div class="col-lg-4 col-md-6 md-mb-30">
-				<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+				<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="CriminalJustice">
 					<div class="services-wrap">
 						<div class="services-icon">
 							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
@@ -40,7 +40,7 @@
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 sm-mb-30">
-				<div class="services-item" data-aos="fade-down" data-aos-duration="800">
+				<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="FamilyLaw">
 					<div class="services-wrap">
 						<div class="services-icon">
 							<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
@@ -56,7 +56,7 @@
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
-				<div class="services-item" data-aos="fade-left" data-aos-duration="800">
+				<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="JuvenileLaw">
 					<div class="services-wrap">
 						<div class="services-icon">
 							<img class="main-img" src="assets/images/douglas/secfour-3.png" alt="Services">
@@ -74,7 +74,7 @@
 		</div>
 		<div class="row box-margin-row">
 			<div class="col-lg-4 col-md-6 md-mb-30">
-				<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+				<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="Homicide">
 					<div class="services-wrap">
 						<div class="services-icon">
 							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
@@ -90,7 +90,7 @@
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 sm-mb-30">
-				<div class="services-item" data-aos="fade-down" data-aos-duration="800">
+				<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="DrugTrafficking">
 					<div class="services-wrap">
 						<div class="services-icon">
 							<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
@@ -106,7 +106,7 @@
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
-				<div class="services-item" data-aos="fade-left" data-aos-duration="800">
+				<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="SexCrimes">
 					<div class="services-wrap">
 						<div class="services-icon">
 							<img class="main-img" src="assets/images/douglas/secfour-3.png" alt="Services">
@@ -124,7 +124,7 @@
 		</div>
 		<div class="row box-margin-row">
 			<div class="col-lg-4 col-md-6 md-mb-30">
-				<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+				<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="Kidnapping">
 					<div class="services-wrap">
 						<div class="services-icon">
 							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
@@ -140,7 +140,7 @@
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 sm-mb-30">
-				<div class="services-item" data-aos="fade-down" data-aos-duration="800">
+				<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="Burglary">
 					<div class="services-wrap">
 						<div class="services-icon">
 							<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
@@ -156,7 +156,7 @@
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
-				<div class="services-item" data-aos="fade-left" data-aos-duration="800">
+				<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="DWI">
 					<div class="services-wrap">
 						<div class="services-icon">
 							<img class="main-img" src="assets/images/douglas/secfour-3.png" alt="Services">

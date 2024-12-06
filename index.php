@@ -5,8 +5,8 @@
 		<div class="row pt-100 sm-pt-40 align-items-center">
 			<div class="col-md-6">
 				<div class="hero-left" data-aos="fade-right" data-aos-duration="1000">
-					<h4>South Louisiana</h4>
-					<p>Justice for Injury Divorce and Defense.</p>
+					<h4>Hammond, Louisiana</h4>
+					<p>DIVORCE, CRIMINAL DEFENSE, AND PERSONAL INJURY</p>
 					<div class="btnsanchor"><a>Know More About Douglas Brown</a></div>
 				</div>
 			</div>
@@ -114,7 +114,7 @@
 					Ponchatoula, Livingston, Denham Springs, Covington, Mandeville, Franklinton, Bogalusa,
 					Slidell, and Gonzales.
 				</p>
-				<div class="btnsanchor"><a>Know More About Douglas Brown</a></div>
+				<div class="btnsanchor"><a href="know-more-about-douglas-brown">Know More About Douglas Brown</a></div>
 			</div>
 		</div>
 	</div>
@@ -134,10 +134,11 @@
 				<div class="text-overlay-center position-absolute text-white text-center" data-aos="fade-top"
 					data-aos-duration="800">
 					<h3>FOCUSED ON YOU</h3>
-					<p>Your goals are my goals. My office is here to serve you. I will give you the full range
-						of
-						options, but you make the final call.</p>
-					<button class="btn btn-danger">LEARN MORE</button>
+					<p>
+						My office is here to serve you. I will give you the full range of options, but you make the
+						final call.
+					</p>
+					<!-- <button class="btn btn-danger">LEARN MORE</button> -->
 				</div>
 				<div class="background-img-center"></div>
 			</div>
@@ -186,7 +187,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h4 class="titlenew">Areas of Dedication and Focus</h4>
+				<h4 class="titlenew">My Practice Areas</h4>
 			</div>
 		</div>
 		<div class="row">
@@ -197,14 +198,16 @@
 							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
 							<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
 						</div>
-						<div class="services-content">
-							<h3 class="title">Family Law</h3>
-							<p class="services-txt">
-								Your recovery, your justice, my mission. As
-								your personal injury attorney, I will fight to secure the compensation you
-								deserve, helping you rebuild and move forward.
-							</p>
-						</div>
+						<a href="family-law">
+							<div class="services-content">
+								<h3 class="title">Family Law</h3>
+								<p class="services-txt">
+									Your recovery, your justice, my mission. As
+									your personal injury attorney, I will fight to secure the compensation you
+									deserve, helping you rebuild and move forward.
+								</p>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -215,14 +218,16 @@
 							<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
 							<img class="main-hover" src="assets/images/douglas/secfour-2.png" alt="Services">
 						</div>
-						<div class="services-content">
-							<h3 class="title">Personal Injury</h3>
-							<p class="services-txt">
-								Your family, your future, my commitment.
-								As your family law advocate, I will guide you through life's toughest
-								challenges, working with you for solutions.
-							</p>
-						</div>
+						<a href="personal-injury">
+							<div class="services-content">
+								<h3 class="title">Personal Injury</h3>
+								<p class="services-txt">
+									Your family, your future, my commitment.
+									As your family law advocate, I will guide you through life's toughest
+									challenges, working with you for solutions.
+								</p>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -233,14 +238,16 @@
 							<img class="main-img" src="assets/images/douglas/secfour-3.png" alt="Services">
 							<img class="main-hover" src="assets/images/douglas/secfour-3.png" alt="Services">
 						</div>
-						<div class="services-content">
-							<h3 class="title">Criminal Defense</h3>
-							<p class="services-txt">
-								Your recovery, your justice, my mission. As
-								your personal injury attorney, I will fight to secure the compensation you
-								deserve, helping you rebuild and move forward.
-							</p>
-						</div>
+						<a href="criminal-defense">
+							<div class="services-content">
+								<h3 class="title">Criminal Defense</h3>
+								<p class="services-txt">
+									Your recovery, your justice, my mission. As
+									your personal injury attorney, I will fight to secure the compensation you
+									deserve, helping you rebuild and move forward.
+								</p>
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -255,7 +262,7 @@
 		<div class="row">
 			<div class="col-md-5">
 				<div class="secfiveleft" data-aos="fade-right" data-aos-duration="800">
-					<h3>About To</h3>
+					<h3>About</h3>
 					<h4>DOUGLAS D. BROWN</h4>
 					<p><span>Personal Injury, Adultery Divorce, And Criminal Defense Lawyer</span></p>
 					<p>You have a story to tell, and I can help you be heard.</p>
@@ -273,143 +280,7 @@
 		</div>
 	</div>
 </section>
-<section class="secsix padding">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="thumbnail_slider">
-					<h3 data-aos="fade-left" data-aos-duration="800">Client's Appreciation</h3>
-					<!-- Primary Slider Start-->
-					<div id="primary_slider" data-aos="fade-right" data-aos-duration="800">
-						<div class="splide__track">
-							<ul class="splide__list">
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<!-- Left side text -->
-										<div class="col-md-6">
-											<h4>Linda Bogantes</h4>
-											<p>I've had a lot of experience with lawyers and he's clearly one of
-												the absolute best. He treats his clients like people and has
-												deep empathy for the cases he works. While it's clear he isn't
-												in it for the money, he's worth every penny and more. Don't
-												waste your time shopping around go have a consult with him
-												first.</p>
-										</div>
-										<!-- Right side image -->
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/secsix-1.jpg" alt="" class="bg-image">
-												<a href="assets/videos/video1.mp4" class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
 
-									</div>
-								</li>
-
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<!-- Left side text -->
-										<div class="col-md-6">
-											<h4>Linda Bogantes</h4>
-											<p>I've had a lot of experience with lawyers and he's clearly one of
-												the absolute best. He treats his clients like people and has
-												deep empathy for the cases he works. While it's clear he isn't
-												in it for the money, he's worth every penny and more. Don't
-												waste your time shopping around go have a consult with him
-												first.</p>
-										</div>
-										<!-- Right side image -->
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/secsix-2.jpg" alt="" class="bg-image">
-												<a href="assets/videos/video2.mp4" class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<!-- Left side text -->
-										<div class="col-md-6">
-											<h4>Linda Bogantes</h4>
-											<p>I've had a lot of experience with lawyers and he's clearly one of
-												the absolute best. He treats his clients like people and has
-												deep empathy for the cases he works. While it's clear he isn't
-												in it for the money, he's worth every penny and more. Don't
-												waste your time shopping around go have a consult with him
-												first.</p>
-										</div>
-										<!-- Right side image -->
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/secsix-3.jpg" alt="" class="bg-image">
-												<a href="assets/videos/video3.mp4" class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<!-- Left side text -->
-										<div class="col-md-6">
-											<h4>Linda Bogantes</h4>
-											<p>I've had a lot of experience with lawyers and he's clearly one of
-												the absolute best. He treats his clients like people and has
-												deep empathy for the cases he works. While it's clear he isn't
-												in it for the money, he's worth every penny and more. Don't
-												waste your time shopping around go have a consult with him
-												first.</p>
-										</div>
-										<!-- Right side image -->
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/secsix-1.jpg" alt="" class="bg-image">
-												<a href="assets/videos/video1.mp4" class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-							</ul>
-						</div>
-					</div>
-
-					<!-- Primary Slider End-->
-					<!-- Thumbnal Slider Start-->
-					<div id="thumbnail_slider" data-aos="fade-top" data-aos-duration="800">
-						<div class="splide__track">
-							<ul class="splide__list">
-								<li class="splide__slide">
-									<img src="assets/images/douglas/secsix-1.jpg" alt="">
-								</li>
-								<li class="splide__slide">
-									<img src="assets/images/douglas/secsix-2.jpg" alt="">
-								</li>
-								<li class="splide__slide">
-									<img src="assets/images/douglas/secsix-3.jpg" alt="">
-								</li>
-
-								<li class="splide__slide">
-									<img src="assets/images/douglas/secsix-1.jpg" alt="">
-								</li>
-							</ul>
-						</div>
-					</div>
-					<!-- Thumbnal Slider End-->
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
 <section class="secseven">
 	<div class="container">
