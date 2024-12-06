@@ -252,6 +252,28 @@
 				</div>
 			</div>
 		</div>
+		<div class="row">
+			<div class="col-lg-4 offset-md-4 col-md-6 md-mb-30">
+				<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+					<div class="services-wrap">
+						<div class="services-icon">
+							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
+							<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
+						</div>
+						<a href="family-law">
+							<div class="services-content">
+								<h3 class="title">Family Law</h3>
+								<p class="services-txt">
+									Your recovery, your justice, my mission. As
+									your personal injury attorney, I will fight to secure the compensation you
+									deserve, helping you rebuild and move forward.
+								</p>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 <!-- Services Section End -->
