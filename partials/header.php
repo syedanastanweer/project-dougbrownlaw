@@ -106,15 +106,15 @@
 												<li class="menu-item-has-children">
 													<a href="practice-areas">Practice Areas</a>
 													<ul class="sub-menu">
-														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#CriminalJustice">Criminal Justice</a></li>
-														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#FamilyLaw">Family Law</a></li>
-														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#JuvenileLaw">Juvenile Law</a></li>
-														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#Homicide">Homicide</a></li>
-														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#DrugTrafficking">Drug Trafficking</a></li>
-														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#SexCrimes">Sex Crimes</a></li>
-														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#Kidnapping">Kidnapping</a></li>
-														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#Burglary">Burglary</a></li>
-														<li><a href="https://localhost/company-projects/dougbrown/practice-areas#DWI">DWI</a></li>
+														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#CriminalJustice">Criminal Justice</a></li>
+														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#FamilyLaw">Family Law</a></li>
+														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#JuvenileLaw">Juvenile Law</a></li>
+														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#Homicide">Homicide</a></li>
+														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#DrugTrafficking">Drug Trafficking</a></li>
+														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#SexCrimes">Sex Crimes</a></li>
+														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#Kidnapping">Kidnapping</a></li>
+														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#Burglary">Burglary</a></li>
+														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#DWI">DWI</a></li>
 													</ul>
 												</li>
 												<li><a href="blog">Blogs</a></li>

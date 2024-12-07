@@ -36,7 +36,7 @@
 					Ponchatoula, Livingston, Denham Springs, Covington, Mandeville, Franklinton, Bogalusa,
 					Slidell, and Gonzales.
 				</p>
-				<div class="btnsanchor"><a>Know More About Douglas Brown</a></div>
+				<div class="btnsanchor"><a href="know-more-about-douglas-brown">Know More About Douglas Brown</a></div>
 			</div>
 		</div>
 	</div>
@@ -56,7 +56,7 @@
 					<p>I will take the time to discuss your legal matter and address your
 						concerns.</p>
 					<p>If it matters to you, it matters to me.</p>
-					<div class="btnsanchor"><a>Book Free Phone Consultation</a></div>
+					<div class="btnsanchor"><a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">Book Free Phone Consultation</a></div>
 				</div>
 			</div>
 			<div class="col-md-7">

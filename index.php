@@ -7,7 +7,7 @@
 				<div class="hero-left" data-aos="fade-right" data-aos-duration="1000">
 					<h4>Hammond, Louisiana</h4>
 					<p>DIVORCE, CRIMINAL DEFENSE, AND PERSONAL INJURY</p>
-					<div class="btnsanchor"><a>Know More About Douglas Brown</a></div>
+					<div class="btnsanchor"><a href="know-more-about-douglas-brown">Know More About Douglas Brown</a></div>
 				</div>
 			</div>
 			<div class="col-md-6">
@@ -260,9 +260,9 @@
 							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
 							<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
 						</div>
-						<a href="family-law">
+						<a href="adultery-divorce">
 							<div class="services-content">
-								<h3 class="title">Family Law</h3>
+								<h3 class="title">Adultery Divorce</h3>
 								<p class="services-txt">
 									Your recovery, your justice, my mission. As
 									your personal injury attorney, I will fight to secure the compensation you
@@ -293,7 +293,7 @@
 					<p>I will take the time to discuss your legal matter and address your
 						concerns.</p>
 					<p>If it matters to you, it matters to me.</p>
-					<div class="btnsanchor"><a>Book Free Phone Consultation</a></div>
+					<div class="btnsanchor"><a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">Book Free Phone Consultation</a></div>
 				</div>
 			</div>
 			<div class="col-md-7">
@@ -345,38 +345,37 @@
 			data-md-device-dots="true" data-aos="fade-down" data-aos-duration="800">
 			<div class="blog-item">
 				<div class="image-wrap">
-					<a href="#0"><img src="assets/images/douglas/blg-1.png" alt=""></a>
+					<a href="welcome-to-my-blog"><img src="assets/images/douglas/blg-1.png" alt=""></a>
 
 				</div>
 				<div class="blog-content">
-					<h3 class="blog-title"><a href="#0">What Does It Mean When You Have No Credit
-							Score?</a></h3>
-					<div class="desc">We denounce with righteous indige nation and dislike men who are...</div>
-					<div class="blog-button"><a href="#0">Get Started</a></div>
+					<h3 class="blog-title"><a href="welcome-to-my-blog">Welcome to my blog!</a></h3>
+					<div class="desc">I am entering my third decade of the solo practice of law, and I can’t think of
+						anything else I would rather do....</div>
+					<div class="blog-button"><a href="welcome-to-my-blog">Read More</a></div>
 				</div>
 			</div>
 			<div class="blog-item">
 				<div class="image-wrap">
-					<a href="#0"><img src="assets/images/douglas/blg-2.png" alt=""></a>
+					<a href="when-an-attorney-is-your-client"><img src="assets/images/douglas/blg-2.png" alt=""></a>
 
 				</div>
 				<div class="blog-content">
-					<h3 class="blog-title"><a href="#0">What Types of Errors Should People Look
-							Credit Report?</a></h3>
-					<div class="desc">We denounce with righteous indige nation and dislike men who are...</div>
-					<div class="blog-button"><a href="#0">Get Started</a></div>
+					<h3 class="blog-title"><a href="when-an-attorney-is-your-client">When an Attorney is Your Client</a></h3>
+					<div class="desc">I am entering my third decade of the solo practice of law, and I can’t think of
+						anything else I would rather do....</div>
+					<div class="blog-button"><a href="when-an-attorney-is-your-client">Read More</a></div>
 				</div>
 			</div>
 			<div class="blog-item">
 				<div class="image-wrap">
-					<a href="#0"><img src="assets/images/douglas/blg-3.png" alt=""></a>
-
+					<a href="dont-be-your-own-lawyer"><img src="assets/images/douglas/blg-3.png" alt=""></a>
 				</div>
 				<div class="blog-content">
-					<h3 class="blog-title"><a href="#0">Best Ways to The Pay off Your Credit Cards
-							after</a></h3>
-					<div class="desc">We denounce with righteous indige nation and dislike men who are...</div>
-					<div class="blog-button"><a href="#0">Get Started</a></div>
+					<h3 class="blog-title"><a href="dont-be-your-own-lawyer">Don't be Your Own Lawyer</a></h3>
+					<div class="desc">I am entering my third decade of the solo practice of law, and I can’t think of
+						anything else I would rather do....</div>
+					<div class="blog-button"><a href="dont-be-your-own-lawyer">Read More</a></div>
 				</div>
 			</div>
 

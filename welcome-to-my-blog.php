@@ -21,9 +21,9 @@
 			<div class="col-md-12">
 				<div class="blog-details">
 					<div class="blog-full">
-						<div class="bs-img">
+						<!-- <div class="bs-img">
 							<img src="assets/images/blog/inner/style1/1.jpg" alt="Blog">
-						</div>
+						</div> -->
 						<div class="blog-content-full">
 							<h3 class="title pt-34 pb-20">Welcome to My Blog</h3>
 

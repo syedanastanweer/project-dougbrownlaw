@@ -19,7 +19,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h4 class="titlenew"  data-aos="fade-down" data-aos-duration="800">Areas of Dedication and Focus</h4>
+				<h4 class="titlenew" data-aos="fade-down" data-aos-duration="800">Areas of Dedication and Focus</h4>
 			</div>
 		</div>
 		<div class="row box-margin-row">
@@ -33,27 +33,37 @@
 						<div class="services-content" data-aos="fade-right" data-aos-duration="800">
 							<h3 class="title">Criminal Justice</h3>
 							<p class="services-txt">
-								We provide comprehensive legal defense for those accused of crimes, ensuring their rights are protected at every stage of the legal process. Our team is experienced in handling complex criminal cases, offering strategic advice and representation. Whether you're facing minor charges or serious allegations, we are here to fight for justice. Trust us to navigate the system diligence.
+								We provide comprehensive legal defense for those accused of crimes, ensuring their
+								rights are protected at every stage of the legal process. Our team is experienced in
+								handling complex criminal cases, offering strategic advice and representation. Whether
+								you're facing minor charges or serious allegations, we are here to fight for justice.
+								Trust us to navigate the system diligence.
 							</p>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 sm-mb-30">
-				<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="FamilyLaw">
-					<div class="services-wrap">
-						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-2.png" alt="Services">
-						</div>
-						<div class="services-content" data-aos="fade-up" data-aos-duration="800">
-							<h3 class="title">Family Law</h3>
-							<p class="services-txt">
-								Family disputes can be emotionally challenging, and we are committed to providing compassionate and effective legal solutions. From divorce and child custody to spousal support and adoption, we handle all aspects of family law. Our goal is to help you resolve conflicts while protecting your interests and those of your loved ones. Let us guide you through this sensitive process with care.
-							</p>
+				<a href="family-law">
+					<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="FamilyLaw">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
+								<img class="main-hover" src="assets/images/douglas/secfour-2.png" alt="Services">
+							</div>
+							<div class="services-content">
+								<h3 class="title">Family Law</h3>
+								<p class="services-txt">
+									Family disputes can be emotionally challenging, and we are committed to providing
+									compassionate and effective legal solutions. From divorce and child custody to
+									spousal support and adoption, we handle all aspects of family law. Our goal is to
+									help you resolve conflicts while protecting your interests and those of your loved
+									ones. Let us guide you through this sensitive process with care.
+								</p>
+							</div>
 						</div>
 					</div>
-				</div>
+				</a>
 			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="JuvenileLaw">
@@ -65,7 +75,11 @@
 						<div class="services-content">
 							<h3 class="title">Juvenile Law</h3>
 							<p class="services-txt">
-								When minors face legal challenges, it’s important to have a legal team that understands their unique needs. We specialize in juvenile law, working to ensure young individuals receive fair treatment and opportunities for rehabilitation. From minor offenses to more serious allegations, we handle cases with sensitivity and dedication. Your child’s future is our priority.
+								When minors face legal challenges, it’s important to have a legal team that understands
+								their unique needs. We specialize in juvenile law, working to ensure young individuals
+								receive fair treatment and opportunities for rehabilitation. From minor offenses to more
+								serious allegations, we handle cases with sensitivity and dedication. Your child’s
+								future is our priority.
 							</p>
 						</div>
 					</div>
@@ -80,10 +94,14 @@
 							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
 							<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
 						</div>
-						<div class="services-content" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-content">
 							<h3 class="title">Homicide</h3>
 							<p class="services-txt">
-								Defending clients in homicide cases requires skill, experience, and a thorough understanding of the law. We take an aggressive yet thoughtful approach to build a strong defense. Our team investigates every detail to challenge the prosecution’s case and ensure fair representation. When facing the most serious charges, you can rely on us to protect your rights.
+								Defending clients in homicide cases requires skill, experience, and a thorough
+								understanding of the law. We take an aggressive yet thoughtful approach to build a
+								strong defense. Our team investigates every detail to challenge the prosecution’s case
+								and ensure fair representation. When facing the most serious charges, you can rely on us
+								to protect your rights.
 							</p>
 						</div>
 					</div>
@@ -96,10 +114,14 @@
 							<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
 							<img class="main-hover" src="assets/images/douglas/secfour-2.png" alt="Services">
 						</div>
-						<div class="services-content" data-aos="fade-up" data-aos-duration="800">
+						<div class="services-content">
 							<h3 class="title">Drug Trafficking</h3>
 							<p class="services-txt">
-								Drug trafficking charges carry severe consequences, and we are here to help you fight them. Our experienced lawyers understand the complexities of these cases and work tirelessly to protect your future. We analyze every aspect of the investigation to find weaknesses in the prosecution’s arguments. Let us be your advocate against these challenging accusations.
+								Drug trafficking charges carry severe consequences, and we are here to help you fight
+								them. Our experienced lawyers understand the complexities of these cases and work
+								tirelessly to protect your future. We analyze every aspect of the investigation to find
+								weaknesses in the prosecution’s arguments. Let us be your advocate against these
+								challenging accusations.
 							</p>
 						</div>
 					</div>
@@ -115,7 +137,11 @@
 						<div class="services-content">
 							<h3 class="title">Sex Crimes</h3>
 							<p class="services-txt">
-								Being accused of a sex crime can be life-altering, and we are dedicated to defending your reputation and rights. Our legal team provides discreet, non-judgmental representation for clients facing these serious charges. We develop tailored defense strategies to challenge the evidence and ensure a fair trial. Trust us to stand by you during this difficult time.
+								Being accused of a sex crime can be life-altering, and we are dedicated to defending
+								your reputation and rights. Our legal team provides discreet, non-judgmental
+								representation for clients facing these serious charges. We develop tailored defense
+								strategies to challenge the evidence and ensure a fair trial. Trust us to stand by you
+								during this difficult time.
 							</p>
 						</div>
 					</div>
@@ -130,10 +156,13 @@
 							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
 							<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
 						</div>
-						<div class="services-content" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-content">
 							<h3 class="title">Kidnapping</h3>
 							<p class="services-txt">
-								Kidnapping cases are complex and often involve high stakes. We bring extensive experience and strategic thinking to defend clients against these charges. Our team works diligently to uncover key details that can make a difference in the case. When your freedom is on the line, we fight to secure the best possible outcome.
+								Kidnapping cases are complex and often involve high stakes. We bring extensive
+								experience and strategic thinking to defend clients against these charges. Our team
+								works diligently to uncover key details that can make a difference in the case. When
+								your freedom is on the line, we fight to secure the best possible outcome.
 							</p>
 						</div>
 					</div>
@@ -146,10 +175,13 @@
 							<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
 							<img class="main-hover" src="assets/images/douglas/secfour-2.png" alt="Services">
 						</div>
-						<div class="services-content" data-aos="fade-up" data-aos-duration="800">
+						<div class="services-content">
 							<h3 class="title">Burglary</h3>
 							<p class="services-txt">
-								Facing burglary charges can be overwhelming, but our team is here to help. We explore every angle to challenge the prosecution's case and seek a favorable resolution. Whether it’s a misunderstanding or a serious allegation, we are committed to protecting your rights. Count on us for a strong defense and dedicated representation.
+								Facing burglary charges can be overwhelming, but our team is here to help. We explore
+								every angle to challenge the prosecution's case and seek a favorable resolution. Whether
+								it’s a misunderstanding or a serious allegation, we are committed to protecting your
+								rights. Count on us for a strong defense and dedicated representation.
 							</p>
 						</div>
 					</div>
@@ -165,7 +197,10 @@
 						<div class="services-content">
 							<h3 class="title">DWI</h3>
 							<p class="services-txt">
-								Driving While Intoxicated (DWI) charges can affect your freedom and driving privileges. We provide skilled legal defense to minimize penalties and safeguard your future. Our team examines every detail, from the traffic stop to the breathalyzer results, to build a robust case. Let us guide you through the process with confidence.
+								Driving While Intoxicated (DWI) charges can affect your freedom and driving privileges.
+								We provide skilled legal defense to minimize penalties and safeguard your future. Our
+								team examines every detail, from the traffic stop to the breathalyzer results, to build
+								a robust case. Let us guide you through the process with confidence.
 							</p>
 						</div>
 					</div>
@@ -191,7 +226,7 @@
 			data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2"
 			data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2"
 			data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="2" data-md-device-nav="false"
-			data-md-device-dots="true"  data-aos="fade-up" data-aos-duration="800">
+			data-md-device-dots="true" data-aos="fade-up" data-aos-duration="800">
 			<div class="testi-item">
 				<div class="testi-wrap">
 					<div class="item-content-basic">
@@ -412,7 +447,7 @@
 			</div>
 			<div class="col-lg-6">
 				<!-- Contact Start -->
-				<div class="rs-contact contact-style1"  data-aos="fade-left" data-aos-duration="800">
+				<div class="rs-contact contact-style1" data-aos="fade-left" data-aos-duration="800">
 					<div class="contact-section">
 						<div class="sec-title mb-28">
 							<span class="sub-text">Let’s talk</span>
