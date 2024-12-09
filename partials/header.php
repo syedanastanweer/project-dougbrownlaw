@@ -90,7 +90,7 @@
 						<div class="row-table">
 							<div class="col-cell header-logo">
 								<div class="logo-area">
-									<a href="index">
+									<a href="<?php echo $baseUrl; ?>">
 										<img class="normal-logo" src="assets/images/logo-dark.png" alt="logo">
 										<img class="sticky-logo" src="assets/images/logo-dark.png" alt="logo">
 									</a>
@@ -104,7 +104,7 @@
 												<li><a href="<?php echo $baseUrl; ?>">Home</a></li>
 												<!-- <li><a href="practice-areas">Practice Areas</a></li> -->
 												<li class="menu-item-has-children">
-													<a href="practice-areas">Practice Areas</a>
+													<a href="<?php echo $baseUrl; ?>practice-areas">Practice Areas</a>
 													<ul class="sub-menu">
 														<li><a
 																href="<?php echo $baseUrl; ?>practice-areas#CriminalJustice">Criminal
@@ -257,11 +257,11 @@
 						</a>
 					</div>
 					<ul class="nav-menu">
-						<li><a href="<?php echo $baseUrl; ?>" target="_blank">Home</a></li>
-						<li><a href="practice-areas" target="_blank">Practice Areas</a></li>
-						<li><a href="blog" target="_blank">Blogs</a></li>
-						<li><a href="about" target="_blank">About Us</a></li>
-						<li><a href="contact" target="_blank">Contact Us</a></li>
+						<li><a href="<?php echo $baseUrl; ?>">Home</a></li>
+						<li><a href="<?php echo $baseUrl; ?>practice-areas">Practice Areas</a></li>
+						<li><a href="<?php echo $baseUrl; ?>blog">Blogs</a></li>
+						<li><a href="<?php echo $baseUrl; ?>about">About Us</a></li>
+						<li><a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">Contact Us</a></li>
 					</ul> <!-- //.nav-menu -->
 					<!-- //.nav-menu -->
 
