@@ -216,7 +216,7 @@
 				</a>
 			</div>
 			<div class="col-lg-4 col-md-6 sm-mb-30">
-				<a href="personal-injury">
+				<a href="personal-injury" target="_blank">
 					<div class="services-item" data-aos="fade-down" data-aos-duration="800">
 						<div class="services-wrap">
 							<div class="services-icon">
@@ -238,7 +238,7 @@
 				</a>
 			</div>
 			<div class="col-lg-4 col-md-6">
-				<a href="criminal-defense">
+				<a href="criminal-defense" target="_blank">
 					<div class="services-item" data-aos="fade-left" data-aos-duration="800">
 						<div class="services-wrap">
 							<div class="services-icon">
@@ -259,9 +259,9 @@
 				</a>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row pt-4">
 			<div class="col-lg-4 offset-md-4 col-md-6 md-mb-30">
-				<a href="adultery-divorce">
+				<a href="adultery-divorce" target="_blank">
 					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
 						<div class="services-wrap">
 							<div class="services-icon">

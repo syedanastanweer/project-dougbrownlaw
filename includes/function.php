@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
 // $functions = basename($_SERVER['PHP_SELF']); 
-$baseUrl = "https://localhost/company-projects/douglasdbrownlaw/";
+$baseUrl = "https://hoisolution.com/douglasdbrownlaw/";
 $functions = basename($_SERVER['PHP_SELF']); // Get just the filename
 switch ($functions) {
     case "index.php";
