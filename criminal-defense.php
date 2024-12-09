@@ -6,7 +6,7 @@
         <div class="breadcrumbs-inner">
             <h1 class="page-title">Criminal Defense</h1>
             <div class="breadcrumbs-title">
-                <span><a title="Douglas D Brown" href="#">Home</a></span>
+                <span><a title="Douglas D Brown" href="<?php echo $baseUrl; ?>">Home</a></span>
                 <span class="post">Criminal Defense</span>
             </div>
         </div>
@@ -65,7 +65,7 @@
                 <p>At the Law Office of Douglas D. Brown, we believe that everyone deserves a strong defense and the
                     opportunity for a second chance. If you are facing criminal charges,</p>
                 <p>please call me at <a href="tel:(985) 310-6900">(985) 310-6900</a> or <a
-                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">schedule a free
+                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421" target="_blank">schedule a free
                         telephone consultation</a> Let me be the unwavering advocate you need to protect your rights,
                     your freedom, and your future.</p>
                 <p>The client quotes at the bottom of the practice areas page should include ones from google. Delete

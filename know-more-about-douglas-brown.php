@@ -6,7 +6,7 @@
         <div class="breadcrumbs-inner">
             <h1 class="page-title">Hammond Divorce and Family Law Attorney</h1>
             <div class="breadcrumbs-title">
-                <span><a title="Douglas D Brown" href="#">Home</a></span>
+                <span><a title="Douglas D Brown" href="<?php echo $baseUrl; ?>">Home</a></span>
                 <span class="post">Know More About Douglas Brown</span>
             </div>
         </div>
@@ -77,7 +77,7 @@
                     prosecutor, or a judge, bullies only stop bullying when someone stands up to them. As your attorney,
                     I will defend your family, your rights and your reputation aggressively. </p>
                 <p>Please call me at <a href="tel:(985) 310-6900">(985) 310-6900</a> or <a
-                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">schedule a free
+                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421" target="_blank">schedule a free
                         telephone consultation</a></p>
             </div>
         </div>

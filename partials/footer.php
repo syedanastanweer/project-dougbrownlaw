@@ -5,9 +5,9 @@
 			<div class="col-md-4 ft-left">
 				<h5>INFORMATION</h5>
 				<ul class="list-unstyled">
-					<li><a href="#">About Douglas Brown</a></li>
-					<li><a href="#">Legal Services</a></li>
-					<li><a href="#">Blogs</a></li>
+					<li><a href="about">About Douglas Brown</a></li>
+					<li><a href="practice-areas">Legal Services</a></li>
+					<li><a href="blogs">Blogs</a></li>
 				</ul>
 				<p class="mt-3">Designed and maintained by:</p>
 				<p><img src="assets/images/logo-footer.webp" alt=""></p>
@@ -21,18 +21,17 @@
 				<div class="socials-p">
 					<h5>CONNECT WITH US</h5>
 					<div class="social-icons">
-						<a href="#"><i class="fa fa-youtube"></i></a>
-						<a href="#"><i class="fa fa-instagram"></i></a>
-						<a href="#"><i class="fa fa-facebook"></i></a>
-						<a href="#"><i class="fa fa-linkedin"></i></a>
-						<a href="#"><i class="fa fa-twitter"></i></a>
+						<a href="#0"><i class="fa fa-facebook"></i></a>
+						<!-- <a href="#0"><i class="fa fa-twitter"></i></a> -->
+						<a href="#0"><i class="fa fa-pinterest-p"></i></a>
+						<a href="#0"><i class="fa fa-instagram"></i></a>
+						<a href="#0"><i class="fa fa-youtube"></i></a>
+						<a href="#0"><i class="fa fa-linkedin"></i></a>
 					</div>
 				</div>
 
 				<div class="alright">
-
 					<p>© 2024 Dougbrownlaw. All rights reserved.</p>
-
 				</div>
 			</div>
 

@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
 // $functions = basename($_SERVER['PHP_SELF']); 
-$baseUrl = "https://hoisolution.com/dougbrownlaw/";
+$baseUrl = "https://localhost/company-projects/douglasdbrownlaw/";
 $functions = basename($_SERVER['PHP_SELF']); // Get just the filename
 switch ($functions) {
     case "index.php";
@@ -25,8 +25,8 @@ switch ($functions) {
         $indexfollow = "index, follow";
         $keywordwords = "";
         break;
-    case "blog.php";
-        $url = $baseUrl . "blog";
+    case "blogs.php";
+        $url = $baseUrl . "blogs";
         $title_name = "Blogs | Douglas D Brown";
         $description = "";
         $indexfollow = "index, follow";
@@ -102,7 +102,6 @@ switch ($functions) {
         $indexfollow = "index, follow";
         $keywordwords = "";
         break;
-
 }
 
 $favIcon = 'https://hoisolution.com/dougbrownlaw/assets/imgs/favicon.png';

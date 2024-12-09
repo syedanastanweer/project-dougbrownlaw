@@ -6,7 +6,7 @@
 		<div class="breadcrumbs-inner">
 			<h1 class="page-title">Practice Areas</h1>
 			<div class="breadcrumbs-title">
-				<span><a title="Douglas D Brown" href="#">Home</a></span>
+				<span><a title="Douglas D Brown" href="<?php echo $baseUrl; ?>">Home</a></span>
 				<span class="post">Practice Areas</span>
 			</div>
 		</div>
@@ -44,7 +44,7 @@
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 sm-mb-30">
-				<a href="family-law">
+				<a href="family-law" target="_blank">
 					<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="FamilyLaw">
 						<div class="services-wrap">
 							<div class="services-icon">

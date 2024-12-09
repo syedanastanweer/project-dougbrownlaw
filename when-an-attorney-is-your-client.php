@@ -6,7 +6,7 @@
 		<div class="breadcrumbs-inner">
 			<h1 class="page-title">When an Attorney is Your Client</h1>
 			<div class="breadcrumbs-title">
-				<span><a title="Douglas D Brown" href="#">Home</a></span>
+				<span><a title="Douglas D Brown" href="<?php echo $baseUrl; ?>">Home</a></span>
 				<span class="post">When an Attorney is Your Client</span>
 			</div>
 		</div>

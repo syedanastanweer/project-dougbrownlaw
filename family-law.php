@@ -6,7 +6,7 @@
         <div class="breadcrumbs-inner">
             <h1 class="page-title">Family Law</h1>
             <div class="breadcrumbs-title">
-                <span><a title="Douglas D Brown" href="#">Home</a></span>
+                <span><a title="Douglas D Brown" href="<?php echo $baseUrl; ?>">Home</a></span>
                 <span class="post">Family Law</span>
             </div>
         </div>
@@ -37,7 +37,7 @@
                     proceedings as well as cases involving attempts to terminate parental rights.</p>
                 <p>As your attorney, I will defend you, your family, your rights and your reputation aggressively.</p>
                 <p>Please call me at <a href="tel:(985) 310-6900">(985) 310-6900</a> or <a
-                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">schedule a free
+                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421" target="_blank">schedule a free
                         telephone consultation</a> If it matters to you, it matters to me.</p>
             </div>
         </div>

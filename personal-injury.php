@@ -6,7 +6,7 @@
         <div class="breadcrumbs-inner">
             <h1 class="page-title">Personal Injury</h1>
             <div class="breadcrumbs-title">
-                <span><a title="Douglas D Brown" href="#">Home</a></span>
+                <span><a title="Douglas D Brown" href="<?php echo $baseUrl; ?>">Home</a></span>
                 <span class="post">Personal Injury</span>
             </div>
         </div>
@@ -43,7 +43,7 @@
                 <p>At the Law Office of Douglas D. Brown, we believe that no one should have to bear the burden of an
                     injury caused by someone else’s negligence. If you or a loved one has been injured,</p>
                 <p>contact me at <a href="tel:(985) 310-6900">(985) 310-6900</a> or <a
-                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">schedule a free
+                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421" target="_blank">schedule a free
                         telephone consultation</a> Let me be your advocate to fight for the justice and compensation you
                     deserve.</p>
             </div>

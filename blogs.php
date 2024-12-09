@@ -6,7 +6,7 @@
 		<div class="breadcrumbs-inner">
 			<h1 class="page-title">Blogs</h1>
 			<div class="breadcrumbs-title">
-				<span><a title="Douglas D Brown" href="#">Home</a></span>
+				<span><a title="Douglas D Brown" href="<?php echo $baseUrl; ?>">Home</a></span>
 				<span class="post">Blogs</span>
 			</div>
 		</div>
@@ -23,10 +23,10 @@
 					<div class="col-lg-12 mb-50">
 						<div class="blog-item" data-aos="fade-right" data-aos-duration="800">
 							<div class="blog-img">
-								<a href="welcome-to-my-blog">
+								<a href="welcome-to-my-blog" target="_blank">
 							</div>
 							<div class="blog-content">
-								<h3 class="blog-title"><a href="welcome-to-my-blog">Welcome to my blog!</a></h3>
+								<h3 class="blog-title"><a href="welcome-to-my-blog" target="_blank">Welcome to my blog!</a></h3>
 								<!-- <div class="blog-meta">
 									<ul class="btm-cate">
 										<li>
@@ -54,7 +54,7 @@
 									answering questions for people who have never been through the legal process.
 								</div>
 								<div class="blog-button inner-btn">
-									<a class="blog-btn" href="welcome-to-my-blog">Continue Reading</a>
+									<a class="blog-btn" href="welcome-to-my-blog" target="_blank">Continue Reading</a>
 								</div>
 							</div>
 						</div>
@@ -62,10 +62,10 @@
 					<div class="col-lg-12 mb-50">
 						<div class="blog-item" data-aos="fade-right" data-aos-duration="800">
 							<div class="blog-img">
-								<a href="when-an-attorney-is-your-client">
+								<a href="when-an-attorney-is-your-client" target="_blank">
 							</div>
 							<div class="blog-content">
-								<h3 class="blog-title"><a href="when-an-attorney-is-your-client">When an Attorney is Your Client</a></h3>
+								<h3 class="blog-title"><a href="when-an-attorney-is-your-client" target="_blank">When an Attorney is Your Client</a></h3>
 								<!-- <div class="blog-meta">
 									<ul class="btm-cate">
 										<li>
@@ -93,7 +93,7 @@
 									answering questions for people who have never been through the legal process.
 								</div>
 								<div class="blog-button inner-btn">
-									<a class="blog-btn" href="when-an-attorney-is-your-client">Continue Reading</a>
+									<a class="blog-btn" href="when-an-attorney-is-your-client" target="_blank">Continue Reading</a>
 								</div>
 							</div>
 						</div>
@@ -101,10 +101,10 @@
 					<div class="col-lg-12 mb-50">
 						<div class="blog-item" data-aos="fade-right" data-aos-duration="800">
 							<div class="blog-img">
-								<a href="dont-be-your-own-lawyer">
+								<a href="dont-be-your-own-lawyer" target="_blank">
 							</div>
 							<div class="blog-content">
-								<h3 class="blog-title"><a href="dont-be-your-own-lawyer">Don't be Your Own Lawyer</a></h3>
+								<h3 class="blog-title"><a href="dont-be-your-own-lawyer" target="_blank">Don't be Your Own Lawyer</a></h3>
 								<!-- <div class="blog-meta">
 									<ul class="btm-cate">
 										<li>
@@ -132,7 +132,7 @@
 									answering questions for people who have never been through the legal process.
 								</div>
 								<div class="blog-button inner-btn">
-									<a class="blog-btn" href="dont-be-your-own-lawyer">Continue Reading</a>
+									<a class="blog-btn" href="dont-be-your-own-lawyer" target="_blank">Continue Reading</a>
 								</div>
 							</div>
 						</div>

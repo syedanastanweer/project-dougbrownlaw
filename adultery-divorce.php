@@ -36,7 +36,7 @@
                     adultery divorce attorney, and I am here to protect you, your children and your property.</p>
                 <p>If you have just found out your marriage is ending and want to know what your rights are</p>
                 <p>Please call me at <a href="tel:(985) 310-6900">(985) 310-6900</a> or <a
-                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">schedule a free
+                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421" target="_blank">schedule a free
                         telephone consultation</a> We will take the time to get you through this difficult time so you
                     can move on with your life knowing your best interests are protected.</p>
                 <h4>The Divorce Process in Cases of Adultery</h4>
@@ -55,7 +55,7 @@
                     As your lawyer, I will defend you, your liberty, your rights and your reputation aggressively, and
                     have tools at my disposal to uncover the truth when a spouse has been unfaithful.</p>
                 <p>Please call me at <a href="tel:(985) 310-6900">(985) 310-6900</a> or <a
-                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">schedule a free
+                        href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421" target="_blank">schedule a free
                         telephone consultation.</a> I will take the time to discuss your legal matter and address your
                     concerns. If it matters to you, it matters to me.</p>
             </div>

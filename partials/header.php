@@ -101,24 +101,38 @@
 									<div class="main-menu">
 										<nav class="rs-menu hidden-md">
 											<ul class="nav-menu">
-												<li><a href="https://hoisolution.com/douglasdbrownlaw/">Home</a></li>
+												<li><a href="<?php echo $baseUrl; ?>">Home</a></li>
 												<!-- <li><a href="practice-areas">Practice Areas</a></li> -->
 												<li class="menu-item-has-children">
 													<a href="practice-areas">Practice Areas</a>
 													<ul class="sub-menu">
-														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#CriminalJustice">Criminal Justice</a></li>
-														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#FamilyLaw">Family Law</a></li>
-														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#JuvenileLaw">Juvenile Law</a></li>
-														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#Homicide">Homicide</a></li>
-														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#DrugTrafficking">Drug Trafficking</a></li>
-														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#SexCrimes">Sex Crimes</a></li>
-														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#Kidnapping">Kidnapping</a></li>
-														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#Burglary">Burglary</a></li>
-														<li><a href="https://hoisolution.com/douglasdbrownlaw/practice-areas#DWI">DWI</a></li>
+														<li><a
+																href="<?php echo $baseUrl; ?>practice-areas#CriminalJustice">Criminal
+																Justice</a></li>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#FamilyLaw">Family
+																Law</a></li>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#JuvenileLaw">Juvenile
+																Law</a></li>
+														<li><a
+																href="<?php echo $baseUrl; ?>practice-areas#Homicide">Homicide</a>
+														</li>
+														<li><a
+																href="<?php echo $baseUrl; ?>practice-areas#DrugTrafficking">Drug
+																Trafficking</a></li>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#SexCrimes">Sex
+																Crimes</a></li>
+														<li><a
+																href="<?php echo $baseUrl; ?>practice-areas#Kidnapping">Kidnapping</a>
+														</li>
+														<li><a
+																href="<?php echo $baseUrl; ?>practice-areas#Burglary">Burglary</a>
+														</li>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#DWI">DWI</a>
+														</li>
 													</ul>
 												</li>
-												<li><a href="blog">Blogs</a></li>
-												<li><a href="about">About Us</a></li>
+												<li><a href="<?php echo $baseUrl; ?>blogs">Blogs</a></li>
+												<li><a href="<?php echo $baseUrl; ?>about">About Us</a></li>
 											</ul> <!-- //.nav-menu -->
 										</nav>
 									</div> <!-- //.main-menu -->
@@ -136,7 +150,8 @@
 											</div>
 										</li>
 										<li class="rights">
-											<a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">
+											<a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421"
+												target="_blank">
 												<p>Book now<br>free Consultation</p>
 											</a>
 										</li>
@@ -219,10 +234,12 @@
 								</div>
 							</div>
 							<ul class="social">
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-								<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+								<li><a href="#0"><i class="fa fa-facebook"></i></a></li>
+								<!-- <li><a href="#0"><i class="fa fa-twitter"></i></a></li> -->
+								<li><a href="#0"><i class="fa fa-pinterest-p"></i></a></li>
+								<li><a href="#0"><i class="fa fa-instagram"></i></a></li>
+								<li><a href="#0"><i class="fa fa-youtube"></i></a></li>
+								<li><a href="#0"><i class="fa fa-linkedin"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -240,11 +257,11 @@
 						</a>
 					</div>
 					<ul class="nav-menu">
-						<li><a href="https://hoisolution.com/douglasdbrownlaw/">Home</a></li>
-						<li><a href="practice-areas">Practice Areas</a></li>
-						<li><a href="blog">Blogs</a></li>
-						<li><a href="about">About Us</a></li>
-						<li><a href="contact">Contact Us</a></li>
+						<li><a href="<?php echo $baseUrl; ?>" target="_blank">Home</a></li>
+						<li><a href="practice-areas" target="_blank">Practice Areas</a></li>
+						<li><a href="blog" target="_blank">Blogs</a></li>
+						<li><a href="about" target="_blank">About Us</a></li>
+						<li><a href="contact" target="_blank">Contact Us</a></li>
 					</ul> <!-- //.nav-menu -->
 					<!-- //.nav-menu -->
 
@@ -257,7 +274,7 @@
 								</div>
 								<div class="info-content">
 									<h4 class="title">Address</h4>
-									<em>05 kandi BR. New York</em>
+									<em>Hammond, Louisiana</em>
 								</div>
 							</div>
 							<div class="address-list">
@@ -266,7 +283,7 @@
 								</div>
 								<div class="info-content">
 									<h4 class="title">Email</h4>
-									<em><a href="mailto:Devsdesign">Devsdesign</a></em>
+									<em><a href="mailto:info@dougbrownlaw.com">info@dougbrownlaw.com</a></em>
 								</div>
 							</div>
 							<div class="address-list">
@@ -275,7 +292,7 @@
 								</div>
 								<div class="info-content">
 									<h4 class="title">Phone</h4>
-									<em>+019988772</em>
+									<em><a href="tel:(985) 310-6900">(985) 310-6900</a></em>
 								</div>
 							</div>
 						</div>

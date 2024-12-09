@@ -6,7 +6,7 @@
 		<div class="breadcrumbs-inner">
 			<h1 class="page-title">About Us</h1>
 			<div class="breadcrumbs-title">
-				<span><a title="Douglas D Brown" href="#">Home</a></span>
+				<span><a title="Douglas D Brown" href="<?php echo $baseUrl; ?>">Home</a></span>
 				<span class="post">About Us</span>
 			</div>
 		</div>
@@ -36,7 +36,7 @@
 					Ponchatoula, Livingston, Denham Springs, Covington, Mandeville, Franklinton, Bogalusa,
 					Slidell, and Gonzales.
 				</p>
-				<div class="btnsanchor"><a href="know-more-about-douglas-brown">Know More About Douglas Brown</a></div>
+				<div class="btnsanchor"><a href="know-more-about-douglas-brown" target="_blank">Know More About Douglas Brown</a></div>
 			</div>
 		</div>
 	</div>
@@ -56,7 +56,7 @@
 					<p>I will take the time to discuss your legal matter and address your
 						concerns.</p>
 					<p>If it matters to you, it matters to me.</p>
-					<div class="btnsanchor"><a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">Book Free Phone Consultation</a></div>
+					<div class="btnsanchor"><a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421" target="_blank">Book Free Phone Consultation</a></div>
 				</div>
 			</div>
 			<div class="col-md-7">

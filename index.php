@@ -7,7 +7,8 @@
 				<div class="hero-left" data-aos="fade-right" data-aos-duration="1000">
 					<h4>Hammond, Louisiana</h4>
 					<p>DIVORCE, CRIMINAL DEFENSE, AND PERSONAL INJURY</p>
-					<div class="btnsanchor"><a href="know-more-about-douglas-brown">Know More About Douglas Brown</a></div>
+					<div class="btnsanchor"><a href="know-more-about-douglas-brown" target="_blank">Know More About
+							Douglas Brown</a></div>
 				</div>
 			</div>
 			<div class="col-md-6">
@@ -114,7 +115,8 @@
 					Ponchatoula, Livingston, Denham Springs, Covington, Mandeville, Franklinton, Bogalusa,
 					Slidell, and Gonzales.
 				</p>
-				<div class="btnsanchor"><a href="know-more-about-douglas-brown">Know More About Douglas Brown</a></div>
+				<div class="btnsanchor"><a href="know-more-about-douglas-brown" target="_blank">Know More About Douglas
+						Brown</a></div>
 			</div>
 		</div>
 	</div>
@@ -192,13 +194,14 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-4 col-md-6 md-mb-30">
-				<div class="services-item" data-aos="fade-right" data-aos-duration="800">
-					<div class="services-wrap">
-						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
-						</div>
-						<a href="family-law">
+				<a href="family-law" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
+								<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
+							</div>
+
 							<div class="services-content">
 								<h3 class="title">Family Law</h3>
 								<p class="services-txt">
@@ -207,18 +210,20 @@
 									deserve, helping you rebuild and move forward.
 								</p>
 							</div>
-						</a>
+
+						</div>
 					</div>
-				</div>
+				</a>
 			</div>
 			<div class="col-lg-4 col-md-6 sm-mb-30">
-				<div class="services-item" data-aos="fade-down" data-aos-duration="800">
-					<div class="services-wrap">
-						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-2.png" alt="Services">
-						</div>
-						<a href="personal-injury">
+				<a href="personal-injury">
+					<div class="services-item" data-aos="fade-down" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
+								<img class="main-hover" src="assets/images/douglas/secfour-2.png" alt="Services">
+							</div>
+
 							<div class="services-content">
 								<h3 class="title">Personal Injury</h3>
 								<p class="services-txt">
@@ -227,18 +232,20 @@
 									challenges, working with you for solutions.
 								</p>
 							</div>
-						</a>
+
+						</div>
 					</div>
-				</div>
+				</a>
 			</div>
 			<div class="col-lg-4 col-md-6">
-				<div class="services-item" data-aos="fade-left" data-aos-duration="800">
-					<div class="services-wrap">
-						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-3.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-3.png" alt="Services">
-						</div>
-						<a href="criminal-defense">
+				<a href="criminal-defense">
+					<div class="services-item" data-aos="fade-left" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img" src="assets/images/douglas/secfour-3.png" alt="Services">
+								<img class="main-hover" src="assets/images/douglas/secfour-3.png" alt="Services">
+							</div>
+
 							<div class="services-content">
 								<h3 class="title">Criminal Defense</h3>
 								<p class="services-txt">
@@ -247,20 +254,21 @@
 									deserve, helping you rebuild and move forward.
 								</p>
 							</div>
-						</a>
+						</div>
 					</div>
-				</div>
+				</a>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-lg-4 offset-md-4 col-md-6 md-mb-30">
-				<div class="services-item" data-aos="fade-right" data-aos-duration="800">
-					<div class="services-wrap">
-						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
-						</div>
-						<a href="adultery-divorce">
+				<a href="adultery-divorce">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
+								<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
+							</div>
+
 							<div class="services-content">
 								<h3 class="title">Adultery Divorce</h3>
 								<p class="services-txt">
@@ -269,9 +277,9 @@
 									deserve, helping you rebuild and move forward.
 								</p>
 							</div>
-						</a>
+						</div>
 					</div>
-				</div>
+				</a>
 			</div>
 		</div>
 	</div>
@@ -293,37 +301,13 @@
 					<p>I will take the time to discuss your legal matter and address your
 						concerns.</p>
 					<p>If it matters to you, it matters to me.</p>
-					<div class="btnsanchor"><a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">Book Free Phone Consultation</a></div>
+					<div class="btnsanchor">
+						<a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421" target="_blank">
+							Book Free Phone Consultation</a></div>
 				</div>
 			</div>
 			<div class="col-md-7">
 
-			</div>
-		</div>
-	</div>
-</section>
-
-
-<section class="secseven">
-	<div class="container">
-		<div class="row align-items-center">
-			<div class="col-md-6" data-aos="fade-right" data-aos-duration="800">
-				<img src="assets/images/douglas/secseven-1.png" alt="">
-			</div>
-			<div class="col-md-6" data-aos="fade-left" data-aos-duration="800">
-				<h4>Ready to assist you in
-					resolving any legal
-					issues you may have.</h4>
-				<p>“Over the last three decades, I’ve represented hundreds of criminal defendants with charges
-					from DWIs to homicide, and families in divorce, child support, custody, and child protection
-					cases. </p>
-				<p>“What I’ve discovered is that many of the lessons I learned early in life still apply:
-					Whether the bully is a current or former spouse, another lawyer, a prosecutor, or a judge,
-					bullies only stop bullying when someone stands up to them. </p>
-				<p>“As your attorney, I will defend your family, your rights and your reputation aggressively.
-				</p>
-				<p>“Please call me at (985) 310-6900 or email me at info@dougbrownlaw.com. If it matters to you,
-					it matters to me.”</p>
 			</div>
 		</div>
 	</div>
@@ -345,37 +329,38 @@
 			data-md-device-dots="true" data-aos="fade-down" data-aos-duration="800">
 			<div class="blog-item">
 				<div class="image-wrap">
-					<a href="welcome-to-my-blog"><img src="assets/images/douglas/blg-1.png" alt=""></a>
+					<a href="welcome-to-my-blog" target="_blank"><img src="assets/images/douglas/blg-1.png" alt=""></a>
 
 				</div>
 				<div class="blog-content">
-					<h3 class="blog-title"><a href="welcome-to-my-blog">Welcome to my blog!</a></h3>
+					<h3 class="blog-title"><a href="welcome-to-my-blog" target="_blank">Welcome to my blog!</a></h3>
 					<div class="desc">I am entering my third decade of the solo practice of law, and I can’t think of
 						anything else I would rather do....</div>
-					<div class="blog-button"><a href="welcome-to-my-blog">Read More</a></div>
+					<div class="blog-button"><a href="welcome-to-my-blog" target="_blank">Read More</a></div>
 				</div>
 			</div>
 			<div class="blog-item">
 				<div class="image-wrap">
-					<a href="when-an-attorney-is-your-client"><img src="assets/images/douglas/blg-2.png" alt=""></a>
+					<a href="when-an-attorney-is-your-client" target="_blank"><img src="assets/images/douglas/blg-2.png" alt=""></a>
 
 				</div>
 				<div class="blog-content">
-					<h3 class="blog-title"><a href="when-an-attorney-is-your-client">When an Attorney is Your Client</a></h3>
+					<h3 class="blog-title"><a href="when-an-attorney-is-your-client" target="_blank">When an Attorney is Your Client</a>
+					</h3>
 					<div class="desc">I am entering my third decade of the solo practice of law, and I can’t think of
 						anything else I would rather do....</div>
-					<div class="blog-button"><a href="when-an-attorney-is-your-client">Read More</a></div>
+					<div class="blog-button"><a href="when-an-attorney-is-your-client" target="_blank">Read More</a></div>
 				</div>
 			</div>
 			<div class="blog-item">
 				<div class="image-wrap">
-					<a href="dont-be-your-own-lawyer"><img src="assets/images/douglas/blg-3.png" alt=""></a>
+					<a href="dont-be-your-own-lawyer" target="_blank"><img src="assets/images/douglas/blg-3.png" alt=""></a>
 				</div>
 				<div class="blog-content">
-					<h3 class="blog-title"><a href="dont-be-your-own-lawyer">Don't be Your Own Lawyer</a></h3>
+					<h3 class="blog-title"><a href="dont-be-your-own-lawyer" target="_blank">Don't be Your Own Lawyer</a></h3>
 					<div class="desc">I am entering my third decade of the solo practice of law, and I can’t think of
 						anything else I would rather do....</div>
-					<div class="blog-button"><a href="dont-be-your-own-lawyer">Read More</a></div>
+					<div class="blog-button"><a href="dont-be-your-own-lawyer" target="_blank">Read More</a></div>
 				</div>
 			</div>
 
@@ -383,6 +368,31 @@
 	</div>
 </div>
 <!-- Blog Section End -->
+
+<section class="secseven">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-md-6" data-aos="fade-right" data-aos-duration="800">
+				<img src="assets/images/douglas/secseven-1.png" alt="">
+			</div>
+			<div class="col-md-6" data-aos="fade-left" data-aos-duration="800">
+				<h4>Ready to assist you in
+					resolving any legal
+					issues you may have.</h4>
+				<p>“Over the last three decades, I’ve represented hundreds of criminal defendants with charges
+					from DWIs to homicide, and families in divorce, child support, custody, and child protection
+					cases. </p>
+				<p>“What I’ve discovered is that many of the lessons I learned early in life still apply:
+					Whether the bully is a current or former spouse, another lawyer, a prosecutor, or a judge,
+					bullies only stop bullying when someone stands up to them. </p>
+				<p>“As your attorney, I will defend your family, your rights and your reputation aggressively.
+				</p>
+				<p>Please call me at <a href="tel:(985) 310-6900">(985) 310-6900</a> or email me at <a href="mailto:info@dougbrownlaw.com">info@dougbrownlaw.com</a> 
+				If it matters to you, it matters to me.</p>
+			</div>
+		</div>
+	</div>
+</section>
 
 <section class="secnine">
 	<iframe

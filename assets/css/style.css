@@ -26,8 +26,8 @@ img {
 }
 
 p {
-  margin: 0 0 26px;
-  line-height: 1.8;
+  /* margin: 0 0 26px; */
+  /* line-height: 1.8; */
 }
 
 h1,
@@ -1578,7 +1578,7 @@ blockquote p cite:before {
 .full-width-header .rs-header .expand-btn-inner ul .humburger .nav-expander .bar {
   padding: 16px 13px 16px;
   background: transparent;
-  max-width: 50px;
+  max-width: 100px;
   display: flex;
   flex-wrap: wrap;
   border-radius: 2px;
@@ -8083,6 +8083,9 @@ fieldset {
   font-size: 16px;
 }
 
+.text-italic{
+  font-style: italic;
+}
 @media screen and (min-width:320px) and (max-width:520px) {
 
   .hidden-sm {

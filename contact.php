@@ -6,7 +6,7 @@
 		<div class="breadcrumbs-inner">
 			<h1 class="page-title">Contact</h1>
 			<div class="breadcrumbs-title">
-				<span><a title="Douglas D Brown" href="#">Home</a></span>
+				<span><a title="Douglas D Brown" href="<?php echo $baseUrl; ?>">Home</a></span>
 				<span class="post">Contact</span>
 			</div>
 		</div>
@@ -30,7 +30,7 @@
 						</div>
 						<div class="address-text">
 							<span class="label">Email:</span>
-							<a href="tel:123222-8888">(123) 222-8888</a>
+							<a href="mailto:info@dougbrownlaw.com">info@dougbrownlaw.com</a>
 						</div>
 					</div>
 					<div class="address-box mb-25">
@@ -39,7 +39,7 @@
 						</div>
 						<div class="address-text">
 							<span class="label">Phone:</span>
-							<a href="#">Douglas D Brown</a>
+							<a href="tel:(985) 310-6900">(985) 310-6900</a>
 						</div>
 					</div>
 					<div class="address-box">
@@ -48,7 +48,7 @@
 						</div>
 						<div class="address-text">
 							<span class="label">Address:</span>
-							<div class="desc">New Jesrsy, 1201, USA</div>
+							<div class="desc">Hammond, Louisiana</div>
 						</div>
 					</div>
 				</div>
