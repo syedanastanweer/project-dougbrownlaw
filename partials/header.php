@@ -259,7 +259,7 @@
 					<ul class="nav-menu">
 						<li><a href="<?php echo $baseUrl; ?>">Home</a></li>
 						<li><a href="<?php echo $baseUrl; ?>practice-areas">Practice Areas</a></li>
-						<li><a href="<?php echo $baseUrl; ?>blog">Blogs</a></li>
+						<li><a href="<?php echo $baseUrl; ?>blogs">Blogs</a></li>
 						<li><a href="<?php echo $baseUrl; ?>about">About Us</a></li>
 						<li><a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">Contact Us</a></li>
 					</ul> <!-- //.nav-menu -->

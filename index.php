@@ -313,6 +313,197 @@
 	</div>
 </section>
 
+<section class="secsix padding">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="thumbnail_slider">
+                                    <h3 data-aos="fade-left" data-aos-duration="800">Client's Appreciation</h3>
+                                    <!-- Primary Slider Start-->
+                                    <div id="primary_slider" data-aos="fade-right" data-aos-duration="800">
+                                        <div class="splide__track">
+                                            <ul class="splide__list">
+                                                <li class="splide__slide">
+                                                    <div class="row align-items-center thmbslide">
+                                                        <!-- Left side text -->
+                                                        <div class="col-md-6">
+                                                            <h4>Linda Bogantes</h4>
+                                                            <p>I've had a lot of experience with lawyers and he's
+                                                                clearly one of the absolute best. He treats his clients like people and
+                                                                has deep empathy for the cases he works. While it's clear he
+                                                                isn't in it for the money, he's worth every penny and more.
+                                                                Don't waste your time shopping around go have a consult with
+                                                                him first.</p>
+                                                        </div>
+                                                        <!-- Right side image -->
+                                                        <div class="col-md-6">
+                                                            <div class="image-wraper">
+                                                                <img src="assets/images/douglas/secsix-1.jpg" alt=""
+                                                                    class="bg-image">
+                                                                <a href="assets/videos/video1.mp4"
+                                                                    class="plyicon glightbox">
+                                                                    <img src="assets/images/douglas/play-icon.png"
+                                                                        alt="Play Icon">
+                                                                </a>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </li>
+
+                                                <li class="splide__slide">
+                                                    <div class="row align-items-center thmbslide">
+                                                        <!-- Left side text -->
+                                                        <div class="col-md-6">
+                                                            <h4>Linda Bogantes</h4>
+                                                            <p>I've had a lot of experience with lawyers and he's
+                                                                clearly one of
+                                                                the absolute best. He treats his clients like people and
+                                                                has
+                                                                deep empathy for the cases he works. While it's clear he
+                                                                isn't
+                                                                in it for the money, he's worth every penny and more.
+                                                                Don't
+                                                                waste your time shopping around go have a consult with
+                                                                him
+                                                                first.</p>
+                                                        </div>
+                                                        <!-- Right side image -->
+                                                        <div class="col-md-6">
+                                                            <div class="image-wraper">
+                                                                <img src="assets/images/douglas/secsix-2.jpg" alt=""
+                                                                    class="bg-image">
+                                                                <a href="assets/videos/video2.mp4"
+                                                                    class="plyicon glightbox">
+                                                                    <img src="assets/images/douglas/play-icon.png"
+                                                                        alt="Play Icon">
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </li>
+
+                                                <li class="splide__slide">
+                                                    <div class="row align-items-center thmbslide">
+                                                        <!-- Left side text -->
+                                                        <div class="col-md-6">
+                                                            <h4>Linda Bogantes</h4>
+                                                            <p>I've had a lot of experience with lawyers and he's
+                                                                clearly one of
+                                                                the absolute best. He treats his clients like people and
+                                                                has
+                                                                deep empathy for the cases he works. While it's clear he
+                                                                isn't
+                                                                in it for the money, he's worth every penny and more.
+                                                                Don't
+                                                                waste your time shopping around go have a consult with
+                                                                him
+                                                                first.</p>
+                                                        </div>
+                                                        <!-- Right side image -->
+                                                        <div class="col-md-6">
+                                                            <div class="image-wraper">
+                                                                <img src="assets/images/douglas/secsix-3.jpg" alt=""
+                                                                    class="bg-image">
+                                                                <a href="assets/videos/video3.mp4"
+                                                                    class="plyicon glightbox">
+                                                                    <img src="assets/images/douglas/play-icon.png"
+                                                                        alt="Play Icon">
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </li>
+
+                                                <li class="splide__slide">
+                                                    <div class="row align-items-center thmbslide">
+                                                        <!-- Left side text -->
+                                                        <div class="col-md-6">
+                                                            <h4>Linda Bogantes</h4>
+                                                            <p>I've had a lot of experience with lawyers and he's
+                                                                clearly one of
+                                                                the absolute best. He treats his clients like people and
+                                                                has
+                                                                deep empathy for the cases he works. While it's clear he
+                                                                isn't
+                                                                in it for the money, he's worth every penny and more.
+                                                                Don't
+                                                                waste your time shopping around go have a consult with
+                                                                him
+                                                                first.</p>
+                                                        </div>
+                                                        <!-- Right side image -->
+                                                        <div class="col-md-6">
+                                                            <div class="image-wraper">
+                                                                <img src="assets/images/douglas/secsix-1.jpg" alt=""
+                                                                    class="bg-image">
+                                                                <a href="assets/videos/video1.mp4"
+                                                                    class="plyicon glightbox">
+                                                                    <img src="assets/images/douglas/play-icon.png"
+                                                                        alt="Play Icon">
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                    <!-- Primary Slider End-->
+                                    <!-- Thumbnal Slider Start-->
+                                    <div id="thumbnail_slider" data-aos="fade-top" data-aos-duration="800">
+                                        <div class="splide__track">
+                                            <ul class="splide__list">
+                                                <li class="splide__slide">
+                                                    <img src="assets/images/douglas/secsix-1.jpg" alt="">
+                                                </li>
+                                                <li class="splide__slide">
+                                                    <img src="assets/images/douglas/secsix-2.jpg" alt="">
+                                                </li>
+                                                <li class="splide__slide">
+                                                    <img src="assets/images/douglas/secsix-3.jpg" alt="">
+                                                </li>
+
+                                                <li class="splide__slide">
+                                                    <img src="assets/images/douglas/secsix-1.jpg" alt="">
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <!-- Thumbnal Slider End-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+
+<section class="secseven">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-md-6" data-aos="fade-right" data-aos-duration="800">
+				<img src="assets/images/douglas/secseven-1.png" alt="">
+			</div>
+			<div class="col-md-6" data-aos="fade-left" data-aos-duration="800">
+				<h4>Ready to assist you in
+					resolving any legal
+					issues you may have.</h4>
+				<p>“Over the last three decades, I’ve represented hundreds of criminal defendants with charges
+					from DWIs to homicide, and families in divorce, child support, custody, and child protection
+					cases. </p>
+				<p>“What I’ve discovered is that many of the lessons I learned early in life still apply:
+					Whether the bully is a current or former spouse, another lawyer, a prosecutor, or a judge,
+					bullies only stop bullying when someone stands up to them. </p>
+				<p>“As your attorney, I will defend your family, your rights and your reputation aggressively.
+				</p>
+				<p>Please call me at <a href="tel:(985) 310-6900">(985) 310-6900</a> or email me at <a href="mailto:info@dougbrownlaw.com">info@dougbrownlaw.com</a> 
+				If it matters to you, it matters to me.</p>
+			</div>
+		</div>
+	</div>
+</section>
 <!-- Blog Section Start -->
 <div id="rs-blog" class="rs-blog blog-main-home pt-120 pb-115 md-pt-80 md-pb-75">
 	<div class="container">
@@ -368,32 +559,6 @@
 	</div>
 </div>
 <!-- Blog Section End -->
-
-<section class="secseven">
-	<div class="container">
-		<div class="row align-items-center">
-			<div class="col-md-6" data-aos="fade-right" data-aos-duration="800">
-				<img src="assets/images/douglas/secseven-1.png" alt="">
-			</div>
-			<div class="col-md-6" data-aos="fade-left" data-aos-duration="800">
-				<h4>Ready to assist you in
-					resolving any legal
-					issues you may have.</h4>
-				<p>“Over the last three decades, I’ve represented hundreds of criminal defendants with charges
-					from DWIs to homicide, and families in divorce, child support, custody, and child protection
-					cases. </p>
-				<p>“What I’ve discovered is that many of the lessons I learned early in life still apply:
-					Whether the bully is a current or former spouse, another lawyer, a prosecutor, or a judge,
-					bullies only stop bullying when someone stands up to them. </p>
-				<p>“As your attorney, I will defend your family, your rights and your reputation aggressively.
-				</p>
-				<p>Please call me at <a href="tel:(985) 310-6900">(985) 310-6900</a> or email me at <a href="mailto:info@dougbrownlaw.com">info@dougbrownlaw.com</a> 
-				If it matters to you, it matters to me.</p>
-			</div>
-		</div>
-	</div>
-</section>
-
 <section class="secnine">
 	<iframe
 		src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55001.460458010384!2d-90.45752934999999!3d30.5043155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x862722b86526da5f%3A0xdef4bf97f4e2b2ed!2sHammond%2C%20LA%2C%20USA!5e0!3m2!1sen!2s!4v1733749950088!5m2!1sen!2s"

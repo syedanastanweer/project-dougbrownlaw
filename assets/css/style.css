@@ -1768,7 +1768,7 @@ blockquote p cite:before {
   top: 10px;
   display: block;
   z-index: 99;
-  right: 57px;
+  right: 10px;
   cursor: pointer;
   transition: all .3s ease;
 }
