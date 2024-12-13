@@ -189,7 +189,7 @@ ul {
 }
 
 .bg3 {
-  background: url('../images/bg/cta-bg1.jpg');
+  background: url('../images/douglas/cta-bg1.jpg');
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -197,7 +197,7 @@ ul {
 }
 
 .bg4 {
-  background: url('../images/bg/cta-bg1.jpg');
+  background: url('../images/douglas/cta-bg1.jpg');
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7404,7 +7404,7 @@ Video CSS
 .hero-left h4 {
   text-align: left;
   color: #ffffff;
-  font-size: 78px;
+  font-size: 56px;
   font-family: 'Great Vibes', sans-serif;
   font-weight: normal;
 }
@@ -7699,28 +7699,6 @@ Video CSS
 .secfive .secfiveleft p span {
   color: #FF0000;
 }
-
-#thumbnail_slider .splide__track {
-  overflow: hidden;
-  /* Hide any excess thumbnails */
-}
-
-#thumbnail_slider .splide__list {
-  display: flex;
-  justify-content: space-between;
-  /* Even spacing between thumbnails */
-}
-
-#thumbnail_slider .splide__slide {
-  width: 24%;
-  /* Each thumbnail takes up 1/4th of the slider width */
-  flex-shrink: 0;
-  /* Prevent thumbnails from shrinking */
-  overflow: hidden;
-  transition: transform 0.3s ease;
-  /* Smooth transition for thumbnail movement */
-}
-
 .splide__arrow {
   position: absolute;
   top: 50%;
@@ -7735,15 +7713,17 @@ Video CSS
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
 
 .splide__arrow--prev {
-  left: -40px;
+  left: -40px !important;
 }
 
 .splide__arrow--next {
-  right: -40px;
+  right: -40px !important;
 }
+
 
 #primary_slider .splide__slide img {
   display: block !important;
@@ -7751,6 +7731,13 @@ Video CSS
   width: 100%;
   cursor: pointer;
   margin: 10px 0;
+}
+
+.thumbnail_slider h3 {
+  color: #000000;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 40px;
 }
 
 .thmbslide {
@@ -7764,25 +7751,6 @@ Video CSS
   width: auto;
   transition: opacity 400ms cubic-bezier(0.42, 0.65, 0.27, 0.99);
 }
-
-#thumbnail_slider {
-  margin: 0 60px;
-}
-
-.thumbnail_slider h3 {
-  color: #000000;
-  text-align: center;
-  text-transform: uppercase;
-  font-size: 40px;
-}
-
-.plyicon {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 
 .image-wraper {
   position: relative;
@@ -7819,13 +7787,6 @@ Video CSS
   line-height: 1.6;
 }
 
-.thumbnail_slider .col-md-6:nth-child(1) {
-  padding: 40px;
-}
-
-.splide__arrow {
-  background: transparent;
-}
 
 .secseven {
   position: relative;
@@ -8281,7 +8242,7 @@ fieldset {
   }
 
   .secsix #primary_slider .splide__slide {
-    height: 46rem !important;
+    height: 48rem !important;
   }
 
   .thumbnail_slider .col-md-6:nth-child(1) {

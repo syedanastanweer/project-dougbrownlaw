@@ -4,15 +4,32 @@
 <div class="rs-breadcrumbs img4">
 	<div class="container">
 		<div class="breadcrumbs-inner">
-			<h1 class="page-title">About Us</h1>
+			<h1 class="page-title">About</h1>
 			<div class="breadcrumbs-title">
 				<span><a title="Douglas D Brown" href="<?php echo $baseUrl; ?>">Home</a></span>
-				<span class="post">About Us</span>
+				<span class="post">About</span>
 			</div>
 		</div>
 	</div>
 </div>
 <!-- Banner End -->
+
+<section class="secaboutone padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<div class="inner" data-aos="fade-right" data-aos-duration="800">
+					<img src="assets/images/douglas/about-ss1.jpg" alt="">
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="inner" data-aos="fade-left" data-aos-duration="800">
+					<img src="assets/images/douglas/about-ss2.jpg" alt="">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 
 <section class="sectwo padding">
 	<div class="container">
@@ -36,13 +53,14 @@
 					Ponchatoula, Livingston, Denham Springs, Covington, Mandeville, Franklinton, Bogalusa,
 					Slidell, and Gonzales.
 				</p>
-				<div class="btnsanchor"><a href="know-more-about-douglas-brown" target="_blank">Know More About Douglas Brown</a></div>
+				<div class="btnsanchor"><a href="know-more-about-douglas-brown" target="_blank">Know More About Douglas
+						Brown</a></div>
 			</div>
 		</div>
 	</div>
 </section>
 
-<section class="secfive">
+<!-- <section class="secfive">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-5">
@@ -56,7 +74,9 @@
 					<p>I will take the time to discuss your legal matter and address your
 						concerns.</p>
 					<p>If it matters to you, it matters to me.</p>
-					<div class="btnsanchor"><a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421" target="_blank">Book Free Phone Consultation</a></div>
+					<div class="btnsanchor"><a
+							href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421"
+							target="_blank">Book Free Phone Consultation</a></div>
 				</div>
 			</div>
 			<div class="col-md-7">
@@ -64,5 +84,5 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <?php include 'partials/footer.php'; ?>

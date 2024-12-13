@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
 // $functions = basename($_SERVER['PHP_SELF']); 
-$baseUrl = "https://hoisolution.com/douglasdbrownlaw/";
+$baseUrl = "https://localhost/company-projects/douglasdbrownlaw/";
 $functions = basename($_SERVER['PHP_SELF']); // Get just the filename
 switch ($functions) {
     case "index.php";
@@ -13,7 +13,7 @@ switch ($functions) {
         break;
     case "about.php";
         $url = $baseUrl . "about";
-        $title_name = "About Us | Douglas D Brown";
+        $title_name = "About | Douglas D Brown";
         $description = "";
         $indexfollow = "index, follow";
         $keywordwords = "";
@@ -70,6 +70,20 @@ switch ($functions) {
     case "criminal-defense.php";
         $url = $baseUrl . "criminal-defense";
         $title_name = "Criminal Defense | Douglas D Brown";
+        $description = "";
+        $indexfollow = "index, follow";
+        $keywordwords = "";
+        break;
+    case "fedex-ups-amazon.php";
+        $url = $baseUrl . "fedex-ups-amazon";
+        $title_name = "FedEx, UPS, Amazon | Douglas D Brown";
+        $description = "";
+        $indexfollow = "index, follow";
+        $keywordwords = "";
+        break;
+    case "criminalization-of-pregnancy.php";
+        $url = $baseUrl . "criminalization-of-pregnancy";
+        $title_name = "Criminalization of Pregnancy | Douglas D Brown";
         $description = "";
         $indexfollow = "index, follow";
         $keywordwords = "";

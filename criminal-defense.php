@@ -69,7 +69,7 @@
                         telephone consultation</a> Let me be the unwavering advocate you need to protect your rights,
                     your freedom, and your future.</p>
                 <p data-aos="fade-right" data-aos-duration="800">The client quotes at the bottom of the practice areas page should include ones from google. Delete
-                    the remainder of the practice area page below it, keep the map.s</p>
+                    the remainder of the practice area page below it, keep the map.</p>
             </div>
         </div>
     </div>

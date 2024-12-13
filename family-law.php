@@ -32,8 +32,8 @@
                     filing through post-judgment requests for modification or enforcement. I handle all matters related
                     to divorce, including child custody and visitation, child support, alimony or spousal support,
                     property division and paternity actions.</p>
-                <p>I also work extensively with clients involved in Office of Community Services (OCS) cases, where
-                    there are concerns about child abuse or neglect. I handle Families in Need of Services (FINS)
+                <p>I also work extensively with clients involved in Office of Community (OCS) cases, where
+                    there are concerns about child abuse or neglect. I handle Families in Need of (FINS)
                     proceedings as well as cases involving attempts to terminate parental rights.</p>
                 <p>As your attorney, I will defend you, your family, your rights and your reputation aggressively.</p>
                 <p>Please call me at <a href="tel:(985) 310-6900">(985) 310-6900</a> or <a

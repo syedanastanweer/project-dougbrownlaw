@@ -19,7 +19,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h4 class="titlenew" data-aos="fade-down" data-aos-duration="800">Areas of Dedication and Focus</h4>
+				<h4 class="titlenew" data-aos="fade-down" data-aos-duration="800">My Practice Areas</h4>
 			</div>
 		</div>
 		<div class="row box-margin-row">
@@ -27,8 +27,8 @@
 				<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="CriminalJustice">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/criminal-justice.png" alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/criminal-justice.png" alt="Services">
 						</div>
 						<div class="services-content" data-aos="fade-right" data-aos-duration="800">
 							<h3 class="title">Criminal Justice</h3>
@@ -48,8 +48,8 @@
 					<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="FamilyLaw">
 						<div class="services-wrap">
 							<div class="services-icon">
-								<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
-								<img class="main-hover" src="assets/images/douglas/secfour-2.png" alt="Services">
+								<img class="main-img" src="assets/images/douglas/services/family-law.png" alt="Services">
+								<img class="main-hover" src="assets/images/douglas/services/family-law.png" alt="Services">
 							</div>
 							<div class="services-content">
 								<h3 class="title">Family Law</h3>
@@ -69,8 +69,8 @@
 				<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="JuvenileLaw">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-3.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-3.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/juvenile-law.png" alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/juvenile-law.png" alt="Services">
 						</div>
 						<div class="services-content">
 							<h3 class="title">Juvenile Law</h3>
@@ -91,8 +91,8 @@
 				<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="Homicide">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/homicide.png" alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/homicide.png" alt="Services">
 						</div>
 						<div class="services-content">
 							<h3 class="title">Homicide</h3>
@@ -111,8 +111,8 @@
 				<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="DrugTrafficking">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-2.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/drug-trafficking.png" alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/drug-trafficking.png" alt="Services">
 						</div>
 						<div class="services-content">
 							<h3 class="title">Drug Trafficking</h3>
@@ -131,13 +131,13 @@
 				<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="SexCrimes">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-3.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-3.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/falsely-acused.png" alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/falsely-acused.png" alt="Services">
 						</div>
 						<div class="services-content">
-							<h3 class="title">Sex Crimes</h3>
+							<h3 class="title">Falsely Accused</h3>
 							<p class="services-txt">
-								Being accused of a sex crime can be life-altering, and we are dedicated to defending
+								Being accused of a falsely accused can be life-altering, and we are dedicated to defending
 								your reputation and rights. Our legal team provides discreet, non-judgmental
 								representation for clients facing these serious charges. We develop tailored defense
 								strategies to challenge the evidence and ensure a fair trial. Trust us to stand by you
@@ -153,8 +153,8 @@
 				<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="Kidnapping">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-1.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-1.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/kidnapping.png" alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/kidnapping.png" alt="Services">
 						</div>
 						<div class="services-content">
 							<h3 class="title">Kidnapping</h3>
@@ -172,8 +172,8 @@
 				<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="Burglary">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-2.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/bulgery.png" alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/bulgery.png" alt="Services">
 						</div>
 						<div class="services-content">
 							<h3 class="title">Burglary</h3>
@@ -191,8 +191,8 @@
 				<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="DWI">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/secfour-3.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/secfour-3.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/dwi.png" alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/dwi.png" alt="Services">
 						</div>
 						<div class="services-content">
 							<h3 class="title">DWI</h3>
@@ -231,7 +231,7 @@
 				<div class="testi-wrap">
 					<div class="item-content-basic">
 						<span>
-							<img src="assets/images/testimonial/style1/quote.png" alt="Images">
+							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
 						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
 							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
@@ -239,7 +239,7 @@
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
-							<img src="assets/images/testimonial/style1/1.jpg" alt="Images">
+							<img src="assets/images/douglas/1.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Holing Tums</div>
@@ -252,7 +252,7 @@
 				<div class="testi-wrap">
 					<div class="item-content-basic">
 						<span>
-							<img src="assets/images/testimonial/style1/quote.png" alt="Images">
+							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
 						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
 							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
@@ -260,7 +260,7 @@
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
-							<img src="assets/images/testimonial/style1/2.jpg" alt="Images">
+							<img src="assets/images/douglas/2.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Nikoling Toli</div>
@@ -273,7 +273,7 @@
 				<div class="testi-wrap">
 					<div class="item-content-basic">
 						<span>
-							<img src="assets/images/testimonial/style1/quote.png" alt="Images">
+							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
 						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
 							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
@@ -281,7 +281,7 @@
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
-							<img src="assets/images/testimonial/style1/3.jpg" alt="Images">
+							<img src="assets/images/douglas/3.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Nicolas Puranix</div>
@@ -294,7 +294,7 @@
 				<div class="testi-wrap">
 					<div class="item-content-basic">
 						<span>
-							<img src="assets/images/testimonial/style1/quote.png" alt="Images">
+							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
 						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
 							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
@@ -302,7 +302,7 @@
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
-							<img src="assets/images/testimonial/style1/4.jpg" alt="Images">
+							<img src="assets/images/douglas/4.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">John Brovo</div>
@@ -315,7 +315,7 @@
 				<div class="testi-wrap">
 					<div class="item-content-basic">
 						<span>
-							<img src="assets/images/testimonial/style1/quote.png" alt="Images">
+							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
 						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
 							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
@@ -323,7 +323,7 @@
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
-							<img src="assets/images/testimonial/style1/1.jpg" alt="Images">
+							<img src="assets/images/douglas/1.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Holing Tums</div>
@@ -336,7 +336,7 @@
 				<div class="testi-wrap">
 					<div class="item-content-basic">
 						<span>
-							<img src="assets/images/testimonial/style1/quote.png" alt="Images">
+							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
 						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
 							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
@@ -344,7 +344,7 @@
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
-							<img src="assets/images/testimonial/style1/2.jpg" alt="Images">
+							<img src="assets/images/douglas/2.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Nikoling Toli</div>
@@ -357,7 +357,7 @@
 				<div class="testi-wrap">
 					<div class="item-content-basic">
 						<span>
-							<img src="assets/images/testimonial/style1/quote.png" alt="Images">
+							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
 						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
 							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
@@ -365,7 +365,7 @@
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
-							<img src="assets/images/testimonial/style1/3.jpg" alt="Images">
+							<img src="assets/images/douglas/3.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
 							<div class="testi-name">Nicolas Puranix</div>
@@ -502,8 +502,8 @@
 	<div class="container">
 		<div class="sec-title text-center" data-aos="fade-down" data-aos-duration="800">
 			<h2 class="title title2">
-				Are You Ready to Get Credit<br>
-				Repair Services?
+				Are You Ready to Get<br>
+				Free Consultation?
 			</h2>
 			<div class="btn-part mt-45 md-mt-30">
 				<a class="readon cta-started" href="contact">Get Started</a>

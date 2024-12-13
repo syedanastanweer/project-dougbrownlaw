@@ -6,7 +6,7 @@
 				<h5>INFORMATION</h5>
 				<ul class="list-unstyled">
 					<li><a href="about">About Douglas Brown</a></li>
-					<li><a href="practice-areas">Legal Services</a></li>
+					<li><a href="practice-areas">Practice Areas</a></li>
 					<li><a href="blogs">Blogs</a></li>
 				</ul>
 				<p class="mt-3">Designed and maintained by:</p>
@@ -23,7 +23,7 @@
 					<div class="social-icons">
 						<a href="#0"><i class="fa fa-facebook"></i></a>
 						<!-- <a href="#0"><i class="fa fa-twitter"></i></a> -->
-						<a href="#0"><i class="fa fa-pinterest-p"></i></a>
+						<!-- <a href="#0"><i class="fa fa-pinterest-p"></i></a> -->
 						<a href="#0"><i class="fa fa-instagram"></i></a>
 						<a href="#0"><i class="fa fa-youtube"></i></a>
 						<a href="#0"><i class="fa fa-linkedin"></i></a>
@@ -40,7 +40,7 @@
 			<div class="col-md-12 text-center">
 
 				<p class="disclaimer">Important Disclaimer: For specific legal advice for your specific situation,
-					you should retain the services of an Attorney at Law. The above is provided for general
+					you should retain of an Attorney at Law. The above is provided for general
 					information only. The use of the Internet for communication with this firm or any employee of
 					the firm does not establish an attorney-client relationship. Confidential or time-sensitive
 					information should not be sent through email.</p>
@@ -92,34 +92,18 @@
 	})
 </script>
 <script>
-	// Primary slider.
-	var primarySlider = new Splide('#primary_slider', {
-		type: 'fade',
-		heightRatio: 0.5,
-		pagination: false,
-		arrows: false,
-		cover: true,
-	});
+// Initialize the primary slider with working arrows and mouse functionality
+var primarySlider = new Splide('#primary_slider', {
+    type: 'loop', // Enables looping through slides
+    heightRatio: 0.5, // Sets height ratio for slides
+    pagination: false, // Disables pagination dots
+    arrows: true, // Enables left and right arrow controls
+    cover: true, // Ensures images fully cover the slide container
+    autoplay: false, // Optional: Disable autoplay
+    drag: true, // Enables mouse/touch dragging
+    rewind: true, // Allows rewinding to the first slide
+}).mount();
 
-	var thumbnailSlider = new Splide('#thumbnail_slider', {
-		rewind: true,
-		focus: 'center',
-		pagination: false,
-		arrows: true, // Enable arrows
-		fixedWidth: 'calc(100% / 4)', // Dynamically set the width of each thumbnail to fit 4 at a time
-		gap: '10px', // Spacing between thumbnails
-		isNavigation: true,
-		cover: true,
-		breakpoints: {
-			600: {
-				fixedWidth: 'calc(100% / 3)', // Show 3 thumbnails on smaller screens
-			},
-		},
-	}).mount();
-
-
-	// sync the thumbnails slider as a target of primary slider.
-	primarySlider.sync(thumbnailSlider).mount();
 </script>
 
 <script src='https://unpkg.com/aos@2.3.0/dist/aos.js'></script>

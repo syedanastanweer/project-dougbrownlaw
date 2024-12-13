@@ -33,9 +33,7 @@
                     lost wages, and pain and suffering.</p>
                 <h6>FedEx, UPS, Amazon:</h6>
                 <p>Accidents involving commercial trucks can result in catastrophic injuries. Even worse, the companies
-                    often hide behind layers of corporations designed to make fair recovery difficult. Accidents
-                    involving commercial trucks can result in catastrophic injuries. Even worse, the companies often
-                    hide behind layers of corporations designed to make fair recovery difficult.</p>
+                    often hide behind layers of corporations designed to make fair recovery difficult. I have the knowledge and experience necessary to navigate the complexities of truck accident cases and protect your rights against powerful trucking companies like FedEx, UPS, Amazon, and their insurers.</p>
                 <h6>Wrongful Death:</h6>
                 <p>Losing a loved one due to someone else’s negligence is an unimaginable tragedy. I will handle your
                     wrongful death claim with the utmost compassion and sensitivity, fighting to secure the compensation
