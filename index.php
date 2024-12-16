@@ -9,10 +9,14 @@
 					<p>DIVORCE, CRIMINAL DEFENSE, AND PERSONAL INJURY</p>
 					<div class="btnsanchor"><a href="know-more-about-douglas-brown" target="_blank">Know More About
 							Douglas Brown</a></div>
+					<div class="affirm-logo">
+						<img src="assets/images/affirm.png" alt="">
+					</div>
 				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="hidden-sm">
+					<!-- <div class="elem-affirm">&nbsp;</div> -->
 					<img src="assets/images/douglas/header-right.png" alt="">
 				</div>
 				<!-- <div class="hero-right">
@@ -219,7 +223,7 @@
 			</div>
 			<div class="col-lg-4 col-md-6 sm-mb-30">
 				<a href="personal-injury" target="_blank">
-					<div class="services-item" data-aos="fade-down" data-aos-duration="800">
+					<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="PersonalInjury">
 						<div class="services-wrap">
 							<div class="services-icon">
 								<img class="main-img" src="assets/images/douglas/secfour-2.png" alt="Services">
@@ -240,7 +244,7 @@
 			</div>
 			<div class="col-lg-4 col-md-6">
 				<a href="criminal-defense" target="_blank">
-					<div class="services-item" data-aos="fade-left" data-aos-duration="800">
+					<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="CriminalDefense">
 						<div class="services-wrap">
 							<div class="services-icon">
 								<img class="main-img" src="assets/images/douglas/services/criminal-defense.png"
@@ -377,19 +381,22 @@
 								<li class="splide__slide">
 									<div class="row align-items-center thmbslide">
 										<div class="col-md-6">
-											<h4>Linda Bogantes</h4>
-											<p>
+											<!-- <h4>Linda Bogantes</h4> -->
+
+											<p><span>"</span>
 												I've had a lot of experience with lawyers and he's clearly one of the
 												absolute best. He treats his clients like people and has deep empathy
 												for the cases he works. While it's clear he isn't in it for the money,
 												he's worth every penny and more. Don't waste your time shopping around
-												go have a consult with him first.
+												go have a consult with him first.<span>"</span>
 											</p>
+
 										</div>
 										<div class="col-md-6">
 											<div class="image-wraper">
 												<img src="assets/images/douglas/cl-girl.png" alt="" class="bg-image">
-												<a href="assets/videos/video1.mp4" class="plyicon glightbox">
+												<a href="https://youtube.com/watch?v=G1fUaoZ7Vig"
+													class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
 												</a>
 											</div>
@@ -399,19 +406,20 @@
 								<li class="splide__slide">
 									<div class="row align-items-center thmbslide">
 										<div class="col-md-6">
-											<h4>Louisiana Cajun Navy</h4>
-											<p>
+											<!-- <h4>Louisiana Cajun Navy</h4> -->
+											<p><span>"</span>
 												My experience with Douglas Brown attorney-at-law was definitely a smooth
 												professional experience. He took my case and quickly assured me that he
 												would have no problem working out the details and would keep me posted.
 												I received up-to-date texts as well as timely emails and calendar
-												appointments to add to my daily calendar.
+												appointments to add to my daily calendar.<span>"</span>
 											</p>
 										</div>
 										<div class="col-md-6">
 											<div class="image-wraper">
 												<img src="assets/images/douglas/cl-boy.png" alt="" class="bg-image">
-												<a href="assets/videos/video2.mp4" class="plyicon glightbox">
+												<a href="https://youtube.com/watch?v=bdJs7BCCuIM"
+													class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
 												</a>
 											</div>
@@ -421,19 +429,20 @@
 								<li class="splide__slide">
 									<div class="row align-items-center thmbslide">
 										<div class="col-md-6">
-											<h4>Logan Johnson</h4>
-											<p>
+											<!-- <h4>Logan Johnson</h4> -->
+											<p><span>"</span>
 												Doug is the man! While I was freaking out about my court case, he talked
 												to me as a human helping give the information in a way I would
 												understand. Takes into account feelings among trying to figure where you
 												are as his client and ultimately trying to complete those goals. I would
-												recommend him to anyone seeking his services.
+												recommend him to anyone seeking his services.<span>"</span>
 											</p>
 										</div>
 										<div class="col-md-6">
 											<div class="image-wraper">
 												<img src="assets/images/douglas/cl-boy.png" alt="" class="bg-image">
-												<a href="assets/videos/video3.mp4" class="plyicon glightbox">
+												<a href="https://youtube.com/watch?v=Bg4rReP0RFw"
+													class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
 												</a>
 											</div>
@@ -443,19 +452,20 @@
 								<li class="splide__slide">
 									<div class="row align-items-center thmbslide">
 										<div class="col-md-6">
-											<h4>Larry Sizemore</h4>
-											<p>
+											<!-- <h4>Larry Sizemore</h4> -->
+											<p><span>"</span>
 												As a father, I have struggled for years to be a part of my son’s life,
 												dealing with the Louisiana courts and an ex-wife who placed barriers at
 												every turn. Mr. Brown helped me navigate the difficult legal system and
 												provided sound guidance and advice. Mr. Brown who helped
-												me get custody of my son!
+												me get custody of my son!<span>"</span>
 											</p>
 										</div>
 										<div class="col-md-6">
 											<div class="image-wraper">
 												<img src="assets/images/douglas/cl-boy.png" alt="" class="bg-image">
-												<a href="assets/videos/video1.mp4" class="plyicon glightbox">
+												<a href="https://youtube.com/watch?v=KwqtULEt-ko"
+													class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
 												</a>
 											</div>
@@ -467,7 +477,7 @@
 						<!-- <button class="splide__arrow splide__arrow--prev" type="button" aria-label="Previous slide">‹</button>
 						<button class="splide__arrow splide__arrow--next" type="button" aria-label="Next slide">›</button> -->
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

@@ -21,12 +21,16 @@
 				<div class="socials-p">
 					<h5>CONNECT WITH US</h5>
 					<div class="social-icons">
-						<a href="#0"><i class="fa fa-facebook"></i></a>
+						<a href="https://facebook.com/AttorneyDougBrown"><i class="fa fa-facebook"
+								target="_blank"></i></a>
 						<!-- <a href="#0"><i class="fa fa-twitter"></i></a> -->
 						<!-- <a href="#0"><i class="fa fa-pinterest-p"></i></a> -->
-						<a href="#0"><i class="fa fa-instagram"></i></a>
-						<a href="#0"><i class="fa fa-youtube"></i></a>
-						<a href="#0"><i class="fa fa-linkedin"></i></a>
+						<a href="https://instagram.com/divorcelawyerdoug/"><i class="fa fa-instagram"
+								target="_blank"></i></a>
+						<a href="https://youtube.com/channel/UCkXPS8hmAHYDyFnXgRevrUg"><i class="fa fa-youtube"
+								target="_blank"></i></a>
+						<a href="https://linkedin.com/in/douglas-brown-2a565136/"><i class="fa fa-linkedin"
+								target="_blank"></i></a>
 					</div>
 				</div>
 
@@ -92,17 +96,17 @@
 	})
 </script>
 <script>
-// Initialize the primary slider with working arrows and mouse functionality
-var primarySlider = new Splide('#primary_slider', {
-    type: 'loop', // Enables looping through slides
-    heightRatio: 0.5, // Sets height ratio for slides
-    pagination: false, // Disables pagination dots
-    arrows: true, // Enables left and right arrow controls
-    cover: true, // Ensures images fully cover the slide container
-    autoplay: false, // Optional: Disable autoplay
-    drag: true, // Enables mouse/touch dragging
-    rewind: true, // Allows rewinding to the first slide
-}).mount();
+	// Initialize the primary slider with working arrows and mouse functionality
+	var primarySlider = new Splide('#primary_slider', {
+		type: 'loop', // Enables looping through slides
+		heightRatio: 0.5, // Sets height ratio for slides
+		pagination: false, // Disables pagination dots
+		arrows: true, // Enables left and right arrow controls
+		cover: true, // Ensures images fully cover the slide container
+		autoplay: false, // Optional: Disable autoplay
+		drag: true, // Enables mouse/touch dragging
+		rewind: true, // Allows rewinding to the first slide
+	}).mount();
 
 </script>
 

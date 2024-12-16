@@ -15,7 +15,7 @@
 <!-- Banner End -->
 
 <!-- Services Section Start -->
-<div class="rs-services services-main-home pt-120 md-pt-80 md-pb-80">
+<div class="rs-services services-main-home pt-100 pb-100">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -27,8 +27,10 @@
 				<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="CriminalJustice">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/services/criminal-justice.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/services/criminal-justice.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/criminal-justice.png"
+								alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/criminal-justice.png"
+								alt="Services">
 						</div>
 						<div class="services-content" data-aos="fade-right" data-aos-duration="800">
 							<h3 class="title">Criminal Justice</h3>
@@ -48,8 +50,10 @@
 					<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="FamilyLaw">
 						<div class="services-wrap">
 							<div class="services-icon">
-								<img class="main-img" src="assets/images/douglas/services/family-law.png" alt="Services">
-								<img class="main-hover" src="assets/images/douglas/services/family-law.png" alt="Services">
+								<img class="main-img" src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover" src="assets/images/douglas/services/family-law.png"
+									alt="Services">
 							</div>
 							<div class="services-content">
 								<h3 class="title">Family Law</h3>
@@ -70,7 +74,8 @@
 					<div class="services-wrap">
 						<div class="services-icon">
 							<img class="main-img" src="assets/images/douglas/services/juvenile-law.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/services/juvenile-law.png" alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/juvenile-law.png"
+								alt="Services">
 						</div>
 						<div class="services-content">
 							<h3 class="title">Juvenile Law</h3>
@@ -111,8 +116,10 @@
 				<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="DrugTrafficking">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/services/drug-trafficking.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/services/drug-trafficking.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/drug-trafficking.png"
+								alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/drug-trafficking.png"
+								alt="Services">
 						</div>
 						<div class="services-content">
 							<h3 class="title">Drug Trafficking</h3>
@@ -128,16 +135,19 @@
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
-				<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="SexCrimes">
+				<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="FalselyAccused">
 					<div class="services-wrap">
 						<div class="services-icon">
-							<img class="main-img" src="assets/images/douglas/services/falsely-acused.png" alt="Services">
-							<img class="main-hover" src="assets/images/douglas/services/falsely-acused.png" alt="Services">
+							<img class="main-img" src="assets/images/douglas/services/falsely-acused.png"
+								alt="Services">
+							<img class="main-hover" src="assets/images/douglas/services/falsely-acused.png"
+								alt="Services">
 						</div>
 						<div class="services-content">
 							<h3 class="title">Falsely Accused</h3>
 							<p class="services-txt">
-								Being accused of a falsely accused can be life-altering, and we are dedicated to defending
+								Being accused of a falsely accused can be life-altering, and we are dedicated to
+								defending
 								your reputation and rights. Our legal team provides discreet, non-judgmental
 								representation for clients facing these serious charges. We develop tailored defense
 								strategies to challenge the evidence and ensure a fair trial. Trust us to stand by you
@@ -206,6 +216,74 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-lg-4 col-md-6">
+				<a href="adultery-divorce" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="AdulteryDivorce">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img" src="assets/images/douglas/services/adultery-divorce.png"
+									alt="Services">
+								<img class="main-hover" src="assets/images/douglas/services/adultery-divorce.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">Adultery Divorce</h3>
+								<p class="services-txt">
+									Your recovery, your justice, my mission. As
+									your personal injury attorney, I will fight to secure the compensation you
+									deserve, helping you rebuild and move forward.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6">
+				<a href="fedex-ups-amazon" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="FedexUPSAmazon">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img" src="assets/images/douglas/services/fedex.png" alt="Services">
+								<img class="main-hover" src="assets/images/douglas/services/fedex.png" alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">FedEx, UPS, Amazon</h3>
+								<p class="services-txt">
+									Accidents involving commercial trucks can result in catastrophic injuries. Even
+									worse, the companies often hide behind layers of corporations designed to make
+									fair...
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6">
+				<a href="criminalization-of-pregnancy" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="CriminalizationOfPregnancy">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img"
+									src="assets/images/douglas/services/criminalization-of-pregnancy.png"
+									alt="Services">
+								<img class="main-hover"
+									src="assets/images/douglas/services/criminalization-of-pregnancy.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">Criminalization of Pregnancy</h3>
+								<p class="services-txt">
+									Pregnancy-related charges, such as allegations involving substance use or fetal
+									harm, can lead to life-long legal and personal consequences. I understand the...
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
 		</div>
 	</div>
 </div>
@@ -233,17 +311,21 @@
 						<span>
 							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
-						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
-							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
-							passport to the future credit repair.</p>
+						<p>
+							I've had a lot of experience with lawyers and he's clearly one of the
+							absolute best. He treats his clients like people and has deep empathy
+							for the cases he works. While it's clear he isn't in it for the money,
+							he's worth every penny and more. Don't waste your time shopping around
+							go have a consult with him first.
+						</p>
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
 							<img src="assets/images/douglas/1.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
-							<div class="testi-name">Holing Tums</div>
-							<span class="designation">Developer</span>
+							<div class="testi-name">Linda Bogantes</div>
+							<!-- <span class="designation">Developer</span> -->
 						</div>
 					</div>
 				</div>
@@ -254,17 +336,21 @@
 						<span>
 							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
-						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
-							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
-							passport to the future credit repair.</p>
+						<p>
+							My experience with Douglas Brown attorney-at-law was definitely a smooth
+							professional experience. He took my case and quickly assured me that he
+							would have no problem working out the details and would keep me posted.
+							I received up-to-date texts as well as timely emails and calendar
+							appointments to add to my daily calendar.
+						</p>
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
 							<img src="assets/images/douglas/2.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
-							<div class="testi-name">Nikoling Toli</div>
-							<span class="designation">Manager</span>
+							<div class="testi-name">Louisiana Cajun Navy</div>
+							<!-- <span class="designation">Manager</span> -->
 						</div>
 					</div>
 				</div>
@@ -275,17 +361,21 @@
 						<span>
 							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
-						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
-							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
-							passport to the future credit repair.</p>
+						<p>
+							Doug is the man! While I was freaking out about my court case, he talked
+							to me as a human helping give the information in a way I would
+							understand. Takes into account feelings among trying to figure where you
+							are as his client and ultimately trying to complete those goals. I would
+							recommend him to anyone seeking his services.
+						</p>
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
 							<img src="assets/images/douglas/3.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
-							<div class="testi-name">Nicolas Puranix</div>
-							<span class="designation">Matrix Consulting</span>
+							<div class="testi-name">Logan Johnson</div>
+							<!-- <span class="designation">Matrix Consulting</span> -->
 						</div>
 					</div>
 				</div>
@@ -296,80 +386,21 @@
 						<span>
 							<img src="assets/images/douglas/quote.png" alt="Images">
 						</span>
-						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
-							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
-							passport to the future credit repair.</p>
+						<p>
+							As a father, I have struggled for years to be a part of my son’s life,
+							dealing with the Louisiana courts and an ex-wife who placed barriers at
+							every turn. Mr. Brown helped me navigate the difficult legal system and
+							provided sound guidance and advice. Mr. Brown who helped
+							me get custody of my son!
+						</p>
 					</div>
 					<div class="testi-content">
 						<!-- <div class="image-wrap">
 							<img src="assets/images/douglas/4.jpg" alt="Images">
 						</div> -->
 						<div class="testi-information">
-							<div class="testi-name">John Brovo</div>
-							<span class="designation">Digital Marketer</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="testi-item">
-				<div class="testi-wrap">
-					<div class="item-content-basic">
-						<span>
-							<img src="assets/images/douglas/quote.png" alt="Images">
-						</span>
-						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
-							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
-							passport to the future credit repair.</p>
-					</div>
-					<div class="testi-content">
-						<!-- <div class="image-wrap">
-							<img src="assets/images/douglas/1.jpg" alt="Images">
-						</div> -->
-						<div class="testi-information">
-							<div class="testi-name">Holing Tums</div>
-							<span class="designation">Developer</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="testi-item">
-				<div class="testi-wrap">
-					<div class="item-content-basic">
-						<span>
-							<img src="assets/images/douglas/quote.png" alt="Images">
-						</span>
-						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
-							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
-							passport to the future credit repair.</p>
-					</div>
-					<div class="testi-content">
-						<!-- <div class="image-wrap">
-							<img src="assets/images/douglas/2.jpg" alt="Images">
-						</div> -->
-						<div class="testi-information">
-							<div class="testi-name">Nikoling Toli</div>
-							<span class="designation">Manager</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="testi-item">
-				<div class="testi-wrap">
-					<div class="item-content-basic">
-						<span>
-							<img src="assets/images/douglas/quote.png" alt="Images">
-						</span>
-						<p>Education is the passport to the future for the tomor row belongs to those who pre pare for
-							it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the
-							passport to the future credit repair.</p>
-					</div>
-					<div class="testi-content">
-						<!-- <div class="image-wrap">
-							<img src="assets/images/douglas/3.jpg" alt="Images">
-						</div> -->
-						<div class="testi-information">
-							<div class="testi-name">Nicolas Puranix</div>
-							<span class="designation">Matrix Consulting</span>
+							<div class="testi-name">Larry Sizemore</div>
+							<!-- <span class="designation">Digital Marketer</span> -->
 						</div>
 					</div>
 				</div>
@@ -394,51 +425,60 @@
 						<div class="card">
 							<div class="card-header">
 								<a class="card-link" href="#" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-									aria-expanded="true">What Is My Credit Score Based On?</a>
+									aria-expanded="true">What types of cases does Douglas D. Brown handle?</a>
 							</div>
 							<div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
 								<div class="card-body">
-									On the other hand we denounce with righ tteous indign mation and dislike men who are
-									so beguiled and demo ralized by the charms of the moment.
+									Douglas D. Brown specializes in personal injury, family law (including adultery
+									divorce), and criminal defense cases. He is committed to representing individuals in
+									these areas and ensuring their rights and interests are aggressively defended.
 								</div>
 							</div>
 						</div>
 						<div class="card">
 							<div class="card-header">
 								<a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-									data-bs-target="#collapseTwo" aria-expanded="false">How the template process
-									works?</a>
+									data-bs-target="#collapseTwo" aria-expanded="false">Which areas does Douglas D.
+									Brown serve?</a>
 							</div>
 							<div id="collapseTwo" class="collapse" data-bs-parent="#accordion" style="">
 								<div class="card-body">
-									On the other hand we denounce with righ tteous indign mation and dislike men who are
-									so beguiled and demo ralized by the charms of the moment.
+									Douglas D. Brown provides legal services to clients throughout South Louisiana,
+									including the North Shore, Florida Parishes, and the Seventh Ward. Specific areas
+									served include Tangipahoa Parish, Livingston Parish, St. Tammany Parish, St. Helena
+									Parish, Ascension Parish, and Washington Parish. Cities served include Hammond,
+									Amite, Ponchatoula, Livingston, Denham Springs, Covington, Mandeville, Franklinton,
+									Bogalusa, Slidell, and Gonzales.
 								</div>
 							</div>
 						</div>
 						<div class="card">
 							<div class="card-header">
 								<a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-									data-bs-target="#collapseThree" aria-expanded="false">How much time this process
-									will take?</a>
+									data-bs-target="#collapseThree" aria-expanded="false">What makes Douglas D. Brown
+									stand out as a lawyer?</a>
 							</div>
 							<div id="collapseThree" class="collapse" data-bs-parent="#accordion" style="">
 								<div class="card-body">
-									On the other hand we denounce with righ tteous indign mation and dislike men who are
-									so beguiled and demo ralized by the charms of the moment.
+									Douglas D. Brown is known for his personalized approach. He takes the time to listen
+									to his clients, address their concerns, and ensure their stories are heard. His
+									commitment to uncovering the truth and defending his clients’ rights, liberty, and
+									reputation sets him apart.
 								</div>
 							</div>
 						</div>
 						<div class="card">
 							<div class="card-header">
 								<a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-									data-bs-target="#collapseFour" aria-expanded="false">What is the Credit Repair
-									website ?</a>
+									data-bs-target="#collapseFour" aria-expanded="false">How does Douglas D. Brown
+									approach client communication?</a>
 							</div>
 							<div id="collapseFour" class="collapse" data-bs-parent="#accordion" style="">
 								<div class="card-body">
-									On the other hand we denounce with righ tteous indign mation and dislike men who are
-									so beguiled and demo ralized by the charms of the moment.
+									Douglas D. Brown believes in open and thorough communication. He ensures that
+									clients feel heard and that their legal matters are discussed in detail. If it
+									matters to his clients, it matters to him, reflecting his dedication to their needs
+									and concerns.
 								</div>
 							</div>
 						</div>

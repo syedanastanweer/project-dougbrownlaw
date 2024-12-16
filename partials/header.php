@@ -104,35 +104,52 @@
 												<li><a href="<?php echo $baseUrl; ?>">Home</a></li>
 												<!-- <li><a href="practice-areas">Practice Areas</a></li> -->
 												<li class="menu-item-has-children">
-													<a href="<?php echo $baseUrl; ?>practice-areas">Practice Areas</a>
+													<a href="<?php echo $baseUrl; ?>practice-areas"
+														target="_blank">Practice Areas</a>
 													<ul class="sub-menu">
-														<li><a
-																href="<?php echo $baseUrl; ?>practice-areas#CriminalJustice">Criminal
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#CriminalJustice"
+																target="_blank">Criminal
 																Justice</a></li>
-														<li><a href="<?php echo $baseUrl; ?>practice-areas#FamilyLaw">Family
+														<li><a href="#PersonalInjury">Personal Injury</a></li>
+														<li><a href="#CriminalDefense">Criminal Defense</a></li>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#FamilyLaw"
+																target="_blank">Family
 																Law</a></li>
-														<li><a href="<?php echo $baseUrl; ?>practice-areas#JuvenileLaw">Juvenile
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#JuvenileLaw"
+																target="_blank">Juvenile
 																Law</a></li>
-														<li><a
-																href="<?php echo $baseUrl; ?>practice-areas#Homicide">Homicide</a>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#Homicide"
+																target="_blank">Homicide</a>
 														</li>
-														<li><a
-																href="<?php echo $baseUrl; ?>practice-areas#DrugTrafficking">Drug
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#DrugTrafficking"
+																target="_blank">Drug
 																Trafficking</a></li>
-														<li><a href="<?php echo $baseUrl; ?>practice-areas#SexCrimes">Sex
-																Crimes</a></li>
-														<li><a
-																href="<?php echo $baseUrl; ?>practice-areas#Kidnapping">Kidnapping</a>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#FalselyAccused"
+																target="_blank">Falsely Accused</a></li>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#Kidnapping"
+																target="_blank">Kidnapping</a>
 														</li>
-														<li><a
-																href="<?php echo $baseUrl; ?>practice-areas#Burglary">Burglary</a>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#Burglary"
+																target="_blank">Burglary</a>
 														</li>
-														<li><a href="<?php echo $baseUrl; ?>practice-areas#DWI">DWI</a>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#DWI"
+																target="_blank">DWI</a>
+														</li>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#AdulteryDivorce"
+																target="_blank">Adultery Divorce</a>
+														</li>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#FedexUPSAmazon"
+																target="_blank">Fedex UPS Amazon</a>
+														</li>
+														<li><a href="<?php echo $baseUrl; ?>practice-areas#CriminalizationOfPregnancy"
+																target="_blank">Criminalization of Pregnancy</a>
 														</li>
 													</ul>
 												</li>
-												<li><a href="<?php echo $baseUrl; ?>blogs">Blogs</a></li>
-												<li><a href="<?php echo $baseUrl; ?>about">About Us</a></li>
+												<li><a href="<?php echo $baseUrl; ?>blogs" target="_blank">Blogs</a>
+												</li>
+												<li><a href="<?php echo $baseUrl; ?>about" target="_blank">About Us</a>
+												</li>
 											</ul> <!-- //.nav-menu -->
 										</nav>
 									</div> <!-- //.main-menu -->
@@ -234,12 +251,16 @@
 								</div>
 							</div>
 							<ul class="social">
-								<li><a href="#0"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://facebook.com/AttorneyDougBrown"><i class="fa fa-facebook"
+											target="_blank"></i></a></li>
 								<!-- <li><a href="#0"><i class="fa fa-twitter"></i></a></li> -->
 								<!-- <li><a href="#0"><i class="fa fa-pinterest-p"></i></a></li> -->
-								<li><a href="#0"><i class="fa fa-instagram"></i></a></li>
-								<li><a href="#0"><i class="fa fa-youtube"></i></a></li>
-								<li><a href="#0"><i class="fa fa-linkedin"></i></a></li>
+								<li><a href="https://instagram.com/divorcelawyerdoug/"><i class="fa fa-instagram"
+											target="_blank"></i></a></li>
+								<li><a href="https://youtube.com/channel/UCkXPS8hmAHYDyFnXgRevrUg"><i
+											class="fa fa-youtube" target="_blank"></i></a></li>
+								<li><a href="https://linkedin.com/in/douglas-brown-2a565136/"><i class="fa fa-linkedin"
+											target="_blank"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -261,7 +282,8 @@
 						<li><a href="<?php echo $baseUrl; ?>practice-areas">Practice Areas</a></li>
 						<li><a href="<?php echo $baseUrl; ?>blogs">Blogs</a></li>
 						<li><a href="<?php echo $baseUrl; ?>about">About Us</a></li>
-						<li><a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">Contact Us</a></li>
+						<li><a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">Contact
+								Us</a></li>
 					</ul> <!-- //.nav-menu -->
 					<!-- //.nav-menu -->
 

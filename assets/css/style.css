@@ -4647,9 +4647,9 @@ Video CSS
   width: 100%;
   height: 60px;
   line-height: 29px;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
-  padding: 17px 25px 17px 25px;
+  padding: 16px 16px;
   border-radius: 0px 10px 0px 10px;
   background-color: #bb0b0b;
   color: #ffffff;
@@ -4673,9 +4673,10 @@ Video CSS
 .rs-faq.faq-style1 .faq-content .accordion .card .card-header .card-link.collapsed {
   background-color: #FFFFFF;
   color: #032e42;
+  font-size: 14px;
   padding: 17px 25px 17px 25px;
   border-radius: 0px 10px 0px 10px;
-  box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.18);
+  box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 1);
 }
 
 .rs-faq.faq-style1 .faq-content .accordion .card .card-header .card-link.collapsed:after {
@@ -5609,7 +5610,7 @@ Video CSS
 }
 
 .rs-testimonial.testimonial-style1 .testi-item .testi-wrap .item-content-basic p {
-  font-size: 19px;
+  font-size: 17px;
   line-height: 32px;
   font-weight: 400;
   font-style: italic;
@@ -7699,6 +7700,7 @@ Video CSS
 .secfive .secfiveleft p span {
   color: #FF0000;
 }
+
 .splide__arrow {
   position: absolute;
   top: 50%;
@@ -8044,9 +8046,33 @@ fieldset {
   font-size: 16px;
 }
 
-.text-italic{
+.text-italic {
   font-style: italic;
 }
+
+.elem-affirm {
+  position: relative;
+}
+
+.elem-affirm::before {
+  content: "";
+  background: url('../images/affirm.png') center center / auto no-repeat;
+  background-size: 100%;
+  position: absolute;
+  top: 16rem;
+  right: 8%;
+  width: 20%;
+  height: 4rem;
+}
+
+.affirm-logo{
+  text-align: left;
+  padding-top: 30px;
+}
+.affirm-logo img{
+  width: 100px;
+}
+
 @media screen and (min-width:320px) and (max-width:520px) {
 
   .hidden-sm {
