@@ -335,6 +335,213 @@
 					</div>
 				</a>
 			</div>
+			<div class="col-lg-4 col-md-6 md-mb-30">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">Wrongful Death</h3>
+								<p class="services-txt">
+									Losing a loved one due to someone else’s negligence is an unimaginable tragedy. I will handle your wrongful death claim with the utmost compassion and sensitivity, fighting to secure the compensation your family needs to move forward.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 md-mb-30">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">Drug Crimes</h3>
+								<p class="services-txt">
+									From possession to trafficking, drug charges carry severe penalties. I have extensive experience handling a wide range of drug-related cases and will work tirelessly to protect your rights and minimize the impact on your life.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 md-mb-30">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">DUI/DWI</h3>
+								<p class="services-txt">
+									A DUI or DWI conviction can lead to license suspension, hefty fines, and even jail time. I understand the complexities of DUI/DWI law and will challenge the evidence against you, fighting to preserve your driving privileges and freedom.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 md-mb-30">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">Theft Crimes</h3>
+								<p class="services-txt">
+									Whether you are facing charges of misdemeanor theft, felony theft, or burglary, I will mount a strong defense on your behalf, working to reduce or dismiss the charges whenever possible.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 md-mb-30">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">Falsely Accused</h3>
+								<p class="services-txt">
+									There is no worse accusation than being falsely accused of a sex offense. I am experienced in defending against accusations of sex offenses and complex cases involving simultaneous criminal prosecution, OCS/DCFS allegations, and child custody battles.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 md-mb-30">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">Violent Crimes</h3>
+								<p class="services-txt">
+									Accusations of violent crimes, such as assault, battery, or homicide, can carry life-altering consequences. I will thoroughly investigate the circumstances surrounding your case and build a compelling defense to protect your future.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 md-mb-30">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">White-Collar Crimes</h3>
+								<p class="services-txt">
+									White-collar crimes, such as fraud, embezzlement, and money laundering, require a sophisticated defense approach. I have the knowledge and experience necessary to navigate the complexities of these cases and safeguard your reputation.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 md-mb-30">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">Domestic Violence</h3>
+								<p class="services-txt">
+									Domestic violence allegations can have far-reaching effects on your personal and professional life. I will work to uncover the truth, protect your rights, and help you move forward with your life.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 md-mb-30">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover"
+									src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">Juvenile Crimes</h3>
+								<p class="services-txt">
+									A criminal record can hinder your child’s ability to secure employment, housing, and educational opportunities. I can help you and your family navigate the juvenile justice system and I will fight to protect your child from over-zealous prosecution.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
 		</div>
 	</div>
 </div>
@@ -394,7 +601,8 @@
 										</div>
 										<div class="col-md-6">
 											<div class="image-wraper">
-												<img src="assets/images/douglas/cl-girl.png" alt="" class="bg-image">
+												<img src="assets/images/douglas/thumbnail-one.jpg" alt=""
+													class="bg-image">
 												<a href="https://youtube.com/watch?v=G1fUaoZ7Vig"
 													class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
@@ -417,8 +625,34 @@
 										</div>
 										<div class="col-md-6">
 											<div class="image-wraper">
-												<img src="assets/images/douglas/cl-boy.png" alt="" class="bg-image">
+												<img src="assets/images/douglas/thumbnail-two.jpg" alt=""
+													class="bg-image">
 												<a href="https://youtube.com/watch?v=bdJs7BCCuIM"
+													class="plyicon glightbox">
+													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
+												</a>
+											</div>
+										</div>
+									</div>
+								</li>
+
+								<li class="splide__slide">
+									<div class="row align-items-center thmbslide">
+										<div class="col-md-6">
+											<!-- <h4>Larry Sizemore</h4> -->
+											<p><span>"</span>
+												As a father, I have struggled for years to be a part of my son’s life,
+												dealing with the Louisiana courts and an ex-wife who placed barriers at
+												every turn. Mr. Brown helped me navigate the difficult legal system and
+												provided sound guidance and advice. Mr. Brown who helped
+												me get custody of my son!<span>"</span>
+											</p>
+										</div>
+										<div class="col-md-6">
+											<div class="image-wraper">
+												<img src="assets/images/douglas/thumbnail-three.jpg" alt=""
+													class="bg-image">
+												<a href="https://youtube.com/watch?v=KwqtULEt-ko"
 													class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
 												</a>
@@ -440,31 +674,9 @@
 										</div>
 										<div class="col-md-6">
 											<div class="image-wraper">
-												<img src="assets/images/douglas/cl-boy.png" alt="" class="bg-image">
+												<img src="assets/images/douglas/thumbnail-two.jpg" alt=""
+													class="bg-image">
 												<a href="https://youtube.com/watch?v=Bg4rReP0RFw"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Larry Sizemore</h4> -->
-											<p><span>"</span>
-												As a father, I have struggled for years to be a part of my son’s life,
-												dealing with the Louisiana courts and an ex-wife who placed barriers at
-												every turn. Mr. Brown helped me navigate the difficult legal system and
-												provided sound guidance and advice. Mr. Brown who helped
-												me get custody of my son!<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/cl-boy.png" alt="" class="bg-image">
-												<a href="https://youtube.com/watch?v=KwqtULEt-ko"
 													class="plyicon glightbox">
 													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
 												</a>
