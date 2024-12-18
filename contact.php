@@ -56,7 +56,7 @@
 			<div class="col-lg-8 pl-70 md-pl-15">
 				<div class="contact-wrap" data-aos="fade-left" data-aos-duration="800">
 					<div id="form-messages"></div>
-					<form id="contact-form" method="post" action="mailer.php">
+					<form id="contact-form" method="post" action="mail.php">
 						<fieldset>
 							<div class="row">
 								<div class="col-lg-6 col-md-6 col-sm-6 mb-25">
@@ -64,17 +64,17 @@
 										required="">
 								</div>
 								<div class="col-lg-6 col-md-6 col-sm-6 mb-25">
-									<input class="from-control" type="text" id="email" name="email" placeholder="E-Mail"
-										required="">
-								</div>
-								<div class="col-lg-6 col-md-6 col-sm-6 mb-25">
 									<input class="from-control" type="text" id="phone" name="phone"
 										placeholder="Phone Number" required="">
 								</div>
-								<div class="col-lg-6 col-md-6 col-sm-6 mb-25">
+								<div class="col-lg-12 col-md-12 col-sm-12 mb-25">
+									<input class="from-control" type="text" id="email" name="email" placeholder="E-Mail"
+										required="">
+								</div>
+								<!-- <div class="col-lg-6 col-md-6 col-sm-6 mb-25">
 									<input class="from-control" type="text" id="subject" name="subject"
 										placeholder="Subject" required="">
-								</div>
+								</div> -->
 								<div class="col-lg-12 mb-30">
 									<textarea class="from-control" id="message" name="message" placeholder="Message"
 										required=""></textarea>

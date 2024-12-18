@@ -148,7 +148,7 @@
 												</li>
 												<li><a href="<?php echo $baseUrl; ?>blogs" target="_blank">Blogs</a>
 												</li>
-												<li><a href="<?php echo $baseUrl; ?>about" target="_blank">About Us</a>
+												<li><a href="<?php echo $baseUrl; ?>about" target="_blank">About</a>
 												</li>
 											</ul> <!-- //.nav-menu -->
 										</nav>

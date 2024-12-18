@@ -7948,9 +7948,9 @@ Video CSS
   cursor: pointer;
 }
 
-.hero-section a {
+/* .hero-section a {
   color: #000000;
-}
+} */
 
 .rs-services .titlenew {
   text-align: center;
@@ -8065,11 +8065,12 @@ fieldset {
   height: 4rem;
 }
 
-.affirm-logo{
+.affirm-logo {
   text-align: left;
   padding-top: 30px;
 }
-.affirm-logo img{
+
+.affirm-logo img {
   width: 100px;
 }
 
@@ -8315,5 +8316,13 @@ fieldset {
     font-size: 22px;
     text-transform: uppercase;
     padding-bottom: 0px;
+  }
+
+  .thmbslide p {
+    font-style: italic;
+    color: #000000;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: normal;
   }
 }
