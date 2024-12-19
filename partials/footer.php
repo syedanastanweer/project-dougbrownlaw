@@ -37,6 +37,10 @@
 				<div class="alright">
 					<p>© 2024 Dougbrownlaw. All rights reserved.</p>
 				</div>
+
+				<div>
+					<p>The Douglas Brown Law Firm, LLC, 201 NW Railroad Ave Suite 112, Hammond, LA 70401, United States</p>
+				</div>
 			</div>
 
 		</div>
@@ -96,19 +100,30 @@
 	})
 </script>
 <script>
-	// Initialize the primary slider with working arrows and mouse functionality
-	var primarySlider = new Splide('#primary_slider', {
-		type: 'loop', // Enables looping through slides
-		heightRatio: 0.5, // Sets height ratio for slides
-		pagination: false, // Disables pagination dots
-		arrows: true, // Enables left and right arrow controls
-		cover: true, // Ensures images fully cover the slide container
-		autoplay: false, // Optional: Disable autoplay
-		drag: true, // Enables mouse/touch dragging
-		rewind: true, // Allows rewinding to the first slide
-	}).mount();
+        document.addEventListener('DOMContentLoaded', function () {
+            var primarySlider = new Splide('#primary_slider', {
+                type: 'loop',
+                heightRatio: 0.5,
+                pagination: false,
+                arrows: true,
+                cover: true,
+                autoplay: true,
+                interval: 2000,
+                drag: true,
+                rewind: true,
+                pauseOnHover: true,
+                pauseOnFocus: true,
+                perPage: 1, // Ensures one slide per page for mobile
+                breakpoints: {
+                    768: {
+                        perPage: 1, // Show one column per slide for mobile
+                        arrows: true,
+                    }
+                }
+            }).mount();
+        });
+    </script>
 
-</script>
 
 <script src='https://unpkg.com/aos@2.3.0/dist/aos.js'></script>
 <!-- modernizr js -->

@@ -159,7 +159,7 @@
 			</div>
 		</div>
 		<div class="row box-margin-row">
-			<div class="col-lg-4 col-md-6 md-mb-30">
+			<!-- <div class="col-lg-4 col-md-6 md-mb-30">
 				<div class="services-item" data-aos="fade-right" data-aos-duration="800" id="Kidnapping">
 					<div class="services-wrap">
 						<div class="services-icon">
@@ -177,8 +177,8 @@
 						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 sm-mb-30">
+			</div> -->
+			<!-- <div class="col-lg-4 col-md-6 sm-mb-30">
 				<div class="services-item" data-aos="fade-down" data-aos-duration="800" id="Burglary">
 					<div class="services-wrap">
 						<div class="services-icon">
@@ -196,7 +196,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="col-lg-4 col-md-6">
 				<div class="services-item" data-aos="fade-left" data-aos-duration="800" id="DWI">
 					<div class="services-wrap">
@@ -278,6 +278,52 @@
 								<p class="services-txt">
 									Pregnancy-related charges, such as allegations involving substance use or fetal
 									harm, can lead to life-long legal and personal consequences. I understand the...
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img" src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover" src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">Violent Crimes</h3>
+								<p class="services-txt">
+									Accusations of violent crimes, such as assault, battery, or homicide, can carry
+									life-altering consequences. I will thoroughly investigate the circumstances
+									surrounding your case and build a compelling defense to protect your future.
+								</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6">
+				<a href="#0" target="_blank">
+					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
+						<div class="services-wrap">
+							<div class="services-icon">
+								<img class="main-img" src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+								<img class="main-hover" src="assets/images/douglas/services/family-law.png"
+									alt="Services">
+							</div>
+
+							<div class="services-content">
+								<h3 class="title">White-Collar Crimes</h3>
+								<p class="services-txt">
+									White-collar crimes, such as fraud, embezzlement, and money laundering, require a
+									sophisticated defense approach. I have the knowledge and experience necessary to
+									navigate the complexities of these cases and safeguard your reputation.
 								</p>
 							</div>
 						</div>
@@ -410,146 +456,5 @@
 </div>
 <!-- Testimonial Section End -->
 <!-- Faq Start -->
-<div class="rs-faq faq-style1 pt-120 pb-120 md-pt-80 md-pb-80">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 pr-55 md-pr-15 md-mb-50">
-				<div class="sec-title mb-45" data-aos="fade-right" data-aos-duration="800">
-					<span class="sub-text">Faq</span>
-					<h2 class="title">
-						Asked Any Questions
-					</h2>
-				</div>
-				<div class="faq-content" data-aos="fade-right" data-aos-duration="800">
-					<div id="accordion" class="accordion">
-						<div class="card">
-							<div class="card-header">
-								<a class="card-link" href="#" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-									aria-expanded="true">What types of cases does Douglas D. Brown handle?</a>
-							</div>
-							<div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
-								<div class="card-body">
-									Douglas D. Brown specializes in personal injury, family law (including adultery
-									divorce), and criminal defense cases. He is committed to representing individuals in
-									these areas and ensuring their rights and interests are aggressively defended.
-								</div>
-							</div>
-						</div>
-						<div class="card">
-							<div class="card-header">
-								<a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-									data-bs-target="#collapseTwo" aria-expanded="false">Which areas does Douglas D.
-									Brown serve?</a>
-							</div>
-							<div id="collapseTwo" class="collapse" data-bs-parent="#accordion" style="">
-								<div class="card-body">
-									Douglas D. Brown provides legal services to clients throughout South Louisiana,
-									including the North Shore, Florida Parishes, and the Seventh Ward. Specific areas
-									served include Tangipahoa Parish, Livingston Parish, St. Tammany Parish, St. Helena
-									Parish, Ascension Parish, and Washington Parish. Cities served include Hammond,
-									Amite, Ponchatoula, Livingston, Denham Springs, Covington, Mandeville, Franklinton,
-									Bogalusa, Slidell, and Gonzales.
-								</div>
-							</div>
-						</div>
-						<div class="card">
-							<div class="card-header">
-								<a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-									data-bs-target="#collapseThree" aria-expanded="false">What makes Douglas D. Brown
-									stand out as a lawyer?</a>
-							</div>
-							<div id="collapseThree" class="collapse" data-bs-parent="#accordion" style="">
-								<div class="card-body">
-									Douglas D. Brown is known for his personalized approach. He takes the time to listen
-									to his clients, address their concerns, and ensure their stories are heard. His
-									commitment to uncovering the truth and defending his clients’ rights, liberty, and
-									reputation sets him apart.
-								</div>
-							</div>
-						</div>
-						<div class="card">
-							<div class="card-header">
-								<a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-									data-bs-target="#collapseFour" aria-expanded="false">How does Douglas D. Brown
-									approach client communication?</a>
-							</div>
-							<div id="collapseFour" class="collapse" data-bs-parent="#accordion" style="">
-								<div class="card-body">
-									Douglas D. Brown believes in open and thorough communication. He ensures that
-									clients feel heard and that their legal matters are discussed in detail. If it
-									matters to his clients, it matters to him, reflecting his dedication to their needs
-									and concerns.
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<!-- Contact Start -->
-				<div class="rs-contact contact-style1" data-aos="fade-left" data-aos-duration="800">
-					<div class="contact-section">
-						<div class="sec-title mb-28">
-							<span class="sub-text">Let’s talk</span>
-							<h2 class="title">
-								Free Consultation
-							</h2>
-						</div>
-						<div class="contact-wrap">
-							<div id="form-messages"></div>
-							<form id="contact-form" method="post" action="mailer.php">
-								<fieldset>
-									<div class="row">
-										<div class="col-lg-6 col-md-6 col-sm-6 mb-25">
-											<input class="from-control" type="text" id="name" name="name"
-												placeholder="Name" required="">
-										</div>
-										<div class="col-lg-6 col-md-6 col-sm-6 mb-25">
-											<input class="from-control" type="text" id="email" name="email"
-												placeholder="E-Mail" required="">
-										</div>
-										<div class="col-lg-6 col-md-6 col-sm-6 mb-25">
-											<input class="from-control" type="text" id="phone" name="phone"
-												placeholder="Phone Number" required="">
-										</div>
-										<div class="col-lg-6 col-md-6 col-sm-6 mb-25">
-											<input class="from-control" type="text" id="subject" name="subject"
-												placeholder="Subject" required="">
-										</div>
-										<div class="col-lg-12 mb-30">
-											<textarea class="from-control" id="message" name="message"
-												placeholder="Message" required=""></textarea>
-										</div>
-									</div>
-									<div class="btn-part">
-										<div class="form-group mb-0">
-											<input class="readon submit" type="submit" value="Submit Now">
-										</div>
-									</div>
-								</fieldset>
-							</form>
-						</div>
-					</div>
-				</div>
-				<!-- Contact End -->
-			</div>
-		</div>
-	</div>
-</div>
-<!-- Faq End -->
-<!-- Cta Start -->
-<div class="rs-cta pt-116 pb-115 bg3 md-pt-76 md-pb-75">
-	<div class="container">
-		<div class="sec-title text-center" data-aos="fade-down" data-aos-duration="800">
-			<h2 class="title title2">
-				Are You Ready to Get<br>
-				Free Consultation?
-			</h2>
-			<div class="btn-part mt-45 md-mt-30">
-				<a class="readon cta-started" href="contact">Get Started</a>
-			</div>
-		</div>
-	</div>
-</div>
 <!-- Cta End -->
 <?php include 'partials/footer.php'; ?>

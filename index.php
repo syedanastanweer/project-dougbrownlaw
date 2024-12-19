@@ -15,7 +15,7 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				<div class="hidden-sm">
+				<div class="leftside hidden-sm">
 					<!-- <div class="elem-affirm">&nbsp;</div> -->
 					<img src="assets/images/douglas/header-right.png" alt="">
 				</div>
@@ -96,6 +96,303 @@
 		</div>
 	</div>
 </section>
+
+
+<section class="secsix padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="thumbnail_slider">
+					<h3 data-aos="fade-left" data-aos-duration="800">Client's Appreciation</h3>
+					<div id="primary_slider" class="splide" data-aos="fade-right" data-aos-duration="800">
+						<div class="splide__track">
+							<ul class="splide__list">
+								<li class="splide__slide">
+									<div class="row align-items-center">
+										<div class="col-md-4">
+											<div class="row align-items-center thmbslide">
+												<div class="testivideobottom">
+													<div class="image-wraper">
+														<img src="assets/images/douglas/thumbnail-one.jpg" alt=""
+															class="bg-image">
+														<a href="https://youtube.com/watch?v=G1fUaoZ7Vig"
+															class="plyicon glightbox">
+															<img src="assets/images/douglas/play-icon.png"
+																alt="Play Icon">
+														</a>
+													</div>
+												</div>
+												<div class="testivideotop">
+													<!-- <h4>Linda Bogantes</h4> -->
+													<p><span>"</span>
+														I've had a lot of experience with lawyers and he's clearly one
+														of the
+														absolute best. He treats his clients like people and has deep
+														empathy
+														for the cases he works. While it's clear he isn't in it for the
+														money,
+														he's worth every penny and more.<span>"</span>
+													</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="row align-items-center thmbslide center">
+												<div class="testivideobottom">
+													<div class="image-wraper">
+														<img src="assets/images/douglas/thumbnail-two.jpg" alt=""
+															class="bg-image">
+														<a href="https://youtube.com/watch?v=bdJs7BCCuIM"
+															class="plyicon glightbox">
+															<img src="assets/images/douglas/play-icon.png"
+																alt="Play Icon">
+														</a>
+													</div>
+												</div>
+												<div class="testivideotop">
+													<!-- <h4>Louisiana Cajun Navy</h4> -->
+													<p><span>"</span>
+														My experience with Douglas Brown attorney-at-law was definitely
+														a smooth
+														professional experience. He took my case and quickly assured me
+														that he
+														would have no problem working out the details and would keep me
+														posted.
+														<span>"</span>
+													</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="row align-items-center thmbslide">
+												<div class="testivideobottom">
+													<div class="image-wraper">
+														<img src="assets/images/douglas/thumbnail-three.jpg" alt=""
+															class="bg-image">
+														<a href="https://youtube.com/watch?v=KwqtULEt-ko"
+															class="plyicon glightbox">
+															<img src="assets/images/douglas/play-icon.png"
+																alt="Play Icon">
+														</a>
+													</div>
+												</div>
+												<div class="testivideotop">
+													<!-- <h4>Larry Sizemore</h4> -->
+													<p><span>"</span>
+														As a father, I have struggled for years to be a part of my son’s
+														life,
+														dealing with the Louisiana courts and an ex-wife who placed
+														barriers at
+														every turn. Mr. Brown helped me navigate the difficult legal
+														system and
+														provided sound guidance and advice.<span>"</span>
+													</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="splide__slide">
+									<div class="row align-items-center">
+										<div class="col-md-4">
+											<div class="row align-items-center thmbslide">
+												<div class="testivideobottom">
+													<div class="image-wraper">
+														<img src="assets/images/douglas/thumbnail-two.jpg" alt=""
+															class="bg-image">
+														<a href="https://youtube.com/watch?v=Bg4rReP0RFw"
+															class="plyicon glightbox">
+															<img src="assets/images/douglas/play-icon.png"
+																alt="Play Icon">
+														</a>
+													</div>
+												</div>
+												<div class="testivideotop">
+													<!-- <h4>Logan Johnson</h4> -->
+													<p><span>"</span>
+														Doug is the man! While I was freaking out about my court case,
+														he talked
+														to me as a human helping give the information in a way I would
+														understand. Takes into account feelings among trying to figure
+														where you
+														are as his client and ultimately<span>"</span>
+													</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="row align-items-center thmbslide center">
+												<div class="testivideobottom">
+													<div class="image-wraper">
+														<img src="assets/images/douglas/thumbnail-five.jpg" alt=""
+															class="bg-image">
+														<a href="https://youtube.com/watch?v=nbI8xpmg_nc"
+															class="plyicon glightbox">
+															<img src="assets/images/douglas/play-icon.png"
+																alt="Play Icon">
+														</a>
+													</div>
+												</div>
+												<div class="testivideotop">
+													<!-- <h4>Logan Johnson</h4> -->
+													<p><span>"</span>
+														Doug is an outstanding attorney, he is a consummate professional
+														that
+														takes time to answer the concerns of his clients.<span>"</span>
+													</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="row align-items-center thmbslide">
+												<div class="testivideobottom">
+													<div class="image-wraper">
+														<img src="assets/images/douglas/thumbnail-six.jpg" alt=""
+															class="bg-image">
+														<a href="https://youtube.com/watch?v=r34b9Dc6Elc"
+															class="plyicon glightbox">
+															<img src="assets/images/douglas/play-icon.png"
+																alt="Play Icon">
+														</a>
+													</div>
+												</div>
+												<div class="testivideotop">
+													<!-- <h4>Logan Johnson</h4> -->
+													<p><span>"</span>
+														I can’t thank Mr. Brown enough for his hard work and dedication.
+														He
+														handled my case with professionalism and showed genuine concern
+														for my
+														situation. His expertise and timely communication gave me peace
+														of mind
+														during a stressful time.<span>"</span>
+													</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="splide__slide">
+									<div class="row align-items-center">
+										<div class="col-md-4">
+											<div class="row align-items-center thmbslide">
+												<div class="testivideobottom">
+													<div class="image-wraper">
+														<img src="assets/images/douglas/thumbnail-seven.jpg" alt=""
+															class="bg-image">
+														<a href="https://www.youtube.com/watch?v=Idi2HB2fy60"
+															class="plyicon glightbox">
+															<img src="assets/images/douglas/play-icon.png"
+																alt="Play Icon">
+														</a>
+													</div>
+												</div>
+												<div class="testivideotop">
+													<!-- <h4>Logan Johnson</h4> -->
+													<p><span>"</span>
+														From start to finish, Mr. Brown was exceptional. He explained
+														every step
+														of the legal process in detail, ensuring I felt confident and
+														informed.
+														His dedication to achieving the best outcome truly sets him
+														apart. I’m
+														forever grateful for his help!<span>"</span>
+													</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="row align-items-center thmbslide center">
+												<div class="testivideobottom">
+													<div class="image-wraper">
+														<img src="assets/images/douglas/thumbnail-eight.jpg" alt=""
+															class="bg-image">
+														<a href="https://youtube.com/watch?v=BNFKEJIhpyg"
+															class="plyicon glightbox">
+															<img src="assets/images/douglas/play-icon.png"
+																alt="Play Icon">
+														</a>
+													</div>
+												</div>
+												<div class="testivideotop">
+													<!-- <h4>Logan Johnson</h4> -->
+													<p><span>"</span>
+														Mr. Brown was a blessing during a difficult time in my life. He
+														was
+														patient, understanding, and gave clear advice that helped me
+														through my
+														legal troubles. I always felt like a priority, and the result he
+														delivered was better than I could’ve imagined.<span>"</span>
+													</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="row align-items-center thmbslide">
+												<div class="testivideobottom">
+													<div class="image-wraper">
+														<img src="assets/images/douglas/thumbnail-nine.jpg" alt=""
+															class="bg-image">
+														<a href="https://youtube.com/watch?v=QQSu1SIkzyM"
+															class="plyicon glightbox">
+															<img src="assets/images/douglas/play-icon.png"
+																alt="Play Icon">
+														</a>
+													</div>
+												</div>
+												<div class="testivideotop">
+													<!-- <h4>Logan Johnson</h4> -->
+													<p><span>"</span>
+														Doug’s approach is both professional and personable. He listened
+														to my
+														concerns and fought tirelessly for me. His ability to simplify
+														the
+														complexities of law made a world of difference. If you’re
+														looking for a
+														lawyer who truly cares, Doug is the one!<span>"</span>
+													</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="secfive">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-5">
+				<div class="secfiveleft" data-aos="fade-right" data-aos-duration="800">
+					<h3>About</h3>
+					<h4>DOUGLAS D. BROWN</h4>
+					<p><span>Personal Injury, Adultery Divorce, And Criminal Defense Lawyer</span></p>
+					<p>You have a story to tell, and I can help you be heard.</p>
+					<p>As your lawyer, I will defend you, your liberty, your rights and your reputation
+						aggressively, and I have tools at my disposal to help uncover the truth.</p>
+					<p>I will take the time to discuss your legal matter and address your
+						concerns.</p>
+					<p>If it matters to you, it matters to me.</p>
+					<div class="btnsanchor">
+						<a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421"
+							target="_blank">
+							Book Free Phone Consultation</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-7">
+
+			</div>
+		</div>
+	</div>
+</section>
+
 
 <section class="sectwo padding-top">
 	<div class="container">
@@ -211,9 +508,11 @@
 							<div class="services-content">
 								<h3 class="title">Family Law</h3>
 								<p class="services-txt">
-									Your recovery, your justice, my mission. As
-									your personal injury attorney, I will fight to secure the compensation you
-									deserve, helping you rebuild and move forward.
+									Family disputes can be emotionally challenging, and we are committed to providing
+									compassionate and effective legal solutions. From divorce and child custody to
+									spousal support and adoption, we handle all aspects of family law. Our goal is to
+									help you resolve conflicts while protecting your interests and those of your loved
+									ones. Let us guide you through this sensitive process with care.
 								</p>
 							</div>
 
@@ -233,8 +532,11 @@
 							<div class="services-content">
 								<h3 class="title">Personal Injury</h3>
 								<p class="services-txt">
-									Include full details as shared, covering car accidents, wrongful death, and the
-									section on FedEx, UPS, Amazon accidents.
+									When you’ve been injured due to someone else’s negligence, the physical, emotional,
+									and financial toll can be overwhelming. You need a dedicated personal injury
+									attorney who will stand by your side, fighting for the compensation you deserve.
+									With three decades of experience, I am committed to being the advocate you need
+									during this challenging time.
 								</p>
 							</div>
 
@@ -303,8 +605,11 @@
 								<h3 class="title">FedEx, UPS, Amazon</h3>
 								<p class="services-txt">
 									Accidents involving commercial trucks can result in catastrophic injuries. Even
-									worse, the companies often hide behind layers of corporations designed to make
-									fair...
+									worse, the companies often hide behind layers of corporations designed to make fair
+									recovery difficult.
+									I have the knowledge and experience necessary to navigate the complexities of truck
+									accident cases and protect your rights against powerful trucking companies like
+									FedEx, UPS, Amazon, and their insurers.
 								</p>
 							</div>
 						</div>
@@ -328,7 +633,10 @@
 								<h3 class="title">Criminalization of Pregnancy</h3>
 								<p class="services-txt">
 									Pregnancy-related charges, such as allegations involving substance use or fetal
-									harm, can lead to life-long legal and personal consequences. I understand the...
+									harm, can lead to life-long legal and personal consequences. I understand the
+									sensitive nature and complex legal issues surrounding these cases and will
+									vigorously defend your reproductive rights and bodily autonomy from unfair and
+									intrusive government action.
 								</p>
 							</div>
 						</div>
@@ -404,29 +712,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-lg-4 col-md-6 md-mb-30">
-				<a href="#0" target="_blank">
-					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
-						<div class="services-wrap">
-							<div class="services-icon">
-								<img class="main-img" src="assets/images/douglas/services/family-law.png"
-									alt="Services">
-								<img class="main-hover" src="assets/images/douglas/services/family-law.png"
-									alt="Services">
-							</div>
 
-							<div class="services-content">
-								<h3 class="title">Theft Crimes</h3>
-								<p class="services-txt">
-									Whether you are facing charges of misdemeanor theft, felony theft, or burglary, I
-									will mount a strong defense on your behalf, working to reduce or dismiss the charges
-									whenever possible.
-								</p>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
 			<div class="col-lg-4 col-md-6 md-mb-30">
 				<a href="#0" target="_blank">
 					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
@@ -452,30 +738,7 @@
 				</a>
 			</div>
 			<div class="col-lg-4 col-md-6 md-mb-30">
-				<a href="#0" target="_blank">
-					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
-						<div class="services-wrap">
-							<div class="services-icon">
-								<img class="main-img" src="assets/images/douglas/services/family-law.png"
-									alt="Services">
-								<img class="main-hover" src="assets/images/douglas/services/family-law.png"
-									alt="Services">
-							</div>
-
-							<div class="services-content">
-								<h3 class="title">Violent Crimes</h3>
-								<p class="services-txt">
-									Accusations of violent crimes, such as assault, battery, or homicide, can carry
-									life-altering consequences. I will thoroughly investigate the circumstances
-									surrounding your case and build a compelling defense to protect your future.
-								</p>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-lg-4 col-md-6 md-mb-30">
-				<a href="#0" target="_blank">
+				<a href="#0">
 					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
 						<div class="services-wrap">
 							<div class="services-icon">
@@ -498,7 +761,7 @@
 				</a>
 			</div>
 			<div class="col-lg-4 col-md-6 md-mb-30">
-				<a href="#0" target="_blank">
+				<a href="#0">
 					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
 						<div class="services-wrap">
 							<div class="services-icon">
@@ -520,8 +783,8 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-lg-4 col-md-6 md-mb-30">
-				<a href="#0" target="_blank">
+			<div class="col-lg-4 col-md-6 offset-md-4 md-mb-30">
+				<a href="#0">
 					<div class="services-item" data-aos="fade-right" data-aos-duration="800">
 						<div class="services-wrap">
 							<div class="services-icon">
@@ -547,304 +810,6 @@
 	</div>
 </div>
 <!-- Services Section End -->
-
-
-<section class="secfive">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-5">
-				<div class="secfiveleft" data-aos="fade-right" data-aos-duration="800">
-					<h3>About</h3>
-					<h4>DOUGLAS D. BROWN</h4>
-					<p><span>Personal Injury, Adultery Divorce, And Criminal Defense Lawyer</span></p>
-					<p>You have a story to tell, and I can help you be heard.</p>
-					<p>As your lawyer, I will defend you, your liberty, your rights and your reputation
-						aggressively, and I have tools at my disposal to help uncover the truth.</p>
-					<p>I will take the time to discuss your legal matter and address your
-						concerns.</p>
-					<p>If it matters to you, it matters to me.</p>
-					<div class="btnsanchor">
-						<a href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421"
-							target="_blank">
-							Book Free Phone Consultation</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-7">
-
-			</div>
-		</div>
-	</div>
-</section>
-
-<section class="secsix padding">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="thumbnail_slider">
-					<h3 data-aos="fade-left" data-aos-duration="800">Client's Appreciation</h3>
-					<div id="primary_slider" data-aos="fade-right" data-aos-duration="800">
-						<div class="splide__track">
-							<ul class="splide__list">
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Linda Bogantes</h4> -->
-
-											<p><span>"</span>
-												I've had a lot of experience with lawyers and he's clearly one of the
-												absolute best. He treats his clients like people and has deep empathy
-												for the cases he works. While it's clear he isn't in it for the money,
-												he's worth every penny and more. Don't waste your time shopping around
-												go have a consult with him first.<span>"</span>
-											</p>
-
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-one.jpg" alt=""
-													class="bg-image">
-												<a href="https://youtube.com/watch?v=G1fUaoZ7Vig"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Louisiana Cajun Navy</h4> -->
-											<p><span>"</span>
-												My experience with Douglas Brown attorney-at-law was definitely a smooth
-												professional experience. He took my case and quickly assured me that he
-												would have no problem working out the details and would keep me posted.
-												I received up-to-date texts as well as timely emails and calendar
-												appointments to add to my daily calendar.<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-two.jpg" alt=""
-													class="bg-image">
-												<a href="https://youtube.com/watch?v=bdJs7BCCuIM"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Larry Sizemore</h4> -->
-											<p><span>"</span>
-												As a father, I have struggled for years to be a part of my son’s life,
-												dealing with the Louisiana courts and an ex-wife who placed barriers at
-												every turn. Mr. Brown helped me navigate the difficult legal system and
-												provided sound guidance and advice. Mr. Brown who helped
-												me get custody of my son!<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-three.jpg" alt=""
-													class="bg-image">
-												<a href="https://youtube.com/watch?v=KwqtULEt-ko"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Logan Johnson</h4> -->
-											<p><span>"</span>
-												Doug is the man! While I was freaking out about my court case, he talked
-												to me as a human helping give the information in a way I would
-												understand. Takes into account feelings among trying to figure where you
-												are as his client and ultimately trying to complete those goals. I would
-												recommend him to anyone seeking his services.<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-two.jpg" alt=""
-													class="bg-image">
-												<a href="https://youtube.com/watch?v=Bg4rReP0RFw"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Brent Jaareau</h4> -->
-											<p><span>"</span>
-												Mr. Brown took a case of mine involving an incident on I-12. After
-												getting involved, he helped guide the process, worked diligently behind
-												the scenes, and always communicated the next steps. As someone who has
-												struggled with anxiety, this was one off my plate. The court involved
-												process is a long one and can be intense at times. I’m glad Mr. Brown
-												helped handle that process so I could continue with my job, daily life
-												and family. He saved me from an extensive rough journey.<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-four.jpg" alt=""
-													class="bg-image">
-												<a href="https://youtube.com/watch?v=Hmylr5h4Faw"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Logan Johnson</h4> -->
-											<p><span>"</span>
-												Doug is an outstanding attorney, he is a consummate professional that
-												takes time to answer the concerns of his clients.<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-five.jpg" alt=""
-													class="bg-image">
-												<a href="https://youtube.com/watch?v=nbI8xpmg_nc"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-
-
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Logan Johnson</h4> -->
-											<p><span>"</span>
-												I can’t thank Mr. Brown enough for his hard work and dedication. He handled my case with professionalism and showed genuine concern for my situation. His expertise and timely communication gave me peace of mind during a stressful time. I highly recommend him to anyone needing legal help.<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-six.jpg" alt=""
-													class="bg-image">
-												<a href="https://youtube.com/watch?v=r34b9Dc6Elc"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Logan Johnson</h4> -->
-											<p><span>"</span>
-												From start to finish, Mr. Brown was exceptional. He explained every step of the legal process in detail, ensuring I felt confident and informed. His dedication to achieving the best outcome truly sets him apart. I’m forever grateful for his help!<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-seven.jpg" alt=""
-													class="bg-image">
-												<a href="https://www.youtube.com/watch?v=Idi2HB2fy60"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Logan Johnson</h4> -->
-											<p><span>"</span>
-												Mr. Brown was a blessing during a difficult time in my life. He was patient, understanding, and gave clear advice that helped me through my legal troubles. I always felt like a priority, and the result he delivered was better than I could’ve imagined.<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-eight.jpg" alt=""
-													class="bg-image">
-												<a href="https://youtube.com/watch?v=BNFKEJIhpyg"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Logan Johnson</h4> -->
-											<p><span>"</span>
-												Doug’s approach is both professional and personable. He listened to my concerns and fought tirelessly for me. His ability to simplify the complexities of law made a world of difference. If you’re looking for a lawyer who truly cares, Doug is the one!<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-nine.jpg" alt=""
-													class="bg-image">
-												<a href="https://youtube.com/watch?v=QQSu1SIkzyM"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-								<li class="splide__slide">
-									<div class="row align-items-center thmbslide">
-										<div class="col-md-6">
-											<!-- <h4>Logan Johnson</h4> -->
-											<p><span>"</span>
-												Mr. Brown’s dedication to my case was unmatched. He not only worked diligently behind the scenes but also provided constant updates and reassurance. Thanks to his expertise and attention to detail, my case was resolved smoothly. I highly recommend him to anyone in need.<span>"</span>
-											</p>
-										</div>
-										<div class="col-md-6">
-											<div class="image-wraper">
-												<img src="assets/images/douglas/thumbnail-ten.jpg" alt=""
-													class="bg-image">
-												<a href="https://youtube.com/watch?v=EfZs7OvOua0"
-													class="plyicon glightbox">
-													<img src="assets/images/douglas/play-icon.png" alt="Play Icon">
-												</a>
-											</div>
-										</div>
-									</div>
-								</li>
-							</ul>
-						</div>
-						<!-- <button class="splide__arrow splide__arrow--prev" type="button" aria-label="Previous slide">‹</button>
-						<button class="splide__arrow splide__arrow--next" type="button" aria-label="Next slide">›</button> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
 
 

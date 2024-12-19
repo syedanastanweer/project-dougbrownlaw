@@ -107,9 +107,9 @@
 													<a href="<?php echo $baseUrl; ?>practice-areas"
 														target="_blank">Practice Areas</a>
 													<ul class="sub-menu">
-														<li><a href="<?php echo $baseUrl; ?>practice-areas#CriminalJustice"
+														<!-- <li><a href="<?php echo $baseUrl; ?>practice-areas#CriminalJustice"
 																target="_blank">Criminal
-																Justice</a></li>
+																Justice</a></li> -->
 														<li><a href="#PersonalInjury">Personal Injury</a></li>
 														<li><a href="#CriminalDefense">Criminal Defense</a></li>
 														<li><a href="<?php echo $baseUrl; ?>practice-areas#FamilyLaw"
@@ -126,12 +126,12 @@
 																Trafficking</a></li>
 														<li><a href="<?php echo $baseUrl; ?>practice-areas#FalselyAccused"
 																target="_blank">Falsely Accused</a></li>
-														<li><a href="<?php echo $baseUrl; ?>practice-areas#Kidnapping"
+														<!-- <li><a href="<?php echo $baseUrl; ?>practice-areas#Kidnapping"
 																target="_blank">Kidnapping</a>
-														</li>
-														<li><a href="<?php echo $baseUrl; ?>practice-areas#Burglary"
+														</li> -->
+														<!-- <li><a href="<?php echo $baseUrl; ?>practice-areas#Burglary"
 																target="_blank">Burglary</a>
-														</li>
+														</li> -->
 														<li><a href="<?php echo $baseUrl; ?>practice-areas#DWI"
 																target="_blank">DWI</a>
 														</li>
@@ -149,6 +149,8 @@
 												<li><a href="<?php echo $baseUrl; ?>blogs" target="_blank">Blogs</a>
 												</li>
 												<li><a href="<?php echo $baseUrl; ?>about" target="_blank">About</a>
+												</li>
+												<li><a href="<?php echo $baseUrl; ?>contact" target="_blank">Contact</a>
 												</li>
 											</ul> <!-- //.nav-menu -->
 										</nav>

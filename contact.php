@@ -18,42 +18,55 @@
 <div class="rs-contact contact-style3 padding">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-4 md-mb-60">
+			<div class="col-lg-12 md-mb-60">
 				<div class="contact-box" data-aos="fade-right" data-aos-duration="800">
 					<div class="sec-title mb-45 md-mb-30">
-						<span class="sub-text sub-text3">Speak with Our Legal</span>
-						<h2 class="title">This keeps it short, clear, and directly related to the legal field.</h2>
-					</div>
-					<div class="address-box mb-25">
-						<div class="address-icon">
-							<i class="fa fa-home"></i>
+						<div class="row">
+							<div class="col-md-12">
+								<span class="sub-text sub-text3 text-center">Speak with Our Legal</span>
+								<h2 class="title text-center">This keeps it short, clear, and directly related to the
+									legal
+									field.</h2>
+							</div>
 						</div>
-						<div class="address-text">
-							<span class="label">Email:</span>
-							<a href="mailto:info@dougbrownlaw.com">info@dougbrownlaw.com</a>
-						</div>
-					</div>
-					<div class="address-box mb-25">
-						<div class="address-icon">
-							<i class="fa fa-phone"></i>
-						</div>
-						<div class="address-text">
-							<span class="label">Phone:</span>
-							<a href="tel:(985) 310-6900">(985) 310-6900</a>
-						</div>
-					</div>
-					<div class="address-box">
-						<div class="address-icon">
-							<i class="fa fa-map-marker"></i>
-						</div>
-						<div class="address-text">
-							<span class="label">Address:</span>
-							<div class="desc">Hammond, Louisiana</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="inner">
+									<div class="address-box">
+										<div class="address-icon">
+											<i class="fa fa-home"></i>
+										</div>
+										<div class="address-text">
+											<span class="label">Email:</span>
+											<a href="mailto:info@dougbrownlaw.com">info@dougbrownlaw.com</a>
+										</div>
+									</div>
+									<div class="address-box">
+										<div class="address-icon">
+											<i class="fa fa-phone"></i>
+										</div>
+										<div class="address-text">
+											<span class="label">Phone:</span>
+											<a href="tel:(985) 310-6900">(985) 310-6900</a>
+										</div>
+									</div>
+									<div class="address-box wnew40">
+										<div class="address-icon">
+											<i class="fa fa-map-marker"></i>
+										</div>
+										<div class="address-text">
+											<span class="label">Address:</span>
+											<div class="desc">The Douglas Brown Law Firm, LLC, 201 NW Railroad Ave Suite 112, Hammond, LA 70401, United States</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-8 pl-70 md-pl-15">
+			<!-- <div class="col-lg-8 pl-70 md-pl-15">
 				<div class="contact-wrap" data-aos="fade-left" data-aos-duration="800">
 					<div id="form-messages"></div>
 					<form id="contact-form" method="post" action="mail.php">
@@ -71,10 +84,6 @@
 									<input class="from-control" type="text" id="email" name="email" placeholder="E-Mail"
 										required="">
 								</div>
-								<!-- <div class="col-lg-6 col-md-6 col-sm-6 mb-25">
-									<input class="from-control" type="text" id="subject" name="subject"
-										placeholder="Subject" required="">
-								</div> -->
 								<div class="col-lg-12 mb-30">
 									<textarea class="from-control" id="message" name="message" placeholder="Message"
 										required=""></textarea>
@@ -88,8 +97,9 @@
 						</fieldset>
 					</form>
 				</div>
-			</div>
+			</div> -->
 		</div>
+
 	</div>
 	<!-- <div class="map-canvas pt-120 md-pt-80">
 		<iframe src="https://maps.google.com/maps?q=Devsdesign&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>

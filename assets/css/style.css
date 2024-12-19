@@ -7719,11 +7719,11 @@ Video CSS
 }
 
 .splide__arrow--prev {
-  left: -40px !important;
+  left: -60px !important;
 }
 
 .splide__arrow--next {
-  right: -40px !important;
+  right: -60px !important;
 }
 
 
@@ -7744,12 +7744,19 @@ Video CSS
 
 .thmbslide {
   border: 2px solid #FF0000;
-  padding: 10px 0px 10px 30px;
-  margin: 10px;
+  padding: 10px;
+  margin: 0px;
+  transition: all 0.5s ease;
+  /* Smooth transition for height and other properties */
+}
+
+.thmbslide.center {
+  height: 36rem;
+  /* Increased height for center column */
 }
 
 .secsix #primary_slider .splide__slide {
-  height: 500px !important;
+  height: 38rem !important;
   width: auto;
   transition: opacity 400ms cubic-bezier(0.42, 0.65, 0.27, 0.99);
 }
@@ -7785,10 +7792,10 @@ Video CSS
   font-style: italic;
   color: #000000;
   font-weight: 100;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.6;
+  text-align: center;
 }
-
 
 .secseven {
   position: relative;
@@ -7909,7 +7916,7 @@ Video CSS
 .alright {
   text-align: left;
   display: inline-block;
-  padding-bottom: 100px;
+  padding-bottom: 40px;
 }
 
 .socials-p {
@@ -8074,10 +8081,69 @@ fieldset {
   width: 100px;
 }
 
+.hero-section .leftside img {
+  position: relative;
+  top: -12px;
+}
+
+.contact-box .inner {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.contact-box .inner .address-box{
+  margin-right: 20px;
+}
+
+.wnew40{
+  width: 40%;
+}
+
+@media screen and (min-width:1366px) and (max-width:1450px) {
+
+  .hero-section .leftside img {
+    position: relative;
+    top: -30px;
+    height: 40rem;
+  }
+
+  .full-width-header .rs-header .menu-area .row-table .col-cell.header-logo {
+    display: flex;
+    flex: 1;
+  }
+
+}
+
 @media screen and (min-width:320px) and (max-width:520px) {
 
   .hidden-sm {
     display: none;
+  }
+
+  .splide__slide .row {
+    display: flex;
+    flex-direction: column;
+    /* Stack columns vertically */
+  }
+
+
+  .splide__slide .col-md-4 {
+    width: 100%;
+    /* Full width for mobile */
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+
+  .affirm-logo {
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
 
   .hero-section {
@@ -8269,7 +8335,7 @@ fieldset {
   }
 
   .secsix #primary_slider .splide__slide {
-    height: 48rem !important;
+    height: 30rem !important;
   }
 
   .thumbnail_slider .col-md-6:nth-child(1) {
@@ -8293,7 +8359,7 @@ fieldset {
     transition: all ease .3s;
     text-align: left;
     color: #ffffff;
-    padding-bottom: 40px;
+    /* padding-bottom: 40px; */
   }
 
   .hero-section a {
