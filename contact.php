@@ -18,7 +18,7 @@
 <div class="rs-contact contact-style3 padding">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-12 md-mb-60">
+			<div class="col-lg-12">
 				<div class="contact-box" data-aos="fade-right" data-aos-duration="800">
 					<div class="sec-title mb-45 md-mb-30">
 						<div class="row">

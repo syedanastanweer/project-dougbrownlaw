@@ -8096,11 +8096,11 @@ fieldset {
   padding-top: 40px;
 }
 
-.contact-box .inner .address-box{
+.contact-box .inner .address-box {
   margin-right: 20px;
 }
 
-.wnew40{
+.wnew40 {
   width: 40%;
 }
 
@@ -8123,6 +8123,14 @@ fieldset {
 
   .hidden-sm {
     display: none;
+  }
+
+  .contact-box .inner {
+    display: block;
+  }
+
+  .wnew40 {
+    width: 100%;
   }
 
   .splide__slide .row {
