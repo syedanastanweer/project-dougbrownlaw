@@ -23,7 +23,7 @@
 					<div class="sec-title mb-45 md-mb-30">
 						<div class="row">
 							<div class="col-md-12">
-								<span class="sub-text sub-text3 text-center">Speak with Our Legal</span>
+								<!-- <span class="sub-text sub-text3 text-center">Speak with Our Legal</span> -->
 								<h2 class="title text-center">This keeps it short, clear, and directly related to the
 									legal
 									field.</h2>
@@ -56,7 +56,14 @@
 										</div>
 										<div class="address-text">
 											<span class="label">Address:</span>
-											<div class="desc">The Douglas Brown Law Firm, LLC, 201 NW Railroad Ave Suite 112, Hammond, LA 70401, United States</div>
+											<div class="desc">
+												<a href="https://maps.app.goo.gl/8brZWvkJdpw8jXtv5"
+													target="_blank">
+													The Douglas Brown Law Firm, LLC, 201 NW Railroad Ave Suite 112,
+													Hammond, LA 70401, United States
+												</a>
+											</div>
+
 										</div>
 									</div>
 								</div>
@@ -122,7 +129,9 @@
 			<div class="col-lg-5">
 				<div class="sec-title text-right md-text-center" data-aos="fade-left" data-aos-duration="800">
 					<div class="btn-part">
-						<a class="readon cta-started" href="contact">Get Started</a>
+						<a class="readon cta-started"
+							href="https://dougbrownlaw.cliogrow.com/book/41b6c1bc1ab4fefb787332cd86fbd421">Get
+							Started</a>
 					</div>
 				</div>
 			</div>

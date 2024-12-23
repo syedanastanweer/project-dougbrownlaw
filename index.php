@@ -557,9 +557,12 @@
 							<div class="services-content">
 								<h3 class="title">Criminal Defense</h3>
 								<p class="services-txt">
-									Update with the specified text, covering drug crimes, DUI/DWI, theft crimes, falsely
-									accused (previously "Sex Crimes"), violent crimes, white-collar crimes, domestic
-									violence, juvenile crimes, and criminalization of pregnancy.
+									When you find yourself facing criminal charges, the weight of the legal system can
+									feel overwhelming. You need a seasoned criminal defense attorney who will stand by
+									your side, fiercely protecting your rights and fighting for your freedom. With three
+									decades of experience, I am committed to being the advocate you need during this
+									challenging time.
+
 								</p>
 							</div>
 						</div>
