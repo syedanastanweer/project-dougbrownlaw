@@ -2,7 +2,7 @@
 <!--Full width header End-->
 <section class="hero-section">
 	<div class="container">
-		<div class="row pt-160 sm-pt-40 align-items-center">
+		<div class="row pt-head sm-pt-40 align-items-center">
 			<div class="col-md-6">
 				<div class="hero-left" data-aos="fade-right" data-aos-duration="1000">
 					<h4>Hammond, Louisiana</h4>
@@ -15,10 +15,9 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				<div class="leftside hidden-sm">
-					<!-- <div class="elem-affirm">&nbsp;</div> -->
+				<!-- <div class="leftside hidden-sm">
 					<img src="assets/images/douglas/header-right.png" alt="">
-				</div>
+				</div> -->
 				<!-- <div class="hero-right">
 					<div class="header-lead-form" data-aos="fade-left" data-aos-duration="1000">
 						<div class="contact-title">

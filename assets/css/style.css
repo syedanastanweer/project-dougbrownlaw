@@ -1376,7 +1376,7 @@ blockquote p cite:before {
 
 .full-width-header .rs-header .menu-area .row-table .col-cell.header-logo {
   display: flex;
-  /* flex: 1; */
+  flex: 1;
 }
 
 .full-width-header .rs-header .menu-area .logo-area a .sticky-logo {
@@ -7224,7 +7224,7 @@ Video CSS
 
 .hero-section {
   position: relative;
-  height: 100vh;
+  height: 60rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -8109,7 +8109,175 @@ fieldset {
   width: 40%;
 }
 
-@media screen and (min-width:1366px) and (max-width:1450px) {
+.pt-head {
+  padding-top: 32%;
+}
+
+/* @media screen and (min-width:800px) and (max-width:1300px) {} */
+
+
+
+@media screen and (min-width:800px) and (max-width:1300px) {
+  .full-width-header .rs-header .menu-area .logo-area img {
+    transition: 0.4s;
+    max-height: 100%;
+    max-width: 70%;
+  }
+
+  .menunewright .lefts {
+    align-items: center;
+  }
+
+  .menunewright .lefts .icn img {
+    height: 30px;
+  }
+
+  .pt-head {
+    padding-top: 24%;
+  }
+
+  .full-width-header .rs-header .menu-area .row-table .col-cell.header-logo {
+    display: flex;
+    flex: 1;
+  }
+
+  .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li {
+    display: inline-block;
+    margin-right: 20px;
+    padding: 0;
+  }
+
+  .hero-section {
+    position: relative;
+    height: 46rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 0 20px;
+    overflow: hidden;
+  }
+
+  /* .thmbslide.center {
+    height: 14rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  } */
+
+  .padding {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .secfive .secfiveleft h4 {
+    color: #ffffff;
+    font-size: 38px;
+    font-family: 'Anton', sans-serif;
+    font-weight: normal;
+    padding: 38px 0;
+    margin: 0;
+  }
+
+  .secfive .secfiveleft a {
+    text-transform: uppercase;
+    font-size: 12px;
+    background-color: #FF0000;
+    color: #ffffff;
+    padding: 14px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .sectwo a {
+    text-transform: uppercase;
+    font-size: 14px;
+    background-color: #FF0000;
+    color: #ffffff !important;
+    padding: 14px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .sectwo h4 {
+    text-transform: uppercase;
+    font-size: 28px;
+    line-height: 40px;
+    color: #000000;
+  }
+
+}
+
+
+@media screen and (min-width:800px) and (max-width:1280px) {
+  .hero-left h4 {
+    text-align: left;
+    color: #ffffff;
+    font-size: 40px;
+    font-family: 'Great Vibes', sans-serif;
+    font-weight: normal;
+  }
+
+  .hero-left p {
+    text-align: left;
+    color: #ffffff;
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0;
+    line-height: 60px;
+  }
+
+  .hero-section a {
+    text-transform: uppercase;
+    font-size: 14px;
+    background-color: #FF0000;
+    color: #ffffff;
+    padding: 14px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  /* .pt-head {
+    padding-top: 40%;
+  } */
+}
+
+.menu-area.menu-sticky .logo-area .normal-logo {
+  max-width: 40%;
+}
+
+
+.menu-area.menu-sticky.sticky .logo-area .normal-logo {
+  max-width: 30%;
+}
+
+@media screen and (min-width:1350px) and (max-width:1600px) {
+
+  .full-width-header .rs-header .menu-area .logo-area img {
+    transition: 0.4s;
+    max-height: 100%;
+    max-width: 60%;
+  }
+
+  .hero-section {
+    position: relative;
+    height: 45rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 0 20px;
+    overflow: hidden;
+  }
+
+  .pt-head {
+    padding-top: 20%;
+  }
 
   .hero-section .leftside img {
     position: relative;
@@ -8125,6 +8293,19 @@ fieldset {
 }
 
 @media screen and (min-width:320px) and (max-width:520px) {
+
+  .hero-section::before {
+    content: "";
+    position: absolute;
+    top: 8%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('../images/douglas/banner-mob.png') center center / cover no-repeat;
+    z-index: -1;
+    filter: brightness(0.8);
+    /* animation: zoomInOutBg 18s ease-in-out infinite; */
+  }
 
   .hidden-sm {
     display: none;
@@ -8348,7 +8529,7 @@ fieldset {
   }
 
   .secsix #primary_slider .splide__slide {
-    height: 30rem !important;
+    height: 20rem !important;
   }
 
   .thumbnail_slider .col-md-6:nth-child(1) {
