@@ -497,14 +497,14 @@ body .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li
 		width: 100%;
 		-webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
 		box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
-		-webkit-animation-duration: .5s;
+		/* -webkit-animation-duration: .5s;
 		animation-duration: .5s;
 		-webkit-animation-name: sticky-animation;
 		animation-name: sticky-animation;
 		-webkit-animation-timing-function: ease-out;
 		animation-timing-function: ease-out;
 		-webkit-animation-fill-mode: both;
-		animation-fill-mode: both;
+		animation-fill-mode: both; */
     }
     .rs-header .menu-area.sticky .main-menu .rs-menu ul li > a {
       color: #161616;

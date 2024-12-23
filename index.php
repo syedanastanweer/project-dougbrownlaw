@@ -2,7 +2,7 @@
 <!--Full width header End-->
 <section class="hero-section">
 	<div class="container">
-		<div class="row pt-100 sm-pt-40 align-items-center">
+		<div class="row pt-160 sm-pt-40 align-items-center">
 			<div class="col-md-6">
 				<div class="hero-left" data-aos="fade-right" data-aos-duration="1000">
 					<h4>Hammond, Louisiana</h4>
@@ -103,7 +103,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="thumbnail_slider">
-					<h3 data-aos="fade-left" data-aos-duration="800">Client's Appreciation</h3>
+					<h3 data-aos="fade-left" data-aos-duration="800">Video Library</h3>
 					<div id="primary_slider" class="splide" data-aos="fade-right" data-aos-duration="800">
 						<div class="splide__track">
 							<ul class="splide__list">
@@ -124,7 +124,7 @@
 												</div>
 												<div class="testivideotop">
 													<!-- <h4>Linda Bogantes</h4> -->
-													<p><span>"</span>
+													<!-- <p><span>"</span>
 														I've had a lot of experience with lawyers and he's clearly one
 														of the
 														absolute best. He treats his clients like people and has deep
@@ -132,7 +132,7 @@
 														for the cases he works. While it's clear he isn't in it for the
 														money,
 														he's worth every penny and more.<span>"</span>
-													</p>
+													</p> -->
 												</div>
 											</div>
 										</div>
@@ -151,7 +151,7 @@
 												</div>
 												<div class="testivideotop">
 													<!-- <h4>Louisiana Cajun Navy</h4> -->
-													<p><span>"</span>
+													<!-- <p><span>"</span>
 														My experience with Douglas Brown attorney-at-law was definitely
 														a smooth
 														professional experience. He took my case and quickly assured me
@@ -159,7 +159,7 @@
 														would have no problem working out the details and would keep me
 														posted.
 														<span>"</span>
-													</p>
+													</p> -->
 												</div>
 											</div>
 										</div>
@@ -178,7 +178,7 @@
 												</div>
 												<div class="testivideotop">
 													<!-- <h4>Larry Sizemore</h4> -->
-													<p><span>"</span>
+													<!-- <p><span>"</span>
 														As a father, I have struggled for years to be a part of my son’s
 														life,
 														dealing with the Louisiana courts and an ex-wife who placed
@@ -186,7 +186,7 @@
 														every turn. Mr. Brown helped me navigate the difficult legal
 														system and
 														provided sound guidance and advice.<span>"</span>
-													</p>
+													</p> -->
 												</div>
 											</div>
 										</div>
@@ -209,14 +209,14 @@
 												</div>
 												<div class="testivideotop">
 													<!-- <h4>Logan Johnson</h4> -->
-													<p><span>"</span>
+													<!-- <p><span>"</span>
 														Doug is the man! While I was freaking out about my court case,
 														he talked
 														to me as a human helping give the information in a way I would
 														understand. Takes into account feelings among trying to figure
 														where you
 														are as his client and ultimately<span>"</span>
-													</p>
+													</p> -->
 												</div>
 											</div>
 										</div>
@@ -235,11 +235,11 @@
 												</div>
 												<div class="testivideotop">
 													<!-- <h4>Logan Johnson</h4> -->
-													<p><span>"</span>
+													<!-- <p><span>"</span>
 														Doug is an outstanding attorney, he is a consummate professional
 														that
 														takes time to answer the concerns of his clients.<span>"</span>
-													</p>
+													</p> -->
 												</div>
 											</div>
 										</div>
@@ -258,7 +258,7 @@
 												</div>
 												<div class="testivideotop">
 													<!-- <h4>Logan Johnson</h4> -->
-													<p><span>"</span>
+													<!-- <p><span>"</span>
 														I can’t thank Mr. Brown enough for his hard work and dedication.
 														He
 														handled my case with professionalism and showed genuine concern
@@ -266,7 +266,7 @@
 														situation. His expertise and timely communication gave me peace
 														of mind
 														during a stressful time.<span>"</span>
-													</p>
+													</p> -->
 												</div>
 											</div>
 										</div>
@@ -289,7 +289,7 @@
 												</div>
 												<div class="testivideotop">
 													<!-- <h4>Logan Johnson</h4> -->
-													<p><span>"</span>
+													<!-- <p><span>"</span>
 														From start to finish, Mr. Brown was exceptional. He explained
 														every step
 														of the legal process in detail, ensuring I felt confident and
@@ -297,7 +297,7 @@
 														His dedication to achieving the best outcome truly sets him
 														apart. I’m
 														forever grateful for his help!<span>"</span>
-													</p>
+													</p> -->
 												</div>
 											</div>
 										</div>
@@ -316,14 +316,14 @@
 												</div>
 												<div class="testivideotop">
 													<!-- <h4>Logan Johnson</h4> -->
-													<p><span>"</span>
+													<!-- <p><span>"</span>
 														Mr. Brown was a blessing during a difficult time in my life. He
 														was
 														patient, understanding, and gave clear advice that helped me
 														through my
 														legal troubles. I always felt like a priority, and the result he
 														delivered was better than I could’ve imagined.<span>"</span>
-													</p>
+													</p> -->
 												</div>
 											</div>
 										</div>
@@ -342,7 +342,7 @@
 												</div>
 												<div class="testivideotop">
 													<!-- <h4>Logan Johnson</h4> -->
-													<p><span>"</span>
+													<!-- <p><span>"</span>
 														Doug’s approach is both professional and personable. He listened
 														to my
 														concerns and fought tirelessly for me. His ability to simplify
@@ -350,7 +350,7 @@
 														complexities of law made a world of difference. If you’re
 														looking for a
 														lawyer who truly cares, Doug is the one!<span>"</span>
-													</p>
+													</p> -->
 												</div>
 											</div>
 										</div>
@@ -898,6 +898,128 @@
 	</div>
 </div>
 <!-- Blog Section End -->
+
+<!-- Testimonial Section Start -->
+<div id="rs-testimonial" class="rs-testimonial testimonial-style1 bg4 pt-120 pb-115 md-pt-80 md-pb-75">
+	<div class="container">
+		<div class="sec-title mb-45" data-aos="fade-right" data-aos-duration="800">
+			<span class="sub-text text-white">Testimonial</span>
+			<h2 class="title text-white">
+				Our Client Reviews
+			</h2>
+		</div>
+		<div class="rs-carousel owl-carousel" data-loop="true" data-items="2" data-margin="30" data-autoplay="true"
+			data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false"
+			data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1"
+			data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2"
+			data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2"
+			data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="2" data-md-device-nav="false"
+			data-md-device-dots="true" data-aos="fade-up" data-aos-duration="800">
+			<div class="testi-item">
+				<div class="testi-wrap">
+					<div class="item-content-basic">
+						<span>
+							<img src="assets/images/douglas/quote.png" alt="Images">
+						</span>
+						<p>
+							I've had a lot of experience with lawyers and he's clearly one of the
+							absolute best. He treats his clients like people and has deep empathy
+							for the cases he works. While it's clear he isn't in it for the money,
+							he's worth every penny and more. Don't waste your time shopping around
+							go have a consult with him first.
+						</p>
+					</div>
+					<div class="testi-content">
+						<!-- <div class="image-wrap">
+							<img src="assets/images/douglas/1.jpg" alt="Images">
+						</div> -->
+						<div class="testi-information">
+							<div class="testi-name">Linda Bogantes</div>
+							<!-- <span class="designation">Developer</span> -->
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="testi-item">
+				<div class="testi-wrap">
+					<div class="item-content-basic">
+						<span>
+							<img src="assets/images/douglas/quote.png" alt="Images">
+						</span>
+						<p>
+							My experience with Douglas Brown attorney-at-law was definitely a smooth
+							professional experience. He took my case and quickly assured me that he
+							would have no problem working out the details and would keep me posted.
+							I received up-to-date texts as well as timely emails and calendar
+							appointments to add to my daily calendar.
+						</p>
+					</div>
+					<div class="testi-content">
+						<!-- <div class="image-wrap">
+							<img src="assets/images/douglas/2.jpg" alt="Images">
+						</div> -->
+						<div class="testi-information">
+							<div class="testi-name">Louisiana Cajun Navy</div>
+							<!-- <span class="designation">Manager</span> -->
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="testi-item">
+				<div class="testi-wrap">
+					<div class="item-content-basic">
+						<span>
+							<img src="assets/images/douglas/quote.png" alt="Images">
+						</span>
+						<p>
+							Doug is the man! While I was freaking out about my court case, he talked
+							to me as a human helping give the information in a way I would
+							understand. Takes into account feelings among trying to figure where you
+							are as his client and ultimately trying to complete those goals. I would
+							recommend him to anyone seeking his services.
+						</p>
+					</div>
+					<div class="testi-content">
+						<!-- <div class="image-wrap">
+							<img src="assets/images/douglas/3.jpg" alt="Images">
+						</div> -->
+						<div class="testi-information">
+							<div class="testi-name">Logan Johnson</div>
+							<!-- <span class="designation">Matrix Consulting</span> -->
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="testi-item">
+				<div class="testi-wrap">
+					<div class="item-content-basic">
+						<span>
+							<img src="assets/images/douglas/quote.png" alt="Images">
+						</span>
+						<p>
+							As a father, I have struggled for years to be a part of my son’s life,
+							dealing with the Louisiana courts and an ex-wife who placed barriers at
+							every turn. Mr. Brown helped me navigate the difficult legal system and
+							provided sound guidance and advice. Mr. Brown who helped
+							me get custody of my son!
+						</p>
+					</div>
+					<div class="testi-content">
+						<!-- <div class="image-wrap">
+							<img src="assets/images/douglas/4.jpg" alt="Images">
+						</div> -->
+						<div class="testi-information">
+							<div class="testi-name">Larry Sizemore</div>
+							<!-- <span class="designation">Digital Marketer</span> -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Testimonial Section End -->
+
 <section class="secnine">
 	<iframe
 		src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55001.460458010384!2d-90.45752934999999!3d30.5043155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x862722b86526da5f%3A0xdef4bf97f4e2b2ed!2sHammond%2C%20LA%2C%20USA!5e0!3m2!1sen!2s!4v1733749950088!5m2!1sen!2s"
