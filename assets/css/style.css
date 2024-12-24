@@ -1357,6 +1357,7 @@ blockquote p cite:before {
   position: fixed;
   transition: all 0.3s ease 0s;
   z-index: 10;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .full-width-header .rs-header .menu-area .row-table {
@@ -8113,9 +8114,13 @@ fieldset {
   padding-top: 32%;
 }
 
-/* @media screen and (min-width:800px) and (max-width:1300px) {} */
+.footer-address a:hover {
+  color: #bb0b0b;
+}
 
-
+.list-unstyled a:hover {
+  color: #bb0b0b;
+}
 
 @media screen and (min-width:800px) and (max-width:1300px) {
   .full-width-header .rs-header .menu-area .logo-area img {

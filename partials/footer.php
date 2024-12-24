@@ -38,8 +38,11 @@
 					<p>© 2024 Dougbrownlaw. All rights reserved.</p>
 				</div>
 
-				<div>
-					<p>The Douglas Brown Law Firm, LLC, 201 NW Railroad Ave Suite 112, Hammond, LA 70401, United States</p>
+				<div class="footer-address">
+					<p><a href="https://maps.app.goo.gl/8brZWvkJdpw8jXtv5" target="_blank">
+							The Douglas Brown Law Firm, LLC, 201 NW Railroad Ave Suite 112,
+							Hammond, LA 70401, United States
+						</a></p>
 				</div>
 			</div>
 
@@ -100,29 +103,29 @@
 	})
 </script>
 <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            var primarySlider = new Splide('#primary_slider', {
-                type: 'loop',
-                heightRatio: 0.5,
-                pagination: false,
-                arrows: true,
-                cover: true,
-                autoplay: true,
-                interval: 2000,
-                drag: true,
-                rewind: true,
-                pauseOnHover: true,
-                pauseOnFocus: true,
-                perPage: 1, // Ensures one slide per page for mobile
-                breakpoints: {
-                    768: {
-                        perPage: 1, // Show one column per slide for mobile
-                        arrows: true,
-                    }
-                }
-            }).mount();
-        });
-    </script>
+	document.addEventListener('DOMContentLoaded', function () {
+		var primarySlider = new Splide('#primary_slider', {
+			type: 'loop',
+			heightRatio: 0.5,
+			pagination: false,
+			arrows: true,
+			cover: true,
+			autoplay: true,
+			interval: 2000,
+			drag: true,
+			rewind: true,
+			pauseOnHover: true,
+			pauseOnFocus: true,
+			perPage: 1, // Ensures one slide per page for mobile
+			breakpoints: {
+				768: {
+					perPage: 1, // Show one column per slide for mobile
+					arrows: true,
+				}
+			}
+		}).mount();
+	});
+</script>
 
 
 <script src='https://unpkg.com/aos@2.3.0/dist/aos.js'></script>
