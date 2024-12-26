@@ -39,7 +39,7 @@
 				</div>
 
 				<div class="footer-address">
-					<p><a href="https://maps.app.goo.gl/8brZWvkJdpw8jXtv5" target="_blank">
+					<p><a href="https://maps.app.goo.gl/bLVhrU43mHvuhSuVA" target="_blank">
 							The Douglas Brown Law Firm, LLC, 201 NW Railroad Ave Suite 112,
 							Hammond, LA 70401, United States
 						</a></p>
