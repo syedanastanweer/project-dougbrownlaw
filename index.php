@@ -557,12 +557,9 @@
 							<div class="services-content">
 								<h3 class="title">Criminal Defense</h3>
 								<p class="services-txt">
-									When you find yourself facing criminal charges, the weight of the legal system can
-									feel overwhelming. You need a seasoned criminal defense attorney who will stand by
-									your side, fiercely protecting your rights and fighting for your freedom. With three
-									decades of experience, I am committed to being the advocate you need during this
-									challenging time.
-
+									When you find yourself facing criminal charges, the weight of the legal system can feel overwhelming. You need a seasoned criminal defense attorney who will stand by your side, fiercely protecting your rights and fighting for your freedom. With three decades of experience, I am committed to being the advocate you need during this challenging time.
+									<br>
+									At the Law Office of Douglas D. Brown, we understand that being accused of a crime can be a life-altering experience. I take the time to listen to your side of the story, understand the unique circumstances surrounding your case, and develop a strong defense strategy tailored to your specific needs.
 								</p>
 							</div>
 						</div>

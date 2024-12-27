@@ -8114,12 +8114,37 @@ fieldset {
   padding-top: 32%;
 }
 
+/* @media screen and (min-width:800px) and (max-width:1300px) {} */
+
 .footer-address a:hover {
   color: #bb0b0b;
 }
 
 .list-unstyled a:hover {
   color: #bb0b0b;
+}
+
+.services-item {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.services-wrap {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+}
+
+.services-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.services-row > .col-lg-4 {
+  display: flex;
+  flex-direction: column;
 }
 
 @media screen and (min-width:800px) and (max-width:1300px) {

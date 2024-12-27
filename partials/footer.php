@@ -127,6 +127,38 @@
 	});
 </script>
 
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+    const adjustHeights = () => {
+        const rows = document.querySelectorAll('.services-row');
+        rows.forEach(row => {
+            const items = row.querySelectorAll('.services-item');
+            let maxHeight = 0;
+            
+            // Reset heights
+            items.forEach(item => item.style.height = 'auto');
+            
+            // Find the max height in the current row
+            items.forEach(item => {
+                const height = item.offsetHeight;
+                if (height > maxHeight) {
+                    maxHeight = height;
+                }
+            });
+            
+            // Set all items to the max height
+            items.forEach(item => item.style.height = `${maxHeight}px`);
+        });
+    };
+    
+    // Adjust heights on load
+    adjustHeights();
+    
+    // Adjust heights on window resize
+    window.addEventListener('resize', adjustHeights);
+});
+</script>
+
 
 <script src='https://unpkg.com/aos@2.3.0/dist/aos.js'></script>
 <!-- modernizr js -->
