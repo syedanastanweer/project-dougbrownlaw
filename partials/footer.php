@@ -159,6 +159,14 @@
 });
 </script>
 
+<script>
+	$(document).ready(function(){
+    $(".owl-carousel").owlCarousel({
+        nav: true, // Enable navigation
+        navText: ["<", ">"], // Add custom navigation text if needed
+    });
+});
+</script>
 
 <script src='https://unpkg.com/aos@2.3.0/dist/aos.js'></script>
 <!-- modernizr js -->

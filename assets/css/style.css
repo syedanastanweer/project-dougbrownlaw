@@ -586,7 +586,7 @@ blockquote p cite:before {
 .rs-carousel .owl-dots .owl-dot:hover,
 .rs-carousel .owl-dots .owl-dot.active {
   width: 40px;
-  background: #bb0b0b;
+  background: #ffffff;
   opacity: 1;
 }
 
@@ -8145,6 +8145,49 @@ fieldset {
 .services-row > .col-lg-4 {
   display: flex;
   flex-direction: column;
+}
+
+.rs-carousel .fa-angle-right {
+  font-size: 40px !important;
+  background-color: #ffffff !important;
+  padding: 0px 14px !important;
+  position: relative !important;
+  right: -60px !important;
+  border-radius: 50% !important;
+  top: -20px !important;
+}
+
+.rs-carousel .fa-angle-left {
+  font-size: 40px !important;
+  background-color: #ffffff !important;
+  padding: 0px 14px !important;
+  position: relative !important;
+  left: -60px !important;
+  border-radius: 50% !important;
+  top: -20px !important;
+}
+
+.owl-nav {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.owl-prev, .owl-next {
+  background-color: #ddd;
+  color: #000;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 18px;
+}
+
+.owl-prev:hover, .owl-next:hover {
+  background-color: #999;
 }
 
 @media screen and (min-width:800px) and (max-width:1300px) {

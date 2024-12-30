@@ -908,12 +908,12 @@
 			</h2>
 		</div>
 		<div class="rs-carousel owl-carousel" data-loop="true" data-items="2" data-margin="30" data-autoplay="true"
-			data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false"
-			data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1"
-			data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2"
-			data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2"
-			data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="2" data-md-device-nav="false"
-			data-md-device-dots="true" data-aos="fade-up" data-aos-duration="800">
+			data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="true"
+			data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="true"
+			data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="true"
+			data-ipad-device-dots="true" data-ipad-device2="2" data-ipad-device-nav2="true"
+			data-ipad-device-dots2="true" data-md-device="2" data-md-device-nav="true" data-md-device-dots="true"
+			data-aos="fade-up" data-aos-duration="800">
 			<div class="testi-item">
 				<div class="testi-wrap">
 					<div class="item-content-basic">
